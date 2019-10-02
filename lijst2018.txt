@@ -1,0 +1,4321 @@
+0001 - Queen - Bohemian Rhapsody.flac
+0002 - Eagles - Hotel California.flac
+0003 - Deep Purple - Child In Time.flac
+0004 - Led Zeppelin - Stairway To Heaven.flac
+0005 - Meat Loaf - Paradise By The Dashboard Light.flac
+0006 - Dire Straits - Brothers In Arms.flac
+0007 - John Lennon - Imagine.flac
+0008 - Alan Parsons Project - Old And Wise.flac
+0009 - Golden Earring - Radar Love.flac
+0010 - Bruce Springsteen - The River.flac
+0011 - Dire Straits - Sultans Of Swing.flac
+0012 - Beatles - Hey Jude.flac
+0013 - Doors - Riders On The Storm.flac
+0014 - Animals - The House Of The Rising Sun.flac
+0015 - Rolling Stones - Angie.flac
+0016 - Ac-Dc - Whole Lotta Rosie.flac
+0017 - Supertramp - School.flac
+0018 - Boudewijn De Groot - Avond.flac
+0019 - Simon & Garfunkel - Bridge Over Troubled Water.flac
+0020 - Dire Straits - Private Investigations.flac
+0021 - Rolling Stones - Sympathy For The Devil.flac
+0022 - Billy Joel - Piano Man.flac
+0023 - U2 - Sunday Bloody Sunday.flac
+0024 - Wim Sonneveld - Het Dorp.flac
+0025 - Billy Joel - Goodnight Saigon.flac
+0026 - Pink Floyd - Another Brick In The Wall (Part Two).flac
+0027 - Beatles - Let It Be.flac
+0028 - Beatles - Yesterday.flac
+0029 - U2 - With Or Without You.flac
+0030 - Ramses Shaffy & Liesbeth List - Pastorale.flac
+0031 - Moody Blues - Nights In White Satin.flac
+0032 - Eric Clapton - Tears In Heaven.flac
+0033 - Procol Harum - A Whiter Shade Of Pale.flac
+0034 - Bette Midler - The Rose.flac
+0035 - Klein Orkest - Over De Muur.flac
+0036 - Toto - Africa.flac
+0037 - Rolling Stones - Paint It Black.flac
+0038 - Beach Boys - God Only Knows.flac
+0039 - Eagles - The Last Resort.flac
+0040 - Fleetwood Mac - Go Your Own Way.flac
+0041 - Van Dik Hout - Stil In Mij.flac
+0042 - Simon & Garfunkel - The Sound Of Silence.flac
+0043 - Abba - Dancing Queen.flac
+0044 - R.e.m. - Losing My Religion.flac
+0045 - Queen - Who Wants To Live Forever.flac
+0046 - Stef Bos - Papa.flac
+0047 - Electric Light Orchestra - Mr. Blue Sky.flac
+0048 - Bob Dylan - Hurricane.flac
+0049 - Amazing Stroopwafels - Oude Maasweg.flac
+0050 - Creedence Clearwater Revival - I Put A Spell On You.flac
+0051 - David Bowie - Heroes.flac
+0052 - John Miles - Music.flac
+0053 - Phil Collins - In The Air Tonight.flac
+0054 - Queen - Somebody To Love.flac
+0055 - Prince - Purple Rain.flac
+0056 - Frans Halsema - Voor Haar.flac
+0057 - Deep Purple - Smoke On The Water.flac
+0058 - Beatles - A Day In The Life.flac
+0059 - Bryan Adams - Summer Of '69.flac
+0060 - Boudewijn De Groot - Testament.flac
+0061 - Mark & Clark Band - Worn Down Piano.flac
+0062 - Sting - Fragile.flac
+0063 - Kate Bush - Wuthering Heights.flac
+0064 - Alice Cooper - Halo Of Flies.flac
+0065 - Golden Earring - When The Lady Smiles.flac
+0066 - Cuby & The Blizzards - Window Of My Eyes.flac
+0067 - Guns N' Roses - November Rain.flac
+0068 - Pink Floyd - Wish You Were Here.flac
+0069 - Elvis Presley - Suspicious Minds.flac
+0070 - Abba - The Day Before You Came.flac
+0071 - Jacques Brel - Ne Me Quitte Pas.flac
+0072 - Eagles - Desperado.flac
+0073 - Bob Marley & The Wailers - No Woman, No Cry.flac
+0074 - Pink Floyd - Shine On You Crazy Diamond.flac
+0075 - Jackson Browne - The Load Out (Stay).flac
+0076 - Abba - The Winner Takes It All.flac
+0077 - 10cc - Dreadlock Holiday.flac
+0078 - Falco - Jeanny.flac
+0079 - Marillion - Kayleigh.flac
+0080 - Led Zeppelin - Whole Lotta Love.flac
+0081 - Beach Boys - Good Vibrations.flac
+0082 - David Bowie - Space Oddity.flac
+0083 - Boudewijn De Groot - Verdronken Vlinder.flac
+0084 - Bløf - Liefs Uit Londen.flac
+0085 - Queen - Don't Stop Me Now.flac
+0086 - Jimi Hendrix Experience - All Along The Watchtower.flac
+0087 - Rolling Stones - (I Can't Get No) Satisfaction.flac
+0088 - Bruce Springsteen - Born To Run.flac
+0089 - Kayak - Ruthless Queen.flac
+0090 - Alphaville - Forever Young.flac
+0091 - Cure - A Forest.flac
+0092 - Queen - I Want To Break Free.flac
+0093 - Genesis - Mama.flac
+0094 - 10cc - I'm Not In Love.flac
+0095 - Herman Brood & His Wild Romance - Saturday Night.flac
+0096 - Bløf - Aan De Kust.flac
+0097 - De Dijk - Als Ze Er Niet Is.flac
+0098 - Cat Stevens - Morning Has Broken.flac
+0099 - Neil Young - Heart Of Gold.flac
+0100 - Simon & Garfunkel - The Boxer.flac
+0101 - Abba - Eagle.flac
+0102 - Frank Boeijen Groep - Kronenburg Park (Ga Die Wereld Uit).flac
+0103 - Queen - Love Of My Life.flac
+0104 - Ike & Tina Turner - Proud Mary.flac
+0105 - R.e.m. - Everybody Hurts.flac
+0106 - Normaal - Oerend Hard.flac
+0107 - Black Sabbath - Paranoid.flac
+0108 - Mama's & The Papa's - California Dreamin'.flac
+0109 - Freddie Mercury & Montserrat Caballé - Barcelona.flac
+0110 - Van Morrison - Have I Told You Lately.flac
+0111 - Bob Dylan - Like A Rolling Stone.flac
+0112 - Michael Jackson - Billie Jean.flac
+0113 - Doors - Light My Fire.flac
+0114 - Otis Redding - (Sittin' On) The Dock Of The Bay.flac
+0115 - Al Stewart - Year Of The Cat.flac
+0116 - Marco Borsato - Margherita.flac
+0117 - Santana - Samba Pa Ti.flac
+0118 - Elvis Presley - In The Ghetto.flac
+0119 - Sinéad O'connor - Troy.flac
+0120 - Paul Simon - Graceland.flac
+0121 - U2 - I Still Haven't Found What I'm Looking For.flac
+0122 - Simple Minds - Belfast Child.flac
+0123 - Beatles - Blackbird.flac
+0124 - U2 - Pride (In The Name Of Love).flac
+0125 - Boston - More Than A Feeling.flac
+0126 - A-Ha - Take On Me.flac
+0127 - Peter Maffay - Du.flac
+0128 - Steve Harley & Cockney Rebel - Sebastian.flac
+0129 - America - A Horse With No Name.flac
+0130 - U2 - The Unforgettable Fire.flac
+0131 - Janis Joplin - Me And Bobby Mcgee.flac
+0132 - Beatles - Here Comes The Sun.flac
+0133 - U2 - Where The Streets Have No Name.flac
+0134 - Boudewijn De Groot - Welterusten Mijnheer De President.flac
+0135 - Jefferson Airplane - White Rabbit.flac
+0136 - Jimi Hendrix Experience - Hey Joe.flac
+0137 - Rolling Stones - You Can't Always Get What You Want.flac
+0138 - Kate Bush & Peter Gabriel - Don't Give Up.flac
+0139 - Gary Moore - Still Got The Blues.flac
+0140 - Ramses Shaffy - Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder.flac
+0141 - Michael Jackson - Thriller.flac
+0142 - Beatles - While My Guitar Gently Weeps.flac
+0143 - Henk Westbroek - Zelfs Je Naam Is Mooi.flac
+0144 - Lou Reed - Perfect Day.flac
+0145 - Van Morrison - Brown Eyed Girl.flac
+0146 - Kansas - Dust In The Wind.flac
+0147 - Eric Clapton - Wonderful Tonight.flac
+0148 - Kate Bush - The Man With The Child In His Eyes.flac
+0149 - Joe Cocker - With A Little Help From My Friends.flac
+0150 - Golden Earring - Twilight Zone.flac
+0151 - Acda & De Munnik - Niet Of Nooit Geweest.flac
+0152 - Doors - The End.flac
+0153 - Charles Aznavour - She.flac
+0154 - Police - Roxanne.flac
+0155 - Ramses Shaffy - Laat Me.flac
+0156 - Beatles - Strawberry Fields Forever.flac
+0157 - Dire Straits - Walk Of Life.flac
+0158 - Phil Collins - Against All Odds (Take A Look At Me Now).flac
+0159 - Sinéad O'connor - Nothing Compares 2 U.flac
+0160 - Queen - Killer Queen.flac
+0161 - Sting - Englishman In New York.flac
+0162 - Elvis Costello - I Want You.flac
+0163 - Bob Dylan - Blowin' In The Wind.flac
+0164 - Bruce Springsteen - Dancing In The Dark.flac
+0165 - Ultravox - Vienna.flac
+0166 - Dire Straits - Money For Nothing.flac
+0167 - Fleetwood Mac - Sara.flac
+0168 - Creedence Clearwater Revival - Bad Moon Rising.flac
+0169 - Peter Gabriel - Solsbury Hill.flac
+0170 - Bruce Springsteen - Born In The Usa.flac
+0171 - Robbie Williams - Angels.flac
+0172 - David Bowie & Queen - Under Pressure.flac
+0173 - Sting - Fields Of Gold.flac
+0174 - Pink Floyd - Money.flac
+0175 - Paul De Leeuw - Ik Heb Je Lief.flac
+0176 - Metallica - Nothing Else Matters.flac
+0177 - Yes - Owner Of A Lonely Heart.flac
+0178 - André Hazes - De Vlieger.flac
+0179 - Abba - Thank You For The Music.flac
+0180 - Art Garfunkel - Bright Eyes.flac
+0181 - Earth, Wind & Fire - Fantasy.flac
+0182 - Uriah Heep - Easy Livin'.flac
+0183 - Rolling Stones - Gimme Shelter.flac
+0184 - Police - Every Breath You Take.flac
+0185 - Kiss - I Was Made For Lovin' You.flac
+0186 - Santana - She's Not There.flac
+0187 - U2 - One.flac
+0188 - Kinks - Lola.flac
+0189 - Fleetwood Mac - Albatross.flac
+0190 - Queen - We Will Rock You.flac
+0191 - Barry Ryan - Eloise.flac
+0192 - Eric Clapton - Layla.flac
+0193 - Billy Joel - She's Always A Woman.flac
+0194 - Status Quo - Roll Over Lay Down.flac
+0195 - Rowwen Hèze - Limburg (Kwestie Van Geduld).flac
+0196 - Simple Minds - Don't You (Forget About Me).flac
+0197 - Seal - Kiss From A Rose.flac
+0198 - Crosby, Stills, Nash & Young - Teach Your Children.flac
+0199 - Zz Top - Gimme All Your Lovin'.flac
+0200 - Pink Floyd - Comfortably Numb.flac
+0201 - Phil Collins - Another Day In Paradise.flac
+0202 - Vangelis - Conquest Of Paradise.flac
+0203 - Frank Boeijen Groep - Zeg Me Dat Het Niet Zo Is.flac
+0204 - Chi Coltrane - Go Like Elijah.flac
+0205 - Leonard Cohen - Suzanne.flac
+0206 - Queen - Radio Ga Ga.flac
+0207 - Beatles - The Fool On The Hill.flac
+0208 - Temptations - Papa Was A Rollin' Stone.flac
+0209 - Herbert Grönemeyer - Halt Mich.flac
+0210 - Supertramp - The Logical Song.flac
+0211 - Creedence Clearwater Revival - Have You Ever Seen The Rain.flac
+0212 - Karin Bloemen - Geen Kind Meer.flac
+0213 - Chicago - If You Leave Me Now.flac
+0214 - Bryan Adams - (Everything I Do) I Do It For You.flac
+0215 - Barbra Streisand - Woman In Love.flac
+0216 - Neil Young - Like A Hurricane.flac
+0217 - Edith Piaf - Non, Je Ne Regrette Rien.flac
+0218 - Bruce Springsteen - Streets Of Philadelphia.flac
+0219 - Beatles - Eleanor Rigby.flac
+0220 - Focus - Hocus Pocus.flac
+0221 - Foreigner - I Want To Know What Love Is.flac
+0222 - Don Mclean - Vincent.flac
+0223 - Scorpions - Wind Of Change.flac
+0224 - Alice Cooper - How You Gonna See Me Now.flac
+0225 - Mike Oldfield - Tubular Bells.flac
+0226 - Beatles - The Long And Winding Road.flac
+0227 - Lynyrd Skynyrd - Sweet Home Alabama.flac
+0228 - Boudewijn De Groot - Jimmy.flac
+0229 - Chris De Burgh - The Lady In Red.flac
+0230 - Moody Blues - Question.flac
+0231 - Europe - The Final Countdown.flac
+0232 - Billy Joel - Leningrad.flac
+0233 - Fleetwood Mac - Need Your Love So Bad.flac
+0234 - U2 - New Year's Day.flac
+0235 - Crosby, Stills, Nash & Young - Our House.flac
+0236 - Nena - 99 Luftballons.flac
+0237 - Frank Sinatra - My Way.flac
+0238 - Neil Diamond - I Am..... I Said.flac
+0239 - Creedence Clearwater Revival - Who'll Stop The Rain.flac
+0240 - Bruce Springsteen - I'm On Fire.flac
+0241 - Beatles - Norwegian Wood.flac
+0242 - Eagles - One Of These Nights.flac
+0243 - Bee Gees - Stayin' Alive.flac
+0244 - Golden Earrings - Just A Little Bit Of Peace In My Heart.flac
+0245 - Bonnie Tyler - Total Eclipse Of The Heart.flac
+0246 - Babys - Everytime I Think Of You.flac
+0247 - Guns N' Roses - Knockin' On Heaven's Door.flac
+0248 - Cats - One Way Wind.flac
+0249 - Queen - We Are The Champions.flac
+0250 - Jimi Hendrix Experience - The Wind Cries Mary.flac
+0251 - Alice Cooper - School's Out.flac
+0252 - Bee Gees - How Deep Is Your Love.flac
+0253 - Genesis - Follow You Follow Me.flac
+0254 - Iron Butterfly - In-A-Gadda-Da-Vida.flac
+0255 - Van Halen - Jump.flac
+0256 - Blondie - Denis.flac
+0257 - Santana - Black Magic Woman.flac
+0258 - Paul Mccartney & Wings - Band On The Run.flac
+0259 - Elton John - Your Song.flac
+0260 - Bløf - Harder Dan Ik Hebben Kan.flac
+0261 - Orchestral Manoeuvres In The Dark - Maid Of Orleans.flac
+0262 - Joe Cocker - You Are So Beautiful.flac
+0263 - Eros Ramazzotti - Musica É.flac
+0264 - Beatles - Penny Lane.flac
+0265 - Joe Jackson - Is She Really Going Out With Him.flac
+0266 - Neil Young - Old Man.flac
+0267 - De Kast - In Nije Dei.flac
+0268 - Louis Armstrong - What A Wonderful World.flac
+0269 - Scene - Blauw.flac
+0270 - Jethro Tull - Locomotive Breath.flac
+0271 - Michael Jackson - Beat It.flac
+0272 - Rod Stewart - Sailing.flac
+0273 - Barry White - You're The First, The Last, My Everything.flac
+0274 - Doe Maar - 32 Jaar (Sinds 1 Dag Of 2).flac
+0275 - Tracy Chapman - Fast Car.flac
+0276 - Men At Work - Down Under.flac
+0277 - Stranglers - Golden Brown.flac
+0278 - Golden Earring - Another 45 Miles.flac
+0279 - De Dijk - Bloedend Hart.flac
+0280 - Wham! - Last Christmas.flac
+0281 - Cat Stevens - Father And Son.flac
+0282 - Bangles - Eternal Flame.flac
+0283 - Cream - White Room.flac
+0284 - Crosby, Stills, Nash & Young - Almost Cut My Hair.flac
+0285 - De Dijk - Mag Het Licht Uit.flac
+0286 - Bob Dylan - Knockin' On Heaven's Door.flac
+0287 - Ike & Tina Turner - River Deep, Mountain High.flac
+0288 - Simply Red - Holding Back The Years.flac
+0289 - Aretha Franklin - Think.flac
+0290 - Gilbert O'sullivan - Nothing Rhymed.flac
+0291 - Bee Gees - Words.flac
+0292 - Neil Diamond - Beautiful Noise.flac
+0293 - Waterboys - The Whole Of The Moon.flac
+0294 - John Denver - Take Me Home, Country Roads.flac
+0295 - Righteous Brothers - Unchained Melody.flac
+0296 - Don Mclean - American Pie.flac
+0297 - Metallica - One.flac
+0298 - Police - Message In A Bottle.flac
+0299 - Tina Turner - The Best.flac
+0300 - Supertramp - Dreamer.flac
+0301 - Toto - Stop Loving You.flac
+0302 - Coldplay - Clocks.flac
+0303 - Gerry Rafferty - Baker Street.flac
+0304 - Beatles - Get Back.flac
+0305 - De Dijk - Ik Kan Het Niet Alleen.flac
+0306 - Beach Boys - Sloop John B.flac
+0307 - Bee Gees - Massachusetts.flac
+0308 - Bon Jovi - Livin' On A Prayer.flac
+0309 - Whitney Houston - I Will Always Love You.flac
+0310 - Beatles - Michelle.flac
+0311 - Herman Van Veen - Liefde Van Later.flac
+0312 - Don Henley - The Boys Of Summer.flac
+0313 - Who - Pinball Wizard.flac
+0314 - Tom Waits - Tom Traubert's Blues (Waltzing Mathilda).flac
+0315 - Doors - L.a. Woman.flac
+0316 - Elvis Presley - Always On My Mind.flac
+0317 - Bon Jovi - Always.flac
+0318 - Talk Talk - Such A Shame.flac
+0319 - Clouseau - Daar Gaat Ze.flac
+0320 - George Michael - Careless Whisper.flac
+0321 - Toto - Hold The Line.flac
+0322 - Nazareth - Love Hurts.flac
+0323 - Iggy Pop - Lust For Life.flac
+0324 - Het Goede Doel - Alles Geprobeerd.flac
+0325 - Ten Sharp - You.flac
+0326 - Dire Straits - Romeo And Juliet.flac
+0327 - Elvis Presley - My Boy.flac
+0328 - Abba - Chiquitita.flac
+0329 - Nits - In The Dutch Mountains.flac
+0330 - Krezip - I Would Stay.flac
+0331 - Brainbox - Summertime.flac
+0332 - Fleetwood Mac - Oh Well (Part 1).flac
+0333 - Genesis - Land Of Confusion.flac
+0334 - Creedence Clearwater Revival - Suzie Q.flac
+0335 - Spandau Ballet - Through The Barricades.flac
+0336 - Jacques Brel - Mijn Vlakke Land.flac
+0337 - Fischer-Z - So Long.flac
+0338 - Who - My Generation.flac
+0339 - De Dijk - Binnen Zonder Kloppen.flac
+0340 - Thin Lizzy - Whiskey In The Jar.flac
+0341 - Elton John - Candle In The Wind '97.flac
+0342 - Sting - Russians.flac
+0343 - Blues Brothers - Everybody Needs Somebody To Love.flac
+0344 - Herman Van Veen - Anne.flac
+0345 - Rob De Nijs - Het Werd Zomer.flac
+0346 - Aretha Franklin - Respect.flac
+0347 - Van Halen - Runnin' With The Devil.flac
+0348 - Acda & De Munnik - Het Regent Zonnestralen.flac
+0349 - Leonard Cohen - So Long Marianne.flac
+0350 - Tina Turner - Private Dancer.flac
+0351 - Rob De Nijs - Foto Van Vroeger.flac
+0352 - Céline Dion - My Heart Will Go On.flac
+0353 - Lou Reed - Walk On The Wild Side.flac
+0354 - Status Quo - Whatever You Want.flac
+0355 - Abba - Happy New Year.flac
+0356 - Bachman-Turner Overdrive - You Ain't Seen Nothin' Yet.flac
+0357 - Frankie Goes To Hollywood - The Power Of Love.flac
+0358 - Madness - One Step Beyond.flac
+0359 - Guus Meeuwis & Vagant - Het Is Een Nacht... (Levensecht).flac
+0360 - Eagles - New Kid In Town.flac
+0361 - Michael Jackson - Earth Song.flac
+0362 - Creedence Clearwater Revival - I Heard It Through The Grapevine.flac
+0363 - George Baker Selection - Little Green Bag.flac
+0364 - Jim Croce - Time In A Bottle.flac
+0365 - Barbra Streisand - Memory.flac
+0366 - John Hiatt - Have A Little Faith In Me.flac
+0367 - Bob Dylan - The Times They Are A-Changin'.flac
+0368 - Elton John - Nikita.flac
+0369 - Tavares - Heaven Must Be Missing An Angel.flac
+0370 - Cats - Lea.flac
+0371 - Michel Fugain - Une Belle Histoire.flac
+0372 - Scorpions - Still Loving You.flac
+0373 - De Dijk - Dansen Op De Vulkaan.flac
+0374 - Herman Van Veen - Suzanne.flac
+0375 - Who - See Me, Feel Me.flac
+0376 - Andrea Bocelli - Con Te Partirò.flac
+0377 - Johnny Cash - Ring Of Fire.flac
+0378 - Melissa Etheridge - Like The Way I Do.flac
+0379 - Boudewijn De Groot - Het Land Van Maas En Waal.flac
+0380 - Beatles - Help!.flac
+0381 - Carole King - You've Got A Friend.flac
+0382 - Eagles - Lyin' Eyes.flac
+0383 - U2 - I Will Follow.flac
+0384 - 10cc - The Wall Street Shuffle.flac
+0385 - Elvis Presley - Jailhouse Rock.flac
+0386 - Mike Oldfield & Maggie Reilly - Moonlight Shadow.flac
+0387 - Beatles - Something.flac
+0388 - Fats Domino - Blueberry Hill.flac
+0389 - U2 - Beautiful Day.flac
+0390 - Michael Jackson - Ben.flac
+0391 - Simon & Garfunkel - Mrs. Robinson.flac
+0392 - Derek And The Dominos - Layla.flac
+0393 - Frans Halsema & Jenny Arean - Vluchten Kan Niet Meer.flac
+0394 - Split Enz - Message To My Girl.flac
+0395 - Beatles - Sgt. Pepper's Lonely Hearts Club Band.flac
+0396 - Live - Overcome.flac
+0397 - Buena Vista Social Club - Chan Chan.flac
+0398 - Paul Mccartney & Wings - Mull Of Kintyre.flac
+0399 - Meat Loaf - I'd Do Anything For Love (But I Won't Do That).flac
+0400 - Rolling Stones - Brown Sugar.flac
+0401 - Bruce Springsteen - My Hometown.flac
+0402 - John Denver - Annie's Song.flac
+0403 - B.b. King - The Thrill Is Gone.flac
+0404 - Elvis Presley - I Just Can't Help Believin'.flac
+0405 - Talking Heads - Psycho Killer.flac
+0406 - Paul De Leeuw & Simone Kleinsma - Zonder Jou.flac
+0407 - Shocking Blue - Venus.flac
+0408 - Rolling Stones - Wild Horses.flac
+0409 - Carly Simon - You're So Vain.flac
+0410 - Abba - Waterloo.flac
+0411 - Steppenwolf - Born To Be Wild.flac
+0412 - Abel - Onderweg.flac
+0413 - Shadows - Apache.flac
+0414 - Paolo Conte - Max.flac
+0415 - Armand - Ben Ik Te Min.flac
+0416 - Marco Borsato - De Waarheid.flac
+0417 - Supertramp - Fool's Overture.flac
+0418 - Kraftwerk - Autobahn.flac
+0419 - New Order - Blue Monday.flac
+0420 - David Bowie & Tina Turner - Tonight.flac
+0421 - Gé Reinders - Bloasmuziek.flac
+0422 - Aretha Franklin - I Say A Little Prayer.flac
+0423 - Beatles - I Am The Walrus.flac
+0424 - André Hazes - Zij Gelooft In Mij.flac
+0425 - Lionel Richie - Hello.flac
+0426 - Abba - I Have A Dream.flac
+0427 - Ub40 - Red Red Wine.flac
+0428 - Joe Cocker - Unchain My Heart.flac
+0429 - Les Poppys - Non Non Rien N'a Changé.flac
+0430 - Ram Jam - Black Betty.flac
+0431 - Status Quo - Down Down.flac
+0432 - Dave Brubeck Quartet - Take Five.flac
+0433 - Joe Jackson - Real Men.flac
+0434 - Who - Won't Get Fooled Again.flac
+0435 - Richard Harris - MacArthur Park.flac
+0436 - Ennio Morricone - Once Upon A Time In The West.flac
+0437 - Simple Minds - Alive And Kicking.flac
+0438 - Marco Borsato - Dromen Zijn Bedrog.flac
+0439 - Toto - Rosanna.flac
+0440 - Andrea Bocelli & Giorgia - Vivo Per Lei.flac
+0441 - Crowded House - Don't Dream It's Over.flac
+0442 - Joe Jackson - Be My Number Two.flac
+0443 - Buoys - Give Up Your Guns.flac
+0444 - Rolling Stones - Ruby Tuesday.flac
+0445 - Who - Overture.flac
+0446 - Alan Parsons Project - Eye In The Sky.flac
+0447 - Rolling Stones - Jumpin' Jack Flash.flac
+0448 - Eurythmics - Sweet Dreams (Are Made Of This).flac
+0449 - Earth, Wind & Fire - September.flac
+0450 - Supertramp - Give A Little Bit.flac
+0451 - Marvin Gaye - What's Going On.flac
+0452 - Ten Years After - I'm Going Home.flac
+0453 - Bløf - Dansen Aan Zee.flac
+0454 - Golden Earring - She Flies On Strange Wings.flac
+0455 - Elvis Costello - She.flac
+0456 - Eagles - Take It Easy.flac
+0457 - Clannad & Bono - In A Lifetime.flac
+0458 - Youssou N'dour & Neneh Cherry - 7 Seconds.flac
+0459 - John Denver - Leaving On A Jet Plane.flac
+0460 - Guus Meeuwis - Brabant.flac
+0461 - Zucchero Fornaciari - Il Volo.flac
+0462 - Enya - Orinoco Flow (Sail Away).flac
+0463 - Queen - Crazy Little Thing Called Love.flac
+0464 - Allman Brothers Band - Jessica.flac
+0465 - Nirvana - Smells Like Teen Spirit.flac
+0466 - Band - The Weight.flac
+0467 - Doobie Brothers - Listen To The Music.flac
+0468 - Earth & Fire - Storm And Thunder.flac
+0469 - Robbie Williams - Feel.flac
+0470 - Supertramp - Breakfast In America.flac
+0471 - Van Morrison - Moondance.flac
+0472 - Nits - Nescio.flac
+0473 - Gerry & The Pacemakers - You'll Never Walk Alone.flac
+0474 - Scene - Iedereen Is Van De Wereld.flac
+0475 - Nina Simone - Ain't Got No, I Got Life.flac
+0476 - Inxs - Never Tear Us Apart.flac
+0477 - Survivor - Eye Of The Tiger.flac
+0478 - Het Goede Doel - België (Is Er Leven Op Pluto...).flac
+0479 - Carpenters - Top Of The World.flac
+0480 - Hollies - He Ain't Heavy, He's My Brother.flac
+0481 - Bill Withers - Ain't No Sunshine.flac
+0482 - Hollies - The Air That I Breathe.flac
+0483 - Jimi Hendrix Experience - Purple Haze.flac
+0484 - Alan Parsons Project - The Turn Of A Friendly Card.flac
+0485 - Queen - A Kind Of Magic.flac
+0486 - James Taylor - You've Got A Friend.flac
+0487 - Alan Parsons Project - Don't Answer Me.flac
+0488 - Rolling Stones - Honky Tonk Women.flac
+0489 - Simon & Garfunkel - El Cóndor Pasa.flac
+0490 - Police - So Lonely.flac
+0491 - Bløf - Mooie Dag.flac
+0492 - Q65 - The Life I Live.flac
+0493 - Beatles - All You Need Is Love.flac
+0494 - Fleetwood Mac - Don't Stop.flac
+0495 - Dire Straits - Tunnel Of Love.flac
+0496 - Melanie - Beautiful People.flac
+0497 - Chris Rea - Driving Home For Christmas.flac
+0498 - Queen - You're My Best Friend.flac
+0499 - Madonna - Like A Prayer.flac
+0500 - Abba - Fernando.flac
+0501 - John Lennon - Working Class Hero.flac
+0502 - Chris Rea - Josephine.flac
+0503 - Fleetwood Mac - Rhiannon (Will You Ever Win).flac
+0504 - Who - Baba O'riley.flac
+0505 - Drs. P - Dodenrit.flac
+0506 - Eagles - Tequila Sunrise.flac
+0507 - Yes - Roundabout.flac
+0508 - Marco Borsato - Ik Leef Niet Meer Voor Jou.flac
+0509 - Abba - Mamma Mia.flac
+0510 - Dusty Springfield - Son Of A Preacher Man.flac
+0511 - Bee Gees - Spicks And Specks.flac
+0512 - Venice - The Family Tree.flac
+0513 - Queen - Another One Bites The Dust.flac
+0514 - Marvin Gaye - I Heard It Through The Grapevine.flac
+0515 - Prince - Sign 'o' The Times.flac
+0516 - Anita Meyer - Why Tell Me Why.flac
+0517 - Emerson, Lake & Palmer - Lucky Man.flac
+0518 - Bob Marley & The Wailers - Could You Be Loved.flac
+0519 - Pink Floyd - One Of These Days.flac
+0520 - Otis Redding - I've Got Dreams To Remember.flac
+0521 - Skik - Op Fietse.flac
+0522 - Talking Heads - Slippery People.flac
+0523 - Byrds - Mr. Tambourine Man.flac
+0524 - Cuby & The Blizzards - Appleknockers Flophouse.flac
+0525 - Anouk - Nobody's Wife.flac
+0526 - Ub40 - Kingston Town.flac
+0527 - Al Stewart - On The Border.flac
+0528 - Bon Jovi - Bed Of Roses.flac
+0529 - Rob De Nijs - Banger Hart.flac
+0530 - Verve - Bitter Sweet Symphony.flac
+0531 - Bryan Adams - Heaven.flac
+0532 - Chicago - 25 Or 6 To 4.flac
+0533 - Racoon - Love You More.flac
+0534 - Mark Knopfler - What It Is.flac
+0535 - Acda & De Munnik - Ren Lenny Ren.flac
+0536 - Boudewijn De Groot - Een Meisje Van 16.flac
+0537 - Rolling Stones - She's A Rainbow.flac
+0538 - Oasis - Wonderwall.flac
+0539 - Band Aid - Do They Know It's Christmas.flac
+0540 - Acda & De Munnik - Als Het Vuur Gedoofd Is.flac
+0541 - Marco Borsato - Waarom Nou Jij.flac
+0542 - Johnny Cash - A Boy Named Sue.flac
+0543 - Them - Gloria.flac
+0544 - De Poema's - Zij Maakt Het Verschil.flac
+0545 - Paul Simon - You Can Call Me Al.flac
+0546 - Beatles - In My Life.flac
+0547 - Roxy Music - Avalon.flac
+0548 - Boudewijn De Groot En Elly Nieman - Meester Prikkebeen.flac
+0549 - Creedence Clearwater Revival - Proud Mary.flac
+0550 - Police - Every Little Thing She Does Is Magic.flac
+0551 - Barry Manilow - Mandy.flac
+0552 - Annie Lennox - Why.flac
+0553 - Guus Meeuwis - Geef Mij Je Angst.flac
+0554 - Rolling Stones - Fool To Cry.flac
+0555 - Labi Siffre - (Something Inside) So Strong.flac
+0556 - Marco Borsato & Trijntje Oosterhuis - Wereld Zonder Jou.flac
+0557 - Elvis Presley - Can't Help Falling In Love With You.flac
+0558 - Stevie Wonder - Superstition.flac
+0559 - Peter Gabriel - Biko.flac
+0560 - Scott Mckenzie - San Francisco (Be Sure To Wear Flowers In Your Hair).flac
+0561 - Queen - The Show Must Go On.flac
+0562 - Reo Speedwagon - Keep On Loving You.flac
+0563 - Adamo - Vous Permettez, Monsieur.flac
+0564 - Beach Boys - Tears In The Morning.flac
+0565 - Janis Joplin - Mercedes Benz.flac
+0566 - Barbra Streisand & Barry Gibb - Guilty.flac
+0567 - Prince - When Doves Cry.flac
+0568 - Red Hot Chili Peppers - Under The Bridge.flac
+0569 - Lucifer - House For Sale.flac
+0570 - Rowwen Hèze - Bestel Mar.flac
+0571 - R.e.m. - The One I Love.flac
+0572 - Little River Band - It's A Long Way There.flac
+0573 - Sniff 'n' The Tears - Driver's Seat.flac
+0574 - Alderliefste, Ramses Shaffy & Liesbeth List - Laat Me, Vivre.flac
+0575 - Maggie Macneal - Terug Naar De Kust.flac
+0576 - Zager & Evans - In The Year 2525 (Exordium And Terminus).flac
+0577 - George Harrison - My Sweet Lord.flac
+0578 - U2 - All I Want Is You.flac
+0579 - Michael Jackson - Heal The World.flac
+0580 - Dr. Hook - Sylvia's Mother.flac
+0581 - Heart - Alone.flac
+0582 - De Dijk - Nergens Goed Voor.flac
+0583 - John Farnham - You're The Voice.flac
+0584 - Marvin Gaye - Sexual Healing.flac
+0585 - Ilse Delange - I Still Cry.flac
+0586 - Queen - Bicycle Race.flac
+0587 - Rolling Stones - Waiting On A Friend.flac
+0588 - David Bowie - China Girl.flac
+0589 - Keane - Somewhere Only We Know.flac
+0590 - David Bowie - Ziggy Stardust.flac
+0591 - Rolling Stones - It's All Over Now.flac
+0592 - Bee Gees - I Started A Joke.flac
+0593 - Dolly Parton - Jolene.flac
+0594 - Brainbox - Down Man.flac
+0595 - Kate Bush - Running Up That Hill.flac
+0596 - Dire Straits - Telegraph Road.flac
+0597 - Rare Earth - Get Ready.flac
+0598 - Clannad - Theme From 'Harry's Game'.flac
+0599 - Acda & De Munnik - De Kapitein Deel Ii.flac
+0600 - Céline Dion & Barbra Streisand - Tell Him.flac
+0601 - Herman Brood & His Wild Romance - Never Be Clever.flac
+0602 - Roy Orbison - In Dreams.flac
+0603 - Queen - Innuendo.flac
+0604 - Steve Harley & Cockney Rebel - Make Me Smile (Come Up And See Me).flac
+0605 - 5th Dimension - Aquarius (Let The Sunshine In).flac
+0606 - Bob Marley & The Wailers - Stir It Up.flac
+0607 - Bob Dylan - I Want You.flac
+0608 - Roger Glover & Guests - Love Is All.flac
+0609 - Marco Borsato - Binnen.flac
+0610 - Chuck Berry - Johnny B. Goode.flac
+0611 - John Denver - Calypso.flac
+0612 - John Denver & Placido Domingo - Perhaps Love.flac
+0613 - Beatles - She's Leaving Home.flac
+0614 - Golden Earring - Back Home.flac
+0615 - Dexy's Midnight Runners & Emerald Express - Come On Eileen.flac
+0616 - Cat Stevens - Lady D'arbanville.flac
+0617 - Barry Mcguire - Eve Of Destruction.flac
+0618 - Boudewijn De Groot - De Vondeling Van Ameland.flac
+0619 - Peter Gabriel - Sledgehammer.flac
+0620 - Earth, Wind and Fire & The Emotions - Boogie Wonderland.flac
+0621 - Emerson, Lake & Palmer - Peter Gunn Theme.flac
+0622 - Crowded House - Into Temptation.flac
+0623 - Het Goede Doel - Vriendschap.flac
+0624 - Babys - Isn't It Time.flac
+0625 - Katie Melua - Nine Million Bicycles.flac
+0626 - Lenny Kravitz - Let Love Rule.flac
+0627 - Gloria Gaynor - I Will Survive.flac
+0628 - Aphrodite's Child - Rain And Tears.flac
+0629 - Bryan Adams - Run To You.flac
+0630 - Gilbert Bécaud - Nathalie.flac
+0631 - Fleetwood Mac - Dreams.flac
+0632 - André Hazes - Geef Mij Je Angst.flac
+0633 - Midnight Oil - Beds Are Burning.flac
+0634 - David Bowie - Let's Dance.flac
+0635 - Ben E. King - Stand By Me.flac
+0636 - Aretha Franklin - (You Make Me Feel Like) A Natural Woman.flac
+0637 - Electric Light Orchestra - Can't Get It Out Of My Head.flac
+0638 - Paul De Leeuw - Vlieg Met Me Mee.flac
+0639 - Donna Summer - State Of Independence.flac
+0640 - David Bowie - Ashes To Ashes.flac
+0641 - Queen - These Are The Days Of Our Lives.flac
+0642 - Meat Loaf - You Took The Words Right Out Of My Mouth (Hot Summer Night).flac
+0643 - Crowded House - Weather With You.flac
+0644 - Cats - Marian.flac
+0645 - Talk Talk - It's My Life.flac
+0646 - Frank Zappa - Dancin' Fool.flac
+0647 - Ramses Shaffy - Sammy.flac
+0648 - Talking Heads - Once In A Lifetime.flac
+0649 - Bette Midler - Beast Of Burden.flac
+0650 - Bronski Beat - Smalltown Boy.flac
+0651 - Tim Hardin - How Can We Hang On To A Dream.flac
+0652 - Blue Nile - Tinseltown In The Rain.flac
+0653 - Bløf & Counting Crows - Holiday In Spain.flac
+0654 - Vicki Brown & New London Chorale - Stay With Me 'til The Morning.flac
+0655 - Bob Seger & The Silver Bullet Band - Against The Wind.flac
+0656 - Marco Borsato - Rood.flac
+0657 - Doe Maar - Is Dit Alles.flac
+0658 - Al Jarreau - Roof Garden.flac
+0659 - Beatles - Lucy In The Sky With Diamonds.flac
+0660 - Janis Ian - At Seventeen.flac
+0661 - Ralph Mctell - Streets Of London.flac
+0662 - Herbert Grönemeyer - Der Weg.flac
+0663 - Moody Blues - Tuesday Afternoon.flac
+0664 - Youp Van 't Hek - Flappie.flac
+0665 - André Hazes - Kleine Jongen.flac
+0666 - Heart - Crazy On You.flac
+0667 - Rolling Stones - Lady Jane.flac
+0668 - Bee Gees - Night Fever.flac
+0669 - Anouk - Michel.flac
+0670 - Cock Robin - The Promise You Made.flac
+0671 - R.e.m. - Drive.flac
+0672 - Seal - Crazy.flac
+0673 - Talking Heads - Road To Nowhere.flac
+0674 - Robert Plant - Big Log.flac
+0675 - J.j. Cale - After Midnight.flac
+0676 - Fischer-Z - The Worker.flac
+0677 - Kinks - Waterloo Sunset.flac
+0678 - Evanescence - My Immortal.flac
+0679 - Jeff Wayne & Justin Hayward - The Eve Of The War.flac
+0680 - Tears For Fears - Shout.flac
+0681 - Rod Stewart - Maggie May.flac
+0682 - Charles Aznavour - Yesterday When I Was Young.flac
+0683 - Frank Boeijen Groep - Zwart Wit.flac
+0684 - Adamo - Tombe La Neige.flac
+0685 - Guns N' Roses - Sweet Child O' Mine.flac
+0686 - Canned Heat - On The Road Again.flac
+0687 - Doors - Touch Me.flac
+0688 - D.c. Lewis - Mijn Gebed.flac
+0689 - Beatles - When I'm Sixty-Four.flac
+0690 - Doe Maar - De Bom.flac
+0691 - Stevie Wonder - I Wish.flac
+0692 - Mark Knopfler & James Taylor - Sailing To Philadelphia.flac
+0693 - Neil Diamond - Sweet Caroline.flac
+0694 - Marco Borsato - Speeltuin.flac
+0695 - Bløf - Blauwe Ruis.flac
+0696 - Eva Cassidy - Fields Of Gold.flac
+0697 - Meat Loaf - Bat Out Of Hell.flac
+0698 - Cheap Trick - I Want You To Want Me.flac
+0699 - Marco Borsato - De Bestemming.flac
+0700 - Abba - Knowing Me, Knowing You.flac
+0701 - Rolling Stones - Little Red Rooster.flac
+0702 - Lynyrd Skynyrd - Free Bird.flac
+0703 - Herman Van Veen - Hilversum 3.flac
+0704 - J.j. Cale - Cocaine.flac
+0705 - Cyndi Lauper - True Colors.flac
+0706 - Deep Purple - Black Night.flac
+0707 - Madness - Baggy Trousers.flac
+0708 - Rolling Stones - As Tears Go By.flac
+0709 - Bob Dylan - Just Like A Woman.flac
+0710 - George Michael - A Different Corner.flac
+0711 - Dubliners - The Wild Rover.flac
+0712 - Extreme - More Than Words.flac
+0713 - Aerosmith - Dream On.flac
+0714 - Earth & Fire - Song Of The Marching Children.flac
+0715 - André Hazes - Een Beetje Verliefd.flac
+0716 - Radiohead - Creep.flac
+0717 - Air - All I Need.flac
+0718 - Train - Drops Of Jupiter (Tell Me).flac
+0719 - David Bowie & Mick Jagger - Dancing In The Street.flac
+0720 - Crowded House - Four Seasons In One Day.flac
+0721 - Acda & De Munnik - Mooi Liedje.flac
+0722 - M.a.s.h. - Suicide Is Painless.flac
+0723 - Fool's Garden - Lemon Tree.flac
+0724 - Earth & Fire - Memories.flac
+0725 - Radiohead - Street Spirit (Fade Out).flac
+0726 - Cranberries - Zombie.flac
+0727 - Kinks - Celluloid Heroes.flac
+0728 - Marianne Rosenberg - Ich Bin Wie Du.flac
+0729 - Wet Wet Wet - Love Is All Around.flac
+0730 - Dan Hartman - Relight My Fire.flac
+0731 - Santana - Europa (Earth's Cry Heaven's Smile).flac
+0732 - Mama's & The Papa's - Monday Monday.flac
+0733 - Pat Benatar - Love Is A Battlefield.flac
+0734 - Meat Loaf - Two Out Of Three Ain't Bad.flac
+0735 - Steely Dan - Do It Again.flac
+0736 - Boney M. - Rivers Of Babylon.flac
+0737 - James Brown - Sex Machine.flac
+0738 - Cliff Richard & The Young Ones - Living Doll.flac
+0739 - Buddy Holly - Peggy Sue.flac
+0740 - Ilse Delange - I'm Not So Tough.flac
+0741 - De Poema's - Mijn Houten Hart.flac
+0742 - Rita Hovink - Laat Me Alleen.flac
+0743 - Creedence Clearwater Revival - Long As I Can See The Light.flac
+0744 - Doe Maar - Belle Hélène.flac
+0745 - Depeche Mode - Enjoy The Silence.flac
+0746 - Moody Blues - Boulevard De La Madeleine.flac
+0747 - Andrea Bocelli & Sarah Brightman - Time To Say Goodbye (Con Te Partirò).flac
+0748 - Roberta Flack - The First Time Ever I Saw Your Face.flac
+0749 - Cure - Close To Me.flac
+0750 - Kim Wilde - Cambodia.flac
+0751 - Cats - Scarlet Ribbons.flac
+0752 - Snowy White - Bird Of Paradise.flac
+0753 - Doors - Love Her Madly.flac
+0754 - Marco Borsato - Afscheid Nemen Bestaat Niet.flac
+0755 - Mike And The Mechanics - The Living Years.flac
+0756 - Mink Deville - Spanish Stroll.flac
+0757 - David Bowie - Sound And Vision.flac
+0758 - Donna Summer - MacArthur Park.flac
+0759 - James Brown - It's A Man's, Man's, Man's World.flac
+0760 - Paul Weller - You Do Something To Me.flac
+0761 - Jean-Michel Jarre - Oxygène Iv.flac
+0762 - Focus - Sylvia.flac
+0763 - Prince - 1999.flac
+0764 - Joe Cocker - N'oubliez Jamais.flac
+0765 - Benny Neyman - Waarom Fluister Ik Je Naam Nog.flac
+0766 - Rob De Nijs - Malle Babbe.flac
+0767 - Depeche Mode - Just Can't Get Enough.flac
+0768 - Pearl Jam - Alive.flac
+0769 - Elton John - Circle Of Life.flac
+0770 - Uk - Rendez-Vous 6.02.flac
+0771 - Alex Harvey - To Make My Life Beautiful.flac
+0772 - Abba - One Of Us.flac
+0773 - Mr. Mister - Broken Wings.flac
+0774 - Zucchero Fornaciari & Paul Young - Senza Una Donna.flac
+0775 - Electric Light Orchestra - Don't Bring Me Down.flac
+0776 - Yes - Close To The Edge.flac
+0777 - Frank Sinatra - Fly Me To The Moon.flac
+0778 - Steve Miller Band - Fly Like An Eagle.flac
+0779 - Spandau Ballet - Gold.flac
+0780 - Mocedades - Eres Tu.flac
+0781 - Fleetwood Mac - Tusk.flac
+0782 - Rolling Stones - Start Me Up.flac
+0783 - René Klijn - Mister Blue.flac
+0784 - Duran Duran - The Reflex.flac
+0785 - Trammps - Disco Inferno.flac
+0786 - Alphaville - Big In Japan.flac
+0787 - Beatles - A Hard Day's Night.flac
+0788 - Ilse Delange - World Of Hurt.flac
+0789 - André Hazes - Zeg Maar Niets Meer.flac
+0790 - Status Quo - Rockin' All Over The World.flac
+0791 - Beatles - Here, There And Everywhere.flac
+0792 - Joe Cocker - You Can Leave Your Hat On.flac
+0793 - Jim Croce - I'll Have To Say I Love You In A Song.flac
+0794 - Valensia - Gaia.flac
+0795 - Robbie Williams - She's The One.flac
+0796 - Anouk - Girl.flac
+0797 - Volumia! - Hou Me Vast.flac
+0798 - U2 - Bad.flac
+0799 - Bob Dylan - Lay Lady Lay.flac
+0800 - Bap - Kristallnaach.flac
+0801 - Barbra Streisand - The Way We Were.flac
+0802 - Hans De Booij - Annabel.flac
+0803 - Foreigner - Cold As Ice.flac
+0804 - Rolling Stones - Miss You.flac
+0805 - Bon Jovi - It's My Life.flac
+0806 - Bee Gees - Nights On Broadway.flac
+0807 - 4 Non Blondes - What's Up.flac
+0808 - Brian May - Too Much Love Will Kill You.flac
+0809 - Ph.d. - I Won't Let You Down.flac
+0810 - Bzn - Mon Amour.flac
+0811 - Jon & Vangelis - I'll Find My Way Home.flac
+0812 - Sade - Smooth Operator.flac
+0813 - Phil Collins - You'll Be In My Heart.flac
+0814 - Jeff Buckley - Hallelujah.flac
+0815 - Abba - Does Your Mother Know.flac
+0816 - Bløf - Omarm.flac
+0817 - Michel Sardou - Les Lacs Du Connemara.flac
+0818 - Soft Cell - Tainted Love.flac
+0819 - Roy Orbison - Oh, Pretty Woman.flac
+0820 - Boudewijn De Groot - Als De Rook Om Je Hoofd Is Verdwenen.flac
+0821 - Carpenters - (They Long To Be) Close To You.flac
+0822 - Tears For Fears - Sowing The Seeds Of Love.flac
+0823 - John Mayer - Daughters.flac
+0824 - Mecano - Hijo De La Luna.flac
+0825 - Crosby, Stills, Nash & Young - Carry On.flac
+0826 - Acda & De Munnik - Lopen Tot De Zon Komt.flac
+0827 - Duncan Browne - Wild Places.flac
+0828 - Patti Smith - Because The Night.flac
+0829 - Reinhard Mey - Als De Dag Van Toen.flac
+0830 - Bread - Guitar Man.flac
+0831 - George Michael - Jesus To A Child.flac
+0832 - Mud - Dyna-Mite.flac
+0833 - Bløf - Wat Zou Je Doen.flac
+0834 - Duran Duran - Save A Prayer.flac
+0835 - Jewel - Foolish Games.flac
+0836 - Commodores - Three Times A Lady.flac
+0837 - Coldplay - Viva La Vida.flac
+0838 - Ellen Foley - We Belong To The Night.flac
+0839 - Van Morrison - Bright Side Of The Road.flac
+0840 - Jacques Brel - Voir Un Ami Pleurer.flac
+0841 - Queen - Tie Your Mother Down.flac
+0842 - Within Temptation - Mother Earth.flac
+0843 - Bread - If.flac
+0844 - Twarres - Wêr Bisto.flac
+0845 - Phil Collins & Philip Bailey - Easy Lover.flac
+0846 - George Michael & Elton John - Don't Let The Sun Go Down On Me.flac
+0847 - Stevie Wonder - Isn't She Lovely.flac
+0848 - Toontje Lager - Stiekem Gedanst.flac
+0849 - Frank Boeijen Groep - De Verzoening.flac
+0850 - Coldplay - The Scientist.flac
+0851 - Animals - Bring It On Home To Me.flac
+0852 - Adele - Make You Feel My Love.flac
+0853 - Billy Joel - Honesty.flac
+0854 - Manfred Mann's Earth Band - Blinded By The Light.flac
+0855 - Zen - Hair.flac
+0856 - Johnny Cash - Hurt.flac
+0857 - Bruce Hornsby & The Range - The Way It Is.flac
+0858 - Sam Cooke - Wonderful World.flac
+0859 - Marco Borsato - Dochters.flac
+0860 - Madonna - Frozen.flac
+0861 - Aerosmith - I Don't Want To Miss A Thing.flac
+0862 - James Taylor - Fire And Rain.flac
+0863 - 10cc - Donna.flac
+0864 - Tears For Fears - Everybody Wants To Rule The World.flac
+0865 - Bruce Springsteen - Thunder Road.flac
+0866 - Madness - Night Boat To Cairo.flac
+0867 - Kinks - Sunny Afternoon.flac
+0868 - Peter Frampton - Show Me The Way.flac
+0869 - David Bowie - Life On Mars.flac
+0870 - Japan - Nightporter.flac
+0871 - Peter Koelewijn - Kl 204 (Als Ik God Was).flac
+0872 - Billy Joel - New York State Of Mind.flac
+0873 - Albert Hammond - The Free Electric Band.flac
+0874 - Guns N' Roses - Paradise City.flac
+0875 - Paul Simon - 50 Ways To Leave Your Lover.flac
+0876 - Paul De Leeuw & André Hazes - Droomland.flac
+0877 - Doors - People Are Strange.flac
+0878 - Metallica - Enter Sandman.flac
+0879 - Snow Patrol - Chasing Cars.flac
+0880 - Black - Wonderful Life.flac
+0881 - James Blunt - You're Beautiful.flac
+0882 - Elvis Presley - Love Me Tender.flac
+0883 - Alannah Myles - Black Velvet.flac
+0884 - Tanita Tikaram - Twist In My Sobriety.flac
+0885 - Dolly Parton - I Will Always Love You.flac
+0886 - Percy Sledge - When A Man Loves A Woman.flac
+0887 - Cuby & The Blizzards - Somebody Will Know Someday.flac
+0888 - Paul Mccartney & The Frog Chorus - We All Stand Together.flac
+0889 - Eric Clapton - Let It Grow.flac
+0890 - David Bowie - Golden Years.flac
+0891 - Françoise Hardy - Tous Les Garçons Et Les Filles.flac
+0892 - U2 - Stuck In A Moment You Can't Get Out Of.flac
+0893 - Abba - Sos.flac
+0894 - Boomtown Rats - I Don't Like Mondays.flac
+0895 - Neil Young - Rockin' In The Free World.flac
+0896 - Sweet - Fox On The Run.flac
+0897 - Santa Esmeralda - Don't Let Me Be Misunderstood.flac
+0898 - Neet Oét Lottum - Hald Mich 's Vas.flac
+0899 - André Hazes - Bloed, Zweet En Tranen.flac
+0900 - A-Ha - Hunting High And Low.flac
+0901 - Shirley Bassey - This Is My Life.flac
+0902 - Alessandro Safina - Luna.flac
+0903 - Eurythmics - There Must Be An Angel (Playing With My Heart).flac
+0904 - Marianne Faithfull - The Ballad Of Lucy Jordan.flac
+0905 - Patrick Bruel - Casser La Voix.flac
+0906 - Kate Bush - Cloudbusting.flac
+0907 - Pearl Jam - Black.flac
+0908 - Tom Jones - Green Green Grass Of Home.flac
+0909 - Abba - Gimme! Gimme! Gimme! (A Man After Midnight).flac
+0910 - Anna & Kate Mcgarrigle - Complainte Pour Sainte Catherine.flac
+0911 - Beatles - Lady Madonna.flac
+0912 - Pointer Sisters - Fire.flac
+0913 - Raymond Van Het Groenewoud - Je Veux De L'amour.flac
+0914 - Crosby, Stills & Nash - Suite Judy Blue Eyes.flac
+0915 - Dusty Springfield - I Close My Eyes (And Count To Ten).flac
+0916 - Neil Diamond - September Morn'.flac
+0917 - Bee Gees - Don't Forget To Remember.flac
+0918 - Pussycat - Mississippi.flac
+0919 - Kayak - Starlight Dancer.flac
+0920 - Red Hot Chili Peppers - Californication.flac
+0921 - Jefferson Airplane - Somebody To Love.flac
+0922 - Ray Charles - Georgia On My Mind.flac
+0923 - Cream - Sunshine Of Your Love.flac
+0924 - Pink Floyd - The Great Gig In The Sky.flac
+0925 - Elvis Costello - Good Year For The Roses.flac
+0926 - Chris Isaak - Wicked Game.flac
+0927 - Carpenters - Yesterday Once More.flac
+0928 - Frank Sinatra - New York New York.flac
+0929 - Weather Girls - It's Raining Men.flac
+0930 - Neil Young - Harvest.flac
+0931 - Radiohead - Karma Police.flac
+0932 - David Bowie - Rebel Rebel.flac
+0933 - Amy Winehouse - Rehab.flac
+0934 - Coldplay - Fix You.flac
+0935 - John Lennon - Woman.flac
+0936 - Phil Collins - Can't Stop Loving You.flac
+0937 - Beatles - We Can Work It Out.flac
+0938 - Donovan - Atlantis.flac
+0939 - Bee Gees - Tragedy.flac
+0940 - Michael Bublé - Home.flac
+0941 - Goo Goo Dolls - Iris.flac
+0942 - Trammps - Shout.flac
+0943 - Ramones - Rock 'n' Roll High School.flac
+0944 - Nina Simone - My Baby Just Cares For Me.flac
+0945 - Dolly Parton & Kenny Rogers - Islands In The Stream.flac
+0946 - Kyteman - Sorry.flac
+0947 - Zz & De Maskers - La Comparsa.flac
+0948 - Nena & Kim Wilde - Anyplace Anywhere Anytime.flac
+0949 - Acdc - Thunderstruck.flac
+0950 - Monty Python - Always Look On The Bright Side Of Life.flac
+0951 - Chris Isaak - Blue Hotel.flac
+0952 - Stevie Wonder - Sir Duke.flac
+0953 - De Dijk - Als Het Golft.flac
+0954 - Herbert Grönemeyer - Mensch.flac
+0955 - Joy Division - Love Will Tear Us Apart.flac
+0956 - Willeke Alberti - Telkens Weer.flac
+0957 - The - Uncertain Smile.flac
+0958 - Mavericks - Dance The Night Away.flac
+0959 - Elvis Presley - It's Now Or Never.flac
+0960 - Vaya Con Dios - What's A Woman.flac
+0961 - Anouk - Lost.flac
+0962 - Donna Summer - I Feel Love.flac
+0963 - Byrds - Eight Miles High.flac
+0964 - Roxy Music - Love Is The Drug.flac
+0965 - Queen - '39.flac
+0966 - Pearl Jam - Just Breathe.flac
+0967 - Boudewijn De Groot - Een Tip Van De Sluier.flac
+0968 - Ekseption - Air.flac
+0969 - Mary J. Blige & U2 - One.flac
+0970 - Stealers Wheel - Late Again.flac
+0971 - Pink Floyd - See Emily Play.flac
+0972 - Everly Brothers - On The Wings Of A Nightingale.flac
+0973 - Elvis Presley - Burning Love.flac
+0974 - Dave Berry - This Strange Effect.flac
+0975 - Michael Jackson - Man In The Mirror.flac
+0976 - Osmonds - Crazy Horses.flac
+0977 - Red Hot Chili Peppers - Snow (Hey Oh).flac
+0978 - Albert Hammond - I Don't Wanna Die In An Air Disaster.flac
+0979 - Procol Harum - A Salty Dog.flac
+0980 - Led Zeppelin - Immigrant Song.flac
+0981 - Steely Dan - Rikki Don't Lose That Number.flac
+0982 - Procol Harum - Homburg.flac
+0983 - Simon & Garfunkel - Scarborough Fair.flac
+0984 - Céline Dion - The Power Of Love.flac
+0985 - City To City - The Road Ahead (Miles Of The Unknown).flac
+0986 - Level 42 - Lessons In Love.flac
+0987 - Céline Dion - Pour Que Tu M'aimes Encore.flac
+0988 - Dido - White Flag.flac
+0989 - Moody Blues - Had To Fall In Love.flac
+0990 - Grace Jones - La Vie En Rose.flac
+0991 - Ry Cooder - He'll Have To Go.flac
+0992 - Fleetwood Mac - Everywhere.flac
+0993 - Neil Diamond - Girl You'll Be A Woman Soon.flac
+0994 - Pink Floyd - Time.flac
+0995 - Amy Winehouse - You Know I'm No Good.flac
+0996 - Buffalo Springfield - Expecting To Fly.flac
+0997 - Johnny Cash - A Thing Called Love.flac
+0998 - Crosby, Stills, Nash & Young - Helpless.flac
+0999 - Amy Winehouse & Mark Ronson - Valerie.flac
+1000 - Rolling Stones - Midnight Rambler.flac
+1001 - Stealers Wheel - Stuck In The Middle With You.flac
+1002 - Bob Seger & The Silver Bullet Band - Mainstreet.flac
+1003 - Rolling Stones - Time Is On My Side.flac
+1004 - Demis Roussos - My Friend The Wind.flac
+1005 - Walker Brothers - No Regrets.flac
+1006 - Roxy Music - Jealous Guy.flac
+1007 - Moody Blues - I'm Just A Singer (In A Rock And Roll Band).flac
+1008 - Alanis Morissette - Ironic.flac
+1009 - Long John Baldry - (Walk Me Out In The) Morning Dew.flac
+1010 - Neil Diamond - Love On The Rocks.flac
+1011 - Blue Diamonds - Ramona.flac
+1012 - Deep Purple - Woman From Tokyo.flac
+1013 - Roxette - It Must Have Been Love.flac
+1014 - Golden Earrings - Sound Of The Screaming Day.flac
+1015 - Otis Redding - I've Been Loving You Too Long.flac
+1016 - Simon & Garfunkel - Cecilia.flac
+1017 - Neil Diamond - Song Sung Blue.flac
+1018 - Michael Jackson - Smooth Criminal.flac
+1019 - Bruce Springsteen - Badlands.flac
+1020 - Nina Hagen Band - Unbeschreiblich Weiblich.flac
+1021 - Peter Sarstedt - Where Do You Go To (My Lovely).flac
+1022 - Byrds - Turn! Turn! Turn! (To Everything There Is A Season).flac
+1023 - Boudewijn De Groot - Een Wonderkind Van 50.flac
+1024 - Doe Maar - Smoorverliefd.flac
+1025 - Norah Jones - Don't Know Why.flac
+1026 - Rolling Stones - The Last Time.flac
+1027 - Katie Melua - The Closest Thing To Crazy.flac
+1028 - Alice Cooper - Elected.flac
+1029 - Rob De Nijs - Open Einde.flac
+1030 - Alison Moyet - That Ole Devil Called Love.flac
+1031 - Alain Clark - Father and Friend.flac
+1032 - Abba - Take A Chance On Me.flac
+1033 - Frida Boccara - Cent Mille Chansons.flac
+1034 - Beatles - Yellow Submarine.flac
+1035 - Fleetwood Mac - Little Lies.flac
+1036 - Frankie Goes To Hollywood - Relax.flac
+1037 - Moody Blues - Go Now!.flac
+1038 - Paul Mccartney & Wings - Live And Let Die.flac
+1039 - Roy Orbison - Only The Lonely.flac
+1040 - Randy Newman - Birmingham.flac
+1041 - Bots - Zeven Dagen Lang.flac
+1042 - Elvis Presley - Are You Lonesome Tonight.flac
+1043 - Cliff Richard - Miss You Nights.flac
+1044 - Bee Gees - You Win Again.flac
+1045 - Beatles - I Saw Her Standing There.flac
+1046 - Elvis Presley - Heartbreak Hotel.flac
+1047 - Frank Sinatra - I've Got You Under My Skin.flac
+1048 - Hot Chocolate - Emma.flac
+1049 - Massive Attack - Unfinished Sympathy.flac
+1050 - Counting Crows - Mr. Jones.flac
+1051 - Monkees - I'm A Believer.flac
+1052 - Creedence Clearwater Revival - Born On The Bayou.flac
+1053 - Coldplay - Speed Of Sound.flac
+1054 - John Mayall - Room To Move.flac
+1055 - Kinks - You Really Got Me.flac
+1056 - Madonna - La Isla Bonita.flac
+1057 - Zombies - Time Of The Season.flac
+1058 - Walker Brothers - The Sun Ain't Gonna Shine Anymore.flac
+1059 - Kings Of Leon - Sex On Fire.flac
+1060 - Muse - Uprising.flac
+1061 - Golden Earring - Going To The Run.flac
+1062 - Beatles - Back In The U.s.s.r..flac
+1063 - Adele - Chasing Pavements.flac
+1064 - Caro Emerald - A Night Like This.flac
+1065 - Snow Patrol - Run.flac
+1066 - Cars - Drive.flac
+1067 - Daniël Lohues - Hier Kom Ik Weg.flac
+1068 - Ekseption - The 5th.flac
+1069 - Earth & Fire - Weekend.flac
+1070 - Amy Macdonald - This Is The Life.flac
+1071 - Freddie Aguilar - Anak.flac
+1072 - Guus Meeuwis - Tranen Gelachen.flac
+1073 - Clouseau - Passie.flac
+1074 - Bee Gees - Lonely Days.flac
+1075 - Beatles - Twist And Shout.flac
+1076 - Adele - Someone Like You.flac
+1077 - Ike & Tina Turner - Nutbush City Limits.flac
+1078 - Bryan Ferry - Let's Stick Together.flac
+1079 - Righteous Brothers - You've Lost That Lovin' Feelin'.flac
+1080 - Rowwen Hèze - November.flac
+1081 - Abc - All Of My Heart.flac
+1082 - Michael Bublé - Feeling Good.flac
+1083 - Kiss - Sure Know Something.flac
+1084 - Ilse Delange - Miracle.flac
+1085 - Booker T. & The Mg.'s - Time Is Tight.flac
+1086 - Willie Nelson - Always On My Mind.flac
+1087 - David Bowie & The Pat Metheny Group - This Is Not America.flac
+1088 - Kane - Rain Down On Me.flac
+1089 - Toto - I'll Be Over You.flac
+1090 - Supersister - She Was Naked.flac
+1091 - Cats - Rock 'n' Roll (I Gave You The Best Years Of My Life).flac
+1092 - David Bowie - Absolute Beginners.flac
+1093 - Clash - London Calling.flac
+1094 - No Doubt - Don't Speak.flac
+1095 - Herman's Hermits - No Milk Today.flac
+1096 - Dizzy Man's Band - The Opera.flac
+1097 - Cats - Where Have I Been Wrong.flac
+1098 - Simply Red - If You Don't Know Me By Now.flac
+1099 - Ruth Jacott & Paul De Leeuw - Blijf Bij Mij.flac
+1100 - Cats - Why.flac
+1101 - Styx - Babe.flac
+1102 - George Michael - Cowboys And Angels.flac
+1103 - Peter Fox - Haus Am See.flac
+1104 - Dusty Springfield - Summer Is Over.flac
+1105 - Adele - Rolling In The Deep.flac
+1106 - Robert Long - Kalverliefde.flac
+1107 - Free - All Right Now.flac
+1108 - Phil Collins - You Can't Hurry Love.flac
+1109 - Frank Sinatra - It Was A Very Good Year.flac
+1110 - Billie Holiday - Summertime.flac
+1111 - Mumford & Sons - The Cave.flac
+1112 - Elton John - Sorry Seems To Be The Hardest Word.flac
+1113 - De Kast - Woorden Zonder Woorden.flac
+1114 - AC-DC - Highway To Hell.flac
+1115 - Dire Straits - On Every Street.flac
+1116 - Norah Jones - Sunrise.flac
+1117 - Eros Ramazzotti & Tina Turner - Cose Della Vita (Can't Stop Thinking Of You).flac
+1118 - Neil Diamond & Barbra Streisand - You Don't Bring Me Flowers.flac
+1119 - Eva Cassidy - Songbird.flac
+1120 - Chi Coltrane - You Were My Friend.flac
+1121 - Them - It's All Over Now, Baby Blue.flac
+1122 - Beatles - Across The Universe.flac
+1123 - White Soxx - Versailles.flac
+1124 - Bill Haley & His Comets - Rock Around The Clock.flac
+1125 - Charles Aznavour - La Mama.flac
+1126 - Chic - Le Freak.flac
+1127 - Matthias Reim - Verdammt Ich Lieb' Dich.flac
+1128 - John Legend - Ordinary People.flac
+1129 - Leonard Cohen - Hallelujah.flac
+1130 - Adele - Set Fire To The Rain.flac
+1131 - Dire Straits - Why Worry.flac
+1132 - Yes - Yours Is No Disgrace.flac
+1133 - Abba - Lay All Your Love On Me.flac
+1134 - Enigma - Sadeness (Part 1).flac
+1135 - Ronan Keating - When You Say Nothing At All.flac
+1136 - Pink Floyd - Echoes.flac
+1137 - Stef Bos - Ik Heb Je Lief.flac
+1138 - Krezip - Sweet Goodbyes.flac
+1139 - Rolling Stones - Let's Spend The Night Together.flac
+1140 - Anouk - Sacrifice.flac
+1141 - Kings Of Leon - Use Somebody.flac
+1142 - R.e.m. - Man On The Moon.flac
+1143 - Elton John - Daniel.flac
+1144 - Elvis Presley - (You're The) Devil In Disguise.flac
+1145 - Police - Walking On The Moon.flac
+1146 - Michael Jackson - Don't Stop 'til You Get Enough.flac
+1147 - Charlie Daniels Band - The Devil Went Down To Georgia.flac
+1148 - Paul Simon - Late In The Evening.flac
+1149 - Lee Towers - You'll Never Walk Alone.flac
+1150 - Amalia Rodrigues - Uma Casa Portugesa.flac
+1151 - Astrud Gilberto - The Girl From Ipanema.flac
+1152 - Cyndi Lauper - Time After Time.flac
+1153 - Slade - Merry Xmas Everybody.flac
+1154 - Leo Sayer - Orchard Road.flac
+1155 - Neil Young - Only Love Can Break Your Heart.flac
+1156 - Madonna - Live To Tell.flac
+1157 - Muse - Knights Of Cydonia.flac
+1158 - Coldplay - Yellow.flac
+1159 - Manfred Mann's Earth Band - Davy's On The Road Again.flac
+1160 - Beatles - And I Love Her.flac
+1161 - Laura Pausini - La Solitudine.flac
+1162 - Billy Joel - Just The Way You Are.flac
+1163 - De Kast - Hart Van Mijn Gevoel.flac
+1164 - Animals - We've Gotta Get Out Of This Place.flac
+1165 - Pet Shop Boys - It's A Sin.flac
+1166 - Killers - Human.flac
+1167 - Jethro Tull - Bourée.flac
+1168 - Village People - Y.m.c.a..flac
+1169 - Simon & Garfunkel - Homeward Bound.flac
+1170 - 10cc - I'm Mandy Fly Me.flac
+1171 - Sparks - This Town Ain't Big Enough For Both Of Us.flac
+1172 - Radiohead - Paranoid Android.flac
+1173 - Elvis Presley - One Night.flac
+1174 - David Bowie - The Jean Genie.flac
+1175 - Rolling Stones - Under My Thumb.flac
+1176 - Bløf - Aanzoek Zonder Ringen.flac
+1177 - Blood, Sweat & Tears - Spinning Wheel.flac
+1178 - Anneke Grönloh - Brandend Zand.flac
+1179 - Zz Top - Sharp Dressed Man.flac
+1180 - Buffalo Springfield - For What It's Worth.flac
+1181 - Bette Midler - From A Distance.flac
+1182 - Yes - I've Seen All Good People.flac
+1183 - Elbow - One Day Like This.flac
+1184 - Sweet - The Ballroom Blitz.flac
+1185 - Johnny Guitar Watson - A Real Mother For Ya.flac
+1186 - Beatles - For No One.flac
+1187 - Robert Cray Band - Right Next Door (Because Of Me).flac
+1188 - Beatles - Eight Days A Week.flac
+1189 - Jacques Brel - Marieke.flac
+1190 - Fish - A Gentleman's Excuse Me.flac
+1191 - Rob De Nijs - Alles Wat Ademt.flac
+1192 - Jeff Wayne & Justin Hayward - Forever Autumn.flac
+1193 - Melanie & The Edwin Hawkins Singers - Lay Down (Candles In The Rain).flac
+1194 - Diana Ross - Theme From Mahogany (Do You Know Where You're Going To).flac
+1195 - Sting - Moon Over Bourbon Street.flac
+1196 - Live - Lightning Crashes.flac
+1197 - Anastacia - I'm Outta Love.flac
+1198 - Roberta Flack - Killing Me Softly With His Song.flac
+1199 - Bram Vermeulen - De Wedstrijd.flac
+1200 - Gotye Ft. Kimbra - Somebody That I Used To Know.flac
+1201 - Toon Hermans - 24 Rozen.flac
+1202 - Cliff Richard - The Young Ones.flac
+1203 - Alicia Keys - Empire State Of Mind.flac
+1204 - Coldplay - Paradise.flac
+1205 - George Baker Selection - Paloma Blanca.flac
+1206 - Keane - Everybody's Changing.flac
+1207 - Percy Sledge - My Special Prayer.flac
+1208 - Vera Lynn - We'll Meet Again.flac
+1209 - Nilsson - Without You.flac
+1210 - Enya - Only Time.flac
+1211 - Barbra Streisand - Papa Can You Hear Me.flac
+1212 - Redbone - We Were All Wounded At Wounded Knee.flac
+1213 - Amy Winehouse - Back To Black.flac
+1214 - Snow Patrol - Shut Your Eyes.flac
+1215 - Cliff Richard - Living Doll.flac
+1216 - Air Supply - All Out Of Love.flac
+1217 - Dan Fogelberg - Nether Lands.flac
+1218 - Supertramp - Hide In Your Shell.flac
+1219 - Sammy Davis Jr. - Mr. Bojangles.flac
+1220 - Within Temptation - Ice Queen.flac
+1221 - Toto - Pamela.flac
+1222 - Randy Crawford - One Day I'll Fly Away.flac
+1223 - Queensrÿche - Silent Lucidity.flac
+1224 - Prince & The Revolution - Kiss.flac
+1225 - Vicky Leandros - Après Toi.flac
+1226 - Michael Jackson - Dirty Diana.flac
+1227 - Ilse Delange - So Incredible.flac
+1228 - Marianne Faithfull - As Tears Go By.flac
+1229 - Beach Boys - I Can Hear Music.flac
+1230 - Beatles - Girl.flac
+1231 - Eagles - Peaceful Easy Feeling.flac
+1232 - Anouk - For Bitter Or Worse.flac
+1233 - Brigitte Kaandorp & Herman Finkers - Duet.flac
+1234 - Steve Miller Band - The Joker.flac
+1235 - Rage Against The Machine - Killing In The Name.flac
+1236 - Billy Paul - Me And Mrs. Jones.flac
+1237 - Cult - She Sells Sanctuary.flac
+1238 - Nick & Simon - Pak Maar M'n Hand.flac
+1239 - Bette Midler - Wind Beneath My Wings.flac
+1240 - Foo Fighters - Everlong.flac
+1241 - Doobie Brothers - Long Train Runnin'.flac
+1242 - Muse - Plug In Baby.flac
+1243 - Foo Fighters - The Pretender.flac
+1244 - Live - I Alone.flac
+1245 - Phil Collins - I Wish It Would Rain Down.flac
+1246 - Sweet - Block Buster!.flac
+1247 - Who - Substitute.flac
+1248 - Oasis - Don't Look Back In Anger.flac
+1249 - Michael Jackson - Bad.flac
+1250 - Julie Covington - Don't Cry For Me Argentina.flac
+1251 - Ub40 - Food For Thought.flac
+1252 - Genesis - Jesus He Knows Me.flac
+1253 - Queen - I Want It All.flac
+1254 - Smokie - Living Next Door To Alice.flac
+1255 - Rowwen Hèze - Auto, Vliegtuug.flac
+1256 - Procol Harum - Grand Hotel.flac
+1257 - Abc - The Look Of Love.flac
+1258 - U2 - Vertigo.flac
+1259 - Phil Lynott - Old Town.flac
+1260 - Metallica - Sad But True.flac
+1261 - Bløf - Alles Is Liefde.flac
+1262 - Blue Öyster Cult - Don't Fear The Reaper.flac
+1263 - Wiz Stars - A Brand New Day.flac
+1264 - Sandy Coast - The Eyes Of Jenny.flac
+1265 - Red Hot Chili Peppers - Dani California.flac
+1266 - Eric Clapton - Forever Man.flac
+1267 - Earth & Fire - Seasons.flac
+1268 - Racoon - No Mercy.flac
+1269 - Electric Light Orchestra - Livin' Thing.flac
+1270 - Nirvana - Come As You Are.flac
+1271 - Vader Abraham - In 't Kleine Café Aan De Haven.flac
+1272 - T'pau - China In Your Hand.flac
+1273 - Christina Aguilera - Hurt.flac
+1274 - Joey Dyser - 100 Years.flac
+1275 - Marc Cohn - Walking In Memphis.flac
+1276 - Robert Long - Flink Zijn.flac
+1277 - Andrew Gold - Lonely Boy.flac
+1278 - Alison Moyet - All Cried Out.flac
+1279 - Zijlstra - Durgerdam Slaapt.flac
+1280 - Steve Winwood - While You See A Chance.flac
+1281 - Wham! - Wake Me Up Before You Go Go.flac
+1282 - Cats - Times Were When.flac
+1283 - Tsjechov - Vanmorgen Vloog Ze Nog.flac
+1284 - Adele - Skyfall.flac
+1285 - John Denver - Thank God I'm A Country Boy.flac
+1286 - 3 Doors Down - Kryptonite.flac
+1287 - Lisa - Hallelujah.flac
+1288 - Propaganda - Duel (Eye To Eye).flac
+1289 - Ultravox - Dancing With Tears In My Eyes.flac
+1290 - James Blunt - Goodbye My Lover.flac
+1291 - Willy Alberti - De Glimlach Van Een Kind.flac
+1292 - Stevie Wonder - I Just Called To Say I Love You.flac
+1293 - Bruce Springsteen - Secret Garden.flac
+1294 - Axis - Someone.flac
+1295 - Gladys Knight & The Pips - Midnight Train To Georgia.flac
+1296 - Muse - Starlight.flac
+1297 - Bryan Adams - Have You Ever Really Loved A Woman.flac
+1298 - Doe Maar - Pa.flac
+1299 - Beatles - Hello, Goodbye.flac
+1300 - Kinks - Days.flac
+1301 - Electric Light Orchestra - Eldorado.flac
+1302 - Simple Minds - Waterfront.flac
+1303 - Muddy Waters - Mannish Boy.flac
+1304 - Chicken Shack - I'd Rather Go Blind.flac
+1305 - Joost Nuissl - Ik Ben Blij Dat Ik Je Niet Vergeten Ben.flac
+1306 - Yazoo - Don't Go.flac
+1307 - Roxette - Listen To Your Heart.flac
+1308 - Abba - The Name Of The Game.flac
+1309 - Anouk - One Word.flac
+1310 - Beatles - All My Loving.flac
+1311 - Neil Young - Alabama.flac
+1312 - Police - Can't Stand Losing You.flac
+1313 - Golden Earring - Weekend Love.flac
+1314 - Unit Gloria - The Last Seven Days.flac
+1315 - A-Ha - The Sun Always Shines On T.v..flac
+1316 - Michael Jackson - Black Or White.flac
+1317 - White Stripes - Seven Nation Army.flac
+1318 - Slade - Coz' I Luv You.flac
+1319 - George Michael - Faith.flac
+1320 - Usa For Africa - We Are The World.flac
+1321 - Adiemus - Adiemus.flac
+1322 - Veldhuis & Kemper - Ik Wou Dat Ik Jou Was.flac
+1323 - Daniël Lohues - Prachtig Mooie Dag.flac
+1324 - Beatles - Can't Buy Me Love.flac
+1325 - Guus Meeuwis - De Weg.flac
+1326 - Jacques Dutronc - Il Est Cinq Heures, Paris S'éveille.flac
+1327 - Guus Meeuwis - Dat Komt Door Jou.flac
+1328 - Bob Marley & The Wailers - Three Little Birds.flac
+1329 - De Dijk - Mijn Van Straat Geredde Roos.flac
+1330 - Albert Hammond - I'm A Train.flac
+1331 - Passenger - Let Her Go.flac
+1332 - Stef Bos - Hilton Barcelona.flac
+1333 - Suzanne Vega - Luka.flac
+1334 - Reinhard Mey - Gute Nacht, Freunde.flac
+1335 - Ub40 & Chrissie Hynde - I Got You Babe.flac
+1336 - Duran Duran - Ordinary World.flac
+1337 - Counting Crows - A Long December.flac
+1338 - Anouk - Three Days In A Row.flac
+1339 - Julien Clerc - This Melody.flac
+1340 - Donovan - Universal Soldier.flac
+1341 - Communards & Sarah Jane Morris - Don't Leave Me This Way.flac
+1342 - Coldplay - Talk.flac
+1343 - Magna Carta - Airport Song.flac
+1344 - Aretha Franklin - Spanish Harlem.flac
+1345 - Level 42 - It's Over.flac
+1346 - Snow Patrol - Just Say Yes.flac
+1347 - Santana & Rob Thomas - Smooth.flac
+1348 - Jan Smit - Als De Morgen Is Gekomen.flac
+1349 - Coldplay - Trouble.flac
+1350 - Bob Carlisle - Butterfly Kisses.flac
+1351 - Jason Mraz - I'm Yours.flac
+1352 - Herman Van Veen - Toveren.flac
+1353 - Buddy Holly - That'll Be The Day.flac
+1354 - Small Faces - Itchycoo Park.flac
+1355 - Natalie Imbruglia - Torn.flac
+1356 - Racoon - Don't Give Up The Fight.flac
+1357 - Queen - Breakthru.flac
+1358 - Rufus & Chaka Khan - Ain't Nobody.flac
+1359 - Soundgarden - Black Hole Sun.flac
+1360 - Anne Murray - You Needed Me.flac
+1361 - Journey - Don't Stop Believin'.flac
+1362 - Barry White - Let The Music Play.flac
+1363 - U2 - Sometimes You Can't Make It On Your Own.flac
+1364 - Boz Scaggs - Lido Shuffle.flac
+1365 - Orchestral Manoeuvres In The Dark - Enola Gay.flac
+1366 - Rick Astley - Never Gonna Give You Up.flac
+1367 - John Mayer - Waiting On The World To Change.flac
+1368 - Mink Deville - Demasiado Corazon.flac
+1369 - Michael Bublé - Everything.flac
+1370 - Paul Young - Love Of The Common People.flac
+1371 - Black Eyed Peas - I Gotta Feeling.flac
+1372 - De Kast - Eltse Grins Foarby.flac
+1373 - Ramses Shaffy - Shaffy Cantate.flac
+1374 - Vitesse - Rosalyn.flac
+1375 - Novastar - Wrong.flac
+1376 - Cranberries - Linger.flac
+1377 - Mumford & Sons - Little Lion Man.flac
+1378 - Bruce Springsteen - Glory Days.flac
+1379 - Elton John - Can You Feel The Love Tonight.flac
+1380 - Earth & Fire - Maybe Tomorrow, Maybe Tonight.flac
+1381 - Sweet - Love Is Like Oxygen.flac
+1382 - Glenn Miller - In The Mood.flac
+1383 - Adamo - Dolce Paola.flac
+1384 - Chris Rea - On The Beach.flac
+1385 - Scorpions - Hello Josephine.flac
+1386 - Doobie Brothers - What A Fool Believes.flac
+1387 - Script - The Man Who Can't Be Moved.flac
+1388 - Triggerfinger - I Follow Rivers.flac
+1389 - Anita Meyer - The Alternative Way.flac
+1390 - Golden Earrings - I've Just Lost Somebody.flac
+1391 - Vaya Con Dios - Nah Neh Nah.flac
+1392 - Allman Brothers Band - Ramblin' Man.flac
+1393 - Keane - Bedshaped.flac
+1394 - John Travolta & Olivia Newton-John - You're The One That I Want.flac
+1395 - Beach Boys - Wouldn't It Be Nice.flac
+1396 - Lovin' Spoonful - Summer In The City.flac
+1397 - Frans Halsema - Zondagmiddag Buitenveldert.flac
+1398 - Vangelis - Chariots Of Fire.flac
+1399 - Linda Ronstadt - Blue Bayou.flac
+1400 - Monkees - Daydream Believer.flac
+1401 - Al Martino - Spanish Eyes.flac
+1402 - Karin Bloemen - Zuid-Afrika.flac
+1403 - Aphrodite's Child - It's Five O'clock.flac
+1404 - Sweet - Poppa Joe.flac
+1405 - Barclay James Harvest - Titles.flac
+1406 - Slade - Far Far Away.flac
+1407 - Simply Red - Home.flac
+1408 - Motors - Airport.flac
+1409 - Small Faces - All Or Nothing.flac
+1410 - Kamahl - The Elephant Song.flac
+1411 - Claudia De Breij - Mag Ik Dan Bij Jou.flac
+1412 - Frank Sinatra - Strangers In The Night.flac
+1413 - Adriano Celentano - Prisencolinensinainciusol.flac
+1414 - Spinvis - Voor Ik Vergeet.flac
+1415 - Racoon - Oceaan.flac
+1416 - Talk Talk - Life's What You Make It.flac
+1417 - Dusty Springfield - You Don't Have To Say You Love Me.flac
+1418 - Bellamy Brothers - Let Your Love Flow.flac
+1419 - Roy Orbison - You Got It.flac
+1420 - Peter Koelewijn En Zijn Rockets - Kom Van Dat Dak Af.flac
+1421 - Electric Light Orchestra - Roll Over Beethoven.flac
+1422 - Elvis Presley - An American Trilogy.flac
+1423 - Shania Twain - You're Still The One.flac
+1424 - Tina Turner - What's Love Got To Do With It.flac
+1425 - Petula Clark - Down Town.flac
+1426 - Alice Cooper - Poison.flac
+1427 - Het Goede Doel - Hou Van Mij.flac
+1428 - Julio Iglesias - Un Canto A Galicia.flac
+1429 - Nick & Simon - Kijk Omhoog.flac
+1430 - Linkin Park - In The End.flac
+1431 - Racoon - Liverpool Rain.flac
+1432 - 10cc - The Things We Do For Love.flac
+1433 - Ed Sheeran - The A Team.flac
+1434 - Roxy Music - If There Is Something.flac
+1435 - Bon Jovi - You Give Love A Bad Name.flac
+1436 - Level 42 - Love Games.flac
+1437 - Simon & Garfunkel - I Am A Rock.flac
+1438 - U2 - Walk On.flac
+1439 - Boudewijn De Groot - Kinderballade.flac
+1440 - André Rieu - The Second Waltz.flac
+1441 - John Lennon, Yoko Ono & Plastic Ono Band - Happy Xmas (War Is Over).flac
+1442 - Phil Collins - One More Night.flac
+1443 - Bon Jovi - Wanted Dead Or Alive.flac
+1444 - Led Zeppelin - Kashmir.flac
+1445 - Motions - Wasted Words.flac
+1446 - Genesis - I Can't Dance.flac
+1447 - U2 - Magnificent.flac
+1448 - Neil Diamond - Hello Again.flac
+1449 - Bruce Springsteen - Working On A Dream.flac
+1450 - Astrid Nijgh - Ik Doe Wat Ik Doe.flac
+1451 - Animals - When I Was Young.flac
+1452 - Shania Twain - Man! I Feel Like A Woman!.flac
+1453 - Mariah Carey - All I Want For Christmas Is You.flac
+1454 - Lenny Kravitz - Are You Gonna Go My Way.flac
+1455 - Guus Meeuwis & Vagant - Per Spoor (Kedeng Kedeng).flac
+1456 - Berlin - Take My Breath Away.flac
+1457 - Rufus Wainwright - Going To A Town.flac
+1458 - Matia Bazar - Ti Sento.flac
+1459 - Bob Dylan - Subterranean Homesick Blues.flac
+1460 - Eros Ramazzotti - Se Bastasse Una Canzone.flac
+1461 - Joshua Kadison - Jessie.flac
+1462 - Rod Stewart - Reason To Believe.flac
+1463 - Amanda Lear - Follow Me.flac
+1464 - Ella Fitzgerald & Louis Armstrong - Summertime.flac
+1465 - Kate Bush - Babooshka.flac
+1466 - Little River Band - Forever Blue.flac
+1467 - Drukwerk - Je Loog Tegen Mij.flac
+1468 - R.e.m. - Shiny Happy People.flac
+1469 - Bruce Springsteen - The Rising.flac
+1470 - Dave Dee, Dozy, Beaky, Mick & Tich - The Legend Of Xanadu.flac
+1471 - Al Green - Let's Stay Together.flac
+1472 - Kane - No Surrender.flac
+1473 - Santana - Oye Como Va.flac
+1474 - Middle Of The Road - Sacramento (A Wonderful Town).flac
+1475 - Abba - Money, Money, Money.flac
+1476 - Lou Reed - Intro (Sweet Jane).flac
+1477 - Michael Andrews Ft. Gary Jules - Mad World.flac
+1478 - Simple Minds - Promised You A Miracle.flac
+1479 - Supertramp - Take The Long Way Home.flac
+1480 - Style Council - My Ever Changing Moods.flac
+1481 - Joe Cocker & Jennifer Warnes - Up Where We Belong.flac
+1482 - Blue Cheer - Summertime Blues.flac
+1483 - Bloem - Even Aan Mijn Moeder Vragen.flac
+1484 - Alan Price Set - I Put A Spell On You.flac
+1485 - Dire Straits - Water Of Love.flac
+1486 - Michael Jackson - They Don't Care About Us.flac
+1487 - Vof De Kunst - Suzanne.flac
+1488 - Pearl Jam - Jeremy.flac
+1489 - Beatles - She Loves You.flac
+1490 - Backstreet Boys - As Long As You Love Me.flac
+1491 - Foreigner - That Was Yesterday.flac
+1492 - Eva De Roovere - Fantastig Toch.flac
+1493 - Trijntje Oosterhuis - De Zee.flac
+1494 - Feargal Sharkey - A Good Heart.flac
+1495 - Elbow - Lippy Kids.flac
+1496 - Coldplay - Every Teardrop Is A Waterfall.flac
+1497 - Ben Howard - Keep Your Head Up.flac
+1498 - Danny De Munk - Ik Voel Me Zo Verdomd Alleen.flac
+1499 - Steely Dan - Reelin' In The Years.flac
+1500 - Traveling Wilburys - Handle With Care.flac
+1501 - George Michael & Queen - Somebody To Love.flac
+1502 - Flash & The Pan - Hey, St. Peter.flac
+1503 - Boyzone - No Matter What.flac
+1504 - Bonnie Raitt - I Can't Make You Love Me.flac
+1505 - Easybeats - Friday On My Mind.flac
+1506 - Killing Joke - Love Like Blood.flac
+1507 - Colin Blunstone - Wonderful.flac
+1508 - Albert Hammond - It Never Rains In Southern California.flac
+1509 - Slayer - Angel Of Death.flac
+1510 - Zucchero Fornaciari - Diamante.flac
+1511 - Bruce Springsteen - Waiting On A Sunny Day.flac
+1512 - Paul Simon - Still Crazy After All These Years.flac
+1513 - Black Eyed Peas - Where Is The Love.flac
+1514 - Eddie Cochran - Three Steps To Heaven.flac
+1515 - John Mayer - Gravity.flac
+1516 - Jennifer Rush - The Power Of Love.flac
+1517 - Commodores - Nightshift.flac
+1518 - Cure - Lullaby.flac
+1519 - Pharrell Williams - Happy.flac
+1520 - Rein De Vries - Patsy.flac
+1521 - Faithless - Insomnia.flac
+1522 - Abba - Super Trouper.flac
+1523 - Q65 - Ann.flac
+1524 - Dalida - Gigi L'amoroso.flac
+1525 - Byrds - My Back Pages.flac
+1526 - Freek De Jonge & Stips - Leven Na De Dood.flac
+1527 - Eddie Vedder - Society.flac
+1528 - China Crisis - Wishful Thinking.flac
+1529 - Procol Harum - Conquistador.flac
+1530 - Green Day - Boulevard Of Broken Dreams.flac
+1531 - 3js - Watermensen.flac
+1532 - John Legend - All Of Me.flac
+1533 - Adele - Rumour Has It.flac
+1534 - Coldplay - Lost!.flac
+1535 - Bill Medley & Jennifer Warnes - (I've Had) The Time Of My Life.flac
+1536 - Coldplay - Life In Technicolor.flac
+1537 - Kylie Minogue & Nick Cave - Where The Wild Roses Grow.flac
+1538 - André Hazes - 'n Vriend.flac
+1539 - Hollies - The Day That Curly Billy Shot Down Crazy Sam Mcgee.flac
+1540 - Bob Marley & The Wailers - One Love (People Get Ready).flac
+1541 - Jim Reeves - He'll Have To Go.flac
+1542 - Golden Earring - Bombay.flac
+1543 - Harry Belafonte - Island In The Sun.flac
+1544 - Charles Aznavour - The Old Fashioned Way.flac
+1545 - Michael Jackson - Human Nature.flac
+1546 - Anouk - Jerusalem.flac
+1547 - Barry Manilow - Copacabana (At The Copa).flac
+1548 - Fluitsma & Van Tijn - 15 Miljoen Mensen.flac
+1549 - John Mayer - Heartbreak Warfare.flac
+1550 - Mumford & Sons - I Will Wait.flac
+1551 - Kinks - Dedicated Follower Of Fashion.flac
+1552 - Bløf - Hemingway.flac
+1553 - Simply Red - Fairground.flac
+1554 - Maaike Ouboter - Dat Ik Je Mis.flac
+1555 - Bangles - Walk Like An Egyptian.flac
+1556 - Grand Funk Railroad - Some Kind Of Wonderful.flac
+1557 - Bee Gees - New York Mining Disaster 1941.flac
+1558 - Oleta Adams - Get Here.flac
+1559 - Lana Del Rey - Video Games.flac
+1560 - Chicago - You're The Inspiration.flac
+1561 - Drafi Deutscher - Marmor, Stein Und Eisen Bricht.flac
+1562 - Bryan Adams - Please Forgive Me.flac
+1563 - Lady Antebellum - Need You Now.flac
+1564 - David Bowie - Fame.flac
+1565 - Margriet Eshuijs Band - Black Pearl.flac
+1566 - Bob Marley & The Wailers - Redemption Song.flac
+1567 - Bløf - Zo Stil.flac
+1568 - Chris De Burgh - The Head And The Heart.flac
+1569 - Whitney Houston - One Moment In Time.flac
+1570 - Bee Gees - To Love Somebody.flac
+1571 - Daft Punk - Get Lucky.flac
+1572 - Spider Murphy Gang - Skandal Im Sperrbezirk.flac
+1573 - Damien Rice Ft Lisa Hannigan - 9 Crimes.flac
+1574 - Adele - Turning Tables.flac
+1575 - Ramses Shaffy - We Zullen Doorgaan.flac
+1576 - Elton John - Song For Guy.flac
+1577 - Cliff Richard - Do You Wanna Dance.flac
+1578 - Céline Dion - Because You Loved Me.flac
+1579 - Coldplay - The Hardest Part.flac
+1580 - Roy Orbison - It's Over.flac
+1581 - Beatles - If I Fell.flac
+1582 - Don Henley - New York Minute.flac
+1583 - Nirvana - Lithium.flac
+1584 - Alanis Morissette - You Oughta Know.flac
+1585 - Cyndi Lauper - Girls Just Want To Have Fun.flac
+1586 - Babys - A Piece Of The Action.flac
+1587 - Anouk - I Don't Wanna Hurt.flac
+1588 - Outsiders - Touch.flac
+1589 - Barbra Streisand - Love Theme From A Star Is Born (Evergreen).flac
+1590 - Buffoons - Tomorrow Is Another Day.flac
+1591 - Stromae - Formidable.flac
+1592 - Supertramp - It's Raining Again.flac
+1593 - Herman Brood & His Wild Romance - Still Believe.flac
+1594 - Jason Mraz - I Won't Give Up.flac
+1595 - Supertramp - Goodbye Stranger.flac
+1596 - Rolling Stones - Memory Motel.flac
+1597 - Del Shannon - Runaway.flac
+1598 - René Froger - This Is The Moment.flac
+1599 - Kayak - Wintertime.flac
+1600 - Them - Here Comes The Night.flac
+1601 - Dolly Parton - You Are.flac
+1602 - Mike Oldfield - In Dulce Jubilo.flac
+1603 - Troggs - Wild Thing.flac
+1604 - Beatles - Love Me Do.flac
+1605 - Fleetwood Mac - Man Of The World.flac
+1606 - Cats - Vaya Con Dios.flac
+1607 - Ilse Delange - The Great Escape.flac
+1608 - Bzn - Just An Illusion.flac
+1609 - Anouk - Birds.flac
+1610 - Amy Macdonald - Mr. Rock & Roll.flac
+1611 - Olivia Newton-John - Hopelessly Devoted To You.flac
+1612 - Katie Melua - If You Were A Sailboat.flac
+1613 - Adamo - Inch Allah.flac
+1614 - Robert Palmer - Best Of Both Worlds.flac
+1615 - Skunk Anansie - Weak.flac
+1616 - Hollies - Bus Stop.flac
+1617 - Creedence Clearwater Revival - Fortunate Son.flac
+1618 - Marco Borsato - Zij.flac
+1619 - Zucchero Fornaciari - Cosi Celeste.flac
+1620 - Foreigner - Waiting For A Girl Like You.flac
+1621 - Creedence Clearwater Revival - Hey Tonight.flac
+1622 - Manu Chao - Me Gustas Tú.flac
+1623 - Doors - Waiting For The Sun.flac
+1624 - Shadows - Wonderful Land.flac
+1625 - Rolling Stones - Dead Flowers.flac
+1626 - Small Faces - Tin Soldier.flac
+1627 - Beatles - I Want To Hold Your Hand.flac
+1628 - Amazing Stroopwafels - Ik Ga Naar Frankrijk.flac
+1629 - Owl City - Fireflies.flac
+1630 - Gino Vannelli - People Gotta Move.flac
+1631 - Billy Joel - The Longest Time.flac
+1632 - Elvis Presley - Wooden Heart.flac
+1633 - Keane - Sovereign Light Café.flac
+1634 - Blondie - Heart Of Glass.flac
+1635 - Michel Fugain - Le Printemps.flac
+1636 - Jim Croce - I Got A Name.flac
+1637 - Bobby Vinton - Sealed With A Kiss.flac
+1638 - Rowwen Hèze - De Neus Omhoeg.flac
+1639 - Bonnie St. Claire - I Won't Stand Between Them.flac
+1640 - Bee Gees - How Can You Mend A Broken Heart.flac
+1641 - Rubettes - Sugar Baby Love.flac
+1642 - Alicia Keys - Fallin'.flac
+1643 - Marco Borsato & Ali B - Wat Zou Je Doen.flac
+1644 - Robert Long - Liefste Mijn Liefste.flac
+1645 - Mud - Tiger Feet.flac
+1646 - Tom Odell - Another Love.flac
+1647 - Nick & Simon - Rosanne.flac
+1648 - De Dijk - Kan Ik Iets Voor Je Doen.flac
+1649 - Armin Van Buuren - This Is What It Feels Like.flac
+1650 - David Sylvian & Ryuichi Sakamoto - Forbidden Colours.flac
+1651 - Earth, Wind & Fire - After The Love Has Gone.flac
+1652 - Charles Trenet - La Mer.flac
+1653 - Andrew Gold - Never Let Her Slip Away.flac
+1654 - Chaka Khan - I'm Every Woman.flac
+1655 - Dotan - Home.flac
+1656 - Robbie Williams - The Road To Mandalay.flac
+1657 - Michael Jackson - The Way You Make Me Feel.flac
+1658 - Piet Veerman - Sailin' Home.flac
+1659 - Jacques Herb - Manuela.flac
+1660 - Elvis Presley - Don't Be Cruel.flac
+1661 - Animals - San Franciscan Nights.flac
+1662 - Gerard Cox - 't Is Weer Voorbij Die Mooie Zomer.flac
+1663 - Doug Ashdown - Winter In America.flac
+1664 - Bellamy Brothers - If I Said You Had A Beautiful Body Would You Hold It Against Me.flac
+1665 - Les Humphries Singers - To My Father's House.flac
+1666 - Queen - Heaven For Everyone.flac
+1667 - Corrs - Radio.flac
+1668 - Caro Emerald - Back It Up.flac
+1669 - Everly Brothers - Ebony Eyes.flac
+1670 - Pet Shop Boys - West End Girls.flac
+1671 - Faithless - God Is A Dj.flac
+1672 - Yardbirds - For Your Love.flac
+1673 - Shocking Blue - Never Marry A Railroad Man.flac
+1674 - Boston - Don't Look Back.flac
+1675 - Iggy Pop & Kate Pierson - Candy.flac
+1676 - De Dijk - Niemand In De Stad.flac
+1677 - Cure - Boys Don't Cry.flac
+1678 - George Harrison - What Is Life.flac
+1679 - Ed Sheeran - Thinking Out Loud.flac
+1680 - Maroon 5 - This Love.flac
+1681 - Smiths - There Is A Light That Never Goes Out.flac
+1682 - Cornelis Vreeswijk - Veronica.flac
+1683 - Marlene Dietrich - Sag Mir Wo Die Blumen Sind.flac
+1684 - Womack & Womack - Teardrops.flac
+1685 - Bill Withers - Lovely Day.flac
+1686 - Cats - The End Of The Show.flac
+1687 - Céline Dion - Think Twice.flac
+1688 - Wailers - Get Up, Stand Up.flac
+1689 - Beyoncé - Halo.flac
+1690 - Avicii - Wake Me Up.flac
+1691 - Madonna - Like A Virgin.flac
+1692 - Keane - Bend And Break.flac
+1693 - B-52's - Love Shack.flac
+1694 - Maroon 5 - She Will Be Loved.flac
+1695 - Jackson Browne - The Pretender.flac
+1696 - Ricky Nelson - Hello Mary Lou.flac
+1697 - Beach Boys - Then I Kissed Her.flac
+1698 - Alexander Curly - Guus.flac
+1699 - Sandy Coast - True Love That's A Wonder.flac
+1700 - Creedence Clearwater Revival - Down On The Corner.flac
+1701 - Ferre Grignard - Ring, Ring, I've Got To Sing.flac
+1702 - Rob De Nijs - Jan Klaassen De Trompetter.flac
+1703 - Common Linnets - Calm After The Storm.flac
+1704 - K's Choice - Not An Addict.flac
+1705 - Bastille - Pompeii.flac
+1706 - Creedence Clearwater Revival - Up Around The Bend.flac
+1707 - Prince & The Revolution - I Would Die 4 U.flac
+1708 - Jim Reeves - I Love You Because.flac
+1709 - Sweet - The Six Teens.flac
+1710 - Cuby & The Blizzards - Back Home.flac
+1711 - Ed Sheeran - I See Fire.flac
+1712 - Jerry Lee Lewis - Great Balls Of Fire.flac
+1713 - Phil Collins - A Groovy Kind Of Love.flac
+1714 - Rod Stewart - You're In My Heart.flac
+1715 - Stromae - Papaoutai.flac
+1716 - Commodores - Easy.flac
+1717 - Leonard Bernstein and Larry Kert & Cast - Maria (West Side Story).flac
+1718 - Corry & De Rekels - Huilen Is Voor Jou Te Laat.flac
+1719 - Little River Band - Home On A Monday.flac
+1720 - Mr. Probz - Waves.flac
+1721 - Chef'Special - In Your Arms.flac
+1722 - Editors - Papillon.flac
+1723 - Depeche Mode - People Are People.flac
+1724 - Steeleye Span - All Around My Hat.flac
+1725 - Frans Bauer - Heb Je Even Voor Mij.flac
+1726 - Gérard Lenorman - La Ballade Des Gens Heureux.flac
+1727 - Cliff Richard - Summer Holiday.flac
+1728 - Gilbert O'sullivan - Matrimony.flac
+1729 - Diana Ross - Ain't No Mountain High Enough.flac
+1730 - Edith Piaf - Milord.flac
+1731 - Stranglers - No More Heroes.flac
+1732 - Hozier - Take Me To Church.flac
+1733 - Status Quo - In The Army Now.flac
+1734 - Dusty Springfield - I Just Don't Know What To Do With Myself.flac
+1735 - Roger Daltrey - Without Your Love.flac
+1736 - Beatles - Ob-La-Di, Ob-La-Da.flac
+1737 - Eric Clapton - After Midnight.flac
+1738 - Exile - Kiss You All Over.flac
+1739 - Turtles - Happy Together.flac
+1740 - Drifters - Save The Last Dance For Me.flac
+1741 - White Plains - When You Are A King.flac
+1742 - Boney M. - Ma Baker.flac
+1743 - A Balladeer - Swim With Sam.flac
+1744 - Kensington - Streets.flac
+1745 - P!nk & Nate Ruess - Just Give Me A Reason.flac
+1746 - De Dijk - Mooier Dan Nu.flac
+1747 - Jon & Vangelis - I Hear You Now.flac
+1748 - Alice & Battiato - I Treni Di Tozeur.flac
+1749 - Bruce Springsteen - Hungry Heart.flac
+1750 - Ub40 - (I Can't Help) Falling In Love With You.flac
+1751 - Prince & The Revolution - Raspberry Beret.flac
+1752 - Ronan Keating - If Tomorrow Never Comes.flac
+1753 - Iron Maiden - Can I Play With Madness.flac
+1754 - Alessi Brothers - Oh, Lori.flac
+1755 - Magna Carta - Lord Of The Ages.flac
+1756 - 3js & Ellen Ten Damme - Wat Is Dromen.flac
+1757 - Jimi Hendrix - Little Wing.flac
+1758 - Focus - House Of The King.flac
+1759 - Buddy Holly - Because I Love You.flac
+1760 - Harry Klorkestein - O, O, Den Haag.flac
+1761 - Alderliefste & Paul De Leeuw - Een Mooi Verhaal.flac
+1762 - Nat King Cole - Unforgettable.flac
+1763 - Four Tops - Reach Out I'll Be There.flac
+1764 - Dolly Dots - Love Me Just A Little Bit More (Totally Hooked On You).flac
+1765 - De Dijk - Groot Hart.flac
+1766 - Cure - Friday I'm In Love.flac
+1767 - Coldplay - A Sky Full Of Stars.flac
+1768 - Al Martino - Volare.flac
+1769 - Ruth Jacott - Vrede.flac
+1770 - Whitney Houston - Greatest Love Of All.flac
+1771 - Kaiser Chiefs - Ruby.flac
+1772 - Bob Seger & The Silver Bullet Band - Still The Same.flac
+1773 - Small Faces - Lazy Sunday.flac
+1774 - Aerosmith - Love In An Elevator.flac
+1775 - Fleetwood Mac - Songbird.flac
+1776 - Ruth Jacott - Leun Op Mij.flac
+1777 - Roger Daltrey - Giving It All Away.flac
+1778 - Elkie Brooks - Pearl's A Singer.flac
+1779 - Beatles - No Reply.flac
+1780 - Beatles - The Ballad Of John And Yoko.flac
+1781 - Jim Reeves - Distant Drums.flac
+1782 - Katrina & The Waves - Walking On Sunshine.flac
+1783 - Beatles - Paperback Writer.flac
+1784 - Gladys Knight & The Pips - Help Me Make It Through The Night.flac
+1785 - Christina Aguilera - Beautiful.flac
+1786 - Editors - Smokers Outside The Hospital Doors.flac
+1787 - Marco Borsato - Je Hoeft Niet Naar Huis Vannacht.flac
+1788 - Queens Of The Stone Age - No One Knows.flac
+1789 - Elton John - Sacrifice.flac
+1790 - R. Kelly - I Believe I Can Fly.flac
+1791 - Split Enz - I Hope I Never.flac
+1792 - Beatles - Day Tripper.flac
+1793 - Lovin' Spoonful - Darling Be Home Soon.flac
+1794 - John Lennon - Jealous Guy.flac
+1795 - Fortunes - You've Got Your Troubles.flac
+1796 - Simplisties Verbond - Zoek Jezelf.flac
+1797 - Michael Jackson - Stranger In Moscow.flac
+1798 - Kensington - Home Again.flac
+1799 - Vof De Kunst - Eén Kopje Koffie.flac
+1800 - Jan Smit - Laura.flac
+1801 - Avicii - Hey Brother.flac
+1802 - Foo Fighters - Learn To Fly.flac
+1803 - Fleetwood Mac - The Chain.flac
+1804 - Beatles - Come Together.flac
+1805 - Bachman-Turner Overdrive - Lookin' Out For Number One.flac
+1806 - Counting Crows - Accidentally In Love.flac
+1807 - Won Ton Ton - I Lie And I Cheat.flac
+1808 - Bobby Goldsboro - Honey.flac
+1809 - 3 Doors Down - Here Without You.flac
+1810 - Zz & De Maskers - Ik Heb Genoeg Van Jou.flac
+1811 - Wallace Collection - Daydream.flac
+1812 - Jeugd Van Tegenwoordig - Sterrenstof.flac
+1813 - Buffoons - It's The End.flac
+1814 - Is Ook Schitterend - Voltooid Verleden Tijd.flac
+1815 - Backstreet Boys - Quit Playing Games (With My Heart).flac
+1816 - Wet Wet Wet - Angel Eyes.flac
+1817 - America - Sister Golden Hair.flac
+1818 - Anita Meyer - They Don't Play Our Lovesong Anymore.flac
+1819 - Zangeres Zonder Naam - Mexico.flac
+1820 - Birdy - Skinny Love.flac
+1821 - Green Day - Basket Case.flac
+1822 - Paul Simon - Kodachrome.flac
+1823 - Bing Crosby - White Christmas.flac
+1824 - Beverley Craven - Promise Me.flac
+1825 - Alquin - Wheelchair Groupie.flac
+1826 - Arctic Monkeys - Do I Wanna Know.flac
+1827 - Eagles - Witchy Woman.flac
+1828 - Genesis - No Son Of Mine.flac
+1829 - Michael Bublé - Lost.flac
+1830 - Ed Sheeran - Give Me Love.flac
+1831 - Red Hot Chili Peppers - Scar Tissue.flac
+1832 - Killers - Mr. Brightside.flac
+1833 - Lionel Richie - All Night Long (All Night).flac
+1834 - Mika - Grace Kelly.flac
+1835 - Ub40 - Sing Our Own Song.flac
+1836 - Chicago - Hard To Say I'm Sorry.flac
+1837 - P!nk - Try.flac
+1838 - Pointer Sisters - I'm So Excited.flac
+1839 - Rod Stewart - I Don't Wanna Talk About It.flac
+1840 - Roger Whittaker - I Don't Believe In If Anymore.flac
+1841 - Hero - Toen Ik Je Zag.flac
+1842 - Underworld - Born Slippy.flac
+1843 - Crosby, Stills & Nash - Marrakesh Express.flac
+1844 - Bad English - Time Stood Still.flac
+1845 - Barbra Streisand & Bryan Adams - I Finally Found Someone.flac
+1846 - Leo Sayer - When I Need You.flac
+1847 - Liquido - Narcotic.flac
+1848 - Steve Rowland & The Family Dogg - Sympathy.flac
+1849 - Rob De Nijs - Ritme Van De Regen.flac
+1850 - Coldplay - Violet Hill.flac
+1851 - Alexander Curly - I'll Never Drink Again.flac
+1852 - Fleetwood Mac - Big Love.flac
+1853 - Michael Jackson - Will You Be There.flac
+1854 - Abba - Summer Night City.flac
+1855 - Neil Diamond - Cracklin' Rosie.flac
+1856 - Raspberries - Don't Want To Say Goodbye.flac
+1857 - Spandau Ballet - True.flac
+1858 - Les Humphries Singers - Mexico.flac
+1859 - Backstreet Boys - I Want It That Way.flac
+1860 - Kane - Damn Those Eyes.flac
+1861 - Beatles - I Feel Fine.flac
+1862 - Green Day - Wake Me Up When September Ends.flac
+1863 - Mama Cass - Dream A Little Dream.flac
+1864 - Michael Jackson - Wanna Be Startin' Somethin'.flac
+1865 - Paul De Leeuw - Blijf Tot De Zon Je Komt Halen.flac
+1866 - Who - Who Are You.flac
+1867 - Ed Sheeran - Lego House.flac
+1868 - René Froger & Het Goede Doel - Alles Kan Een Mens Gelukkig Maken.flac
+1869 - Louis Prima - Buona Sera.flac
+1870 - R.e.m. - Nightswimming.flac
+1871 - Fray - How To Save A Life.flac
+1872 - Paolo Nutini - Iron Sky.flac
+1873 - Toto - Mushanga.flac
+1874 - Gerry & The Pacemakers - Ferry Cross The Mersey.flac
+1875 - Ray Charles - I Can't Stop Loving You.flac
+1876 - Imagine Dragons - Radioactive.flac
+1877 - John Mayer - Slowdancing In A Burning Room.flac
+1878 - Rod Mckuen - Soldiers Who Want To Be Heroes.flac
+1879 - Adele - Hello.flac
+1880 - Bruce Springsteen - Human Touch.flac
+1881 - Beach Boys - Heroes And Villains.flac
+1882 - Racoon - Shoes Of Lightning.flac
+1883 - Crash Test Dummies - Mmm Mmm Mmm Mmm.flac
+1884 - Gene Pitney - Something's Gotten Hold Of My Heart.flac
+1885 - Waylon - Wicked Way.flac
+1886 - Serge Gainsbourg & Jane Birkin - Je T'aime... Moi Non Plus.flac
+1887 - Rolling Stones - Heart Of Stone.flac
+1888 - Johnny Hallyday - Pour Moi La Vie Va Commencer.flac
+1889 - U2 - Ordinary Love.flac
+1890 - Wings - Maybe I'm Amazed.flac
+1891 - De Dijk - De Blues Verlaat Je Nooit.flac
+1892 - Klaatu - A Routine Day.flac
+1893 - Oleta Adams - Window Of Hope.flac
+1894 - Red Hot Chili Peppers - Otherside.flac
+1895 - Sam & Dave - Soul Man.flac
+1896 - Beth Hart - Leave The Light On.flac
+1897 - Vanvelzen - Baby Get Higher.flac
+1898 - Three Degrees - When Will I See You Again.flac
+1899 - London Grammar - Strong.flac
+1900 - Coldplay - Lovers In Japan.flac
+1901 - Sailor - Sailor.flac
+1902 - 3js - Geloven In Het Leven.flac
+1903 - Shirts - Tell Me Your Plans.flac
+1904 - Minnie Riperton - Lovin' You.flac
+1905 - Simply Red - Stars.flac
+1906 - Spice Girls - Wannabe.flac
+1907 - Kensington - War.flac
+1908 - Spargo - You And Me.flac
+1909 - Kim Wilde - Kids In America.flac
+1910 - Shoes - Osaka.flac
+1911 - Blur - Song 2.flac
+1912 - Platters - Only You (And You Alone).flac
+1913 - Imagine Dragons - Demons.flac
+1914 - Massive Attack - Teardrop.flac
+1915 - Charlene D'angelo - I've Never Been To Me.flac
+1916 - Boxer Rebellion - Diamonds.flac
+1917 - Gino Vannelli - Powerful People.flac
+1918 - Buckshot Lefonque - Another Day.flac
+1919 - Herman Van Veen - Opzij.flac
+1920 - Kid Rock - All Summer Long.flac
+1921 - Eminem - Lose Yourself.flac
+1922 - Bruce Springsteen - Brilliant Disguise.flac
+1923 - Bruno Mars - Grenade.flac
+1924 - Everly Brothers - Bye Bye Love.flac
+1925 - Cliff Richard - Some People.flac
+1926 - Kinks - Mr. Pleasant.flac
+1927 - Linkin Park - Breaking The Habit.flac
+1928 - Whitesnake - Here I Go Again.flac
+1929 - Eurythmics - Love Is A Stranger.flac
+1930 - Paul Anka - Diana.flac
+1931 - Champaign - How 'bout Us.flac
+1932 - Dire Straits - So Far Away.flac
+1933 - Andy Williams - (Where Do I Begin) Love Story.flac
+1934 - Flying Pickets - Only You.flac
+1935 - Elvis Presley & Junkie Xl - A Little Less Conversation.flac
+1936 - Elton John & Kiki Dee - Don't Go Breaking My Heart.flac
+1937 - Animals - It's My Life.flac
+1938 - Joni Mitchell - Big Yellow Taxi.flac
+1939 - Amen Corner - (If Paradise Is) Half As Nice.flac
+1940 - Arne Jansen & Les Cigales - Meisjes Met Rode Haren.flac
+1941 - Engelbert Humperdinck - Release Me.flac
+1942 - Birdy - People Help The People.flac
+1943 - Carly Simon - Coming Around Again.flac
+1944 - Joan Baez - The Night They Drove Ol' Dixie Down.flac
+1945 - France Gall - Poupée De Cire, Poupée De Son.flac
+1946 - Fleetwood Mac - The Green Manalishi (With The Two Prong Crown).flac
+1947 - Motörhead - Ace Of Spades.flac
+1948 - T. Rex - Get It On.flac
+1949 - Nickelback - How You Remind Me.flac
+1950 - Sam Cooke - A Change Is Gonna Come.flac
+1951 - Marlene Dietrich - Lili Marlene.flac
+1952 - Boney M. - Daddy Cool.flac
+1953 - Volumia! - Afscheid.flac
+1954 - Manic Street Preachers - Motorcycle Emptiness.flac
+1955 - Falco - Rock Me Amadeus.flac
+1956 - George Michael - Father Figure.flac
+1957 - Mumford & Sons - Lover Of The Light.flac
+1958 - Sam Smith - Stay With Me.flac
+1959 - Script - For The First Time.flac
+1960 - Lucille Starr - The French Song (Quand Le Soleil Dit Bonjour Aux Montagnes).flac
+1961 - Metallica - Master Of Puppets.flac
+1962 - Laura Jansen - Use Somebody.flac
+1963 - Doris Day - Que Sera, Sera (Whatever Will Be, Will Be).flac
+1964 - Ian Dury & The Blockheads - Hit Me With Your Rhythm Stick.flac
+1965 - Diesel - Sausolito Summernight.flac
+1966 - Lady Gaga - Bad Romance.flac
+1967 - Box Tops - The Letter.flac
+1968 - Cher - If I Could Turn Back Time.flac
+1969 - Madonna - Vogue.flac
+1970 - Tee-Set - She Likes Weeds.flac
+1971 - Pink Floyd - Arnold Layne.flac
+1972 - Kansas - Carry On Wayward Son.flac
+1973 - Everly Brothers - Crying In The Rain.flac
+1974 - Duffy - Warwick Avenue.flac
+1975 - Kensington - All For Nothing.flac
+1976 - System Of A Down - Chop Suey!.flac
+1977 - Mark Ronson & Bruno Mars - Uptown Funk.flac
+1978 - Blondie - The Tide Is High.flac
+1979 - Robbie Williams - Let Me Entertain You.flac
+1980 - Sam Brown - Stop!.flac
+1981 - Police - Don't Stand So Close To Me.flac
+1982 - Robert Palmer - Addicted To Love.flac
+1983 - Cuby & The Blizzards - Another Day, Another Road.flac
+1984 - Michael Bublé - Haven't Met You Yet.flac
+1985 - Beatles - Ticket To Ride.flac
+1986 - Jacksons - Can You Feel It.flac
+1987 - Lighthouse Family - High.flac
+1988 - Cliff Richard - Lucky Lips.flac
+1989 - Marmalade - Reflections Of My Life.flac
+1990 - Pat Boone - Love Letters In The Sand.flac
+1991 - Black Keys - Little Black Submarines.flac
+1992 - Julien Clerc - Ma Préference.flac
+1993 - George Harrison - Bangladesh.flac
+1994 - Muse - Psycho.flac
+1995 - Tröckener Kecks - Met Hart En Ziel.flac
+1996 - Genesis - Hold On My Heart.flac
+1997 - Script - If You Could See Me Now.flac
+1998 - Stevie Wonder - As.flac
+1999 - Rowwen Hèze - De Peel In Brand.flac
+2000 - Outsiders - Lying All The Time.flac
+2001 - Madness - Embarrassment.flac
+2002 - Imagine Dragons - On Top Of The World.flac
+2003 - Cher - Believe.flac
+2004 - Duran Duran - The Wild Boys.flac
+2005 - Christopher Cross - Sailing.flac
+2006 - Nancy Sinatra - These Boots Are Made For Walkin'.flac
+2007 - Baccara - Yes Sir, I Can Boogie.flac
+2008 - Enrique Iglesias - Hero.flac
+2009 - Mud - Lonely This Christmas.flac
+2010 - Coldplay - Magic.flac
+2011 - Sade - No Ordinary Love.flac
+2012 - Kinks - All Day And All Of The Night.flac
+2013 - Céline Dion - I'm Alive.flac
+2014 - Sonny & Cher - I Got You Babe.flac
+2015 - George Mccrae - Rock Your Baby.flac
+2016 - Opus - Live Is Life.flac
+2017 - Bee Gees - You Should Be Dancing.flac
+2018 - Dr. Hook - Baby Makes Her Blue Jeans Talk.flac
+2019 - Carel Kraayenhof - Adiós Noniño.flac
+2020 - Kelly Family - David's Song.flac
+2021 - Rolling Stones - Tell Me.flac
+2022 - Rammstein - Sonne.flac
+2023 - Alice Cooper - Hello Hurray.flac
+2024 - Manic Street Preachers - If You Tolerate This Your Children Will Be Next.flac
+2025 - Carole King - It's Too Late.flac
+2026 - Willeke Alberti - Spiegelbeeld.flac
+2027 - America - Ventura Highway.flac
+2028 - Jan Smit - Vrienden Voor Het Leven.flac
+2029 - Nilsson - Everybody's Talking.flac
+2030 - Muse - Bliss.flac
+2031 - Snow Patrol - Crack The Shutters.flac
+2032 - Carpenters - Jambalaya (On The Bayou).flac
+2033 - Cliff Richard - We Don't Talk Anymore.flac
+2034 - Nirvana - The Man Who Sold The World.flac
+2035 - Neil Diamond - Longfellow Serenade.flac
+2036 - Coldplay - Charlie Brown.flac
+2037 - Jazzpolitie - Liefdesliedjes.flac
+2038 - Dimitri Van Toren - Hé, Kom Aan.flac
+2039 - Robert Palmer - Every Kinda People.flac
+2040 - Of Monsters And Men - Little Talks.flac
+2041 - Rammstein - Du Hast.flac
+2042 - Bert Kaempfert - Afrikaan Beat.flac
+2043 - Dido - Life For Rent.flac
+2044 - Radiohead - No Surprises.flac
+2045 - Paul Mccartney - Another Day.flac
+2046 - Michael Jackson - One Day In Your Life.flac
+2047 - Michael Jackson - Off The Wall.flac
+2048 - Mika - Relax, Take It Easy.flac
+2049 - Billy Idol - Eyes Without A Face.flac
+2050 - Maarten Van Roozendaal - Red Mij Niet.flac
+2051 - Tremeloes - Silence Is Golden.flac
+2052 - Maroon 5 & Christina Aguilera - Moves Like Jagger.flac
+2053 - Anouk - Modern World.flac
+2054 - Simon & Garfunkel - My Little Town.flac
+2055 - Green Day - Time Of Your Life (Good Riddance).flac
+2056 - Sutherland Brothers & Quiver - Arms Of Mary.flac
+2057 - Radiohead - Fake Plastic Trees.flac
+2058 - Fungus - Kaap'ren Vaaren.flac
+2059 - Elton John - I'm Still Standing.flac
+2060 - Tumbleweeds - Somewhere Between.flac
+2061 - Everly Brothers - All I Have To Do Is Dream.flac
+2062 - Muse - Supermassive Black Hole.flac
+2063 - Simply Red - Sunrise.flac
+2064 - Beatles - Baby's In Black.flac
+2065 - Sonny & Cher - Little Man.flac
+2066 - Billy Joel - Uptown Girl.flac
+2067 - Nils Lofgren - Shine Silently.flac
+2068 - Mike Oldfield & Maggie Reilly - To France.flac
+2069 - Beatles - Magical Mystery Tour.flac
+2070 - Cliff Richard - Power To All Our Friends.flac
+2071 - Shadows - Theme From 'the Deer Hunter'.flac
+2072 - Prince & The Revolution - Let's Go Crazy.flac
+2073 - John Mayer & Taylor Swift - Half Of My Heart.flac
+2074 - Plastic Ono Band - Give Peace A Chance.flac
+2075 - Andy Williams - Battle Hymn Of The Republic.flac
+2076 - Daft Punk - One More Time.flac
+2077 - Godley & Creme - An Englishman In New York.flac
+2078 - Clout - Substitute.flac
+2079 - Bløf - Hou Vol Hou Vast.flac
+2080 - Electric Light Orchestra - Turn To Stone.flac
+2081 - Smashing Pumpkins - Disarm.flac
+2082 - Mama's & The Papa's - Twelve Thirty (Young Girls Are Coming To The Canyon).flac
+2083 - Racoon - Brother.flac
+2084 - Stevie Wonder - You Are The Sunshine Of My Life.flac
+2085 - Bee Gees - I've Gotta Get A Message To You.flac
+2086 - Lorde - Royals.flac
+2087 - Jonathan Jeremiah - Happiness.flac
+2088 - Kensington - Riddles.flac
+2089 - Céline Dion - Immortality.flac
+2090 - Thomas Dolby - I Scare Myself.flac
+2091 - All Saints - Never Ever.flac
+2092 - Steve Miller Band - Abracadabra.flac
+2093 - Wild Cherry - Play That Funky Music.flac
+2094 - Norman Greenbaum - Spirit In The Sky.flac
+2095 - Caro Emerald - That Man.flac
+2096 - Blood, Sweat & Tears - You've Made Me So Very Happy.flac
+2097 - Conny Vandenbos - Sjakie Van De Hoek.flac
+2098 - Offspring - Self Esteem.flac
+2099 - Human League - Don't You Want Me.flac
+2100 - Rolling Stones - Beast Of Burden.flac
+2101 - Love Affair - Everlasting Love.flac
+2102 - Raymond Van Het Groenewoud - Liefde Voor Muziek.flac
+2103 - Billie Holiday - Strange Fruit.flac
+2104 - Bruce Springsteen - Jungleland.flac
+2105 - Dave Clark Five - Glad All Over.flac
+2106 - Fats Domino - Red Sails In The Sunset.flac
+2107 - Gilbert O'sullivan - Clair.flac
+2108 - Everly Brothers - Let It Be Me.flac
+2109 - Nadieh - Windforce 11.flac
+2110 - Cats - Be My Day.flac
+2111 - Lady Gaga - Poker Face.flac
+2112 - Typhoon Met Rico & Andre Manuel - Zandloper.flac
+2113 - Eric Clapton - I Shot The Sheriff.flac
+2114 - Tom Browne - Funkin' For Jamaica (N.y.).flac
+2115 - Stromae - Alors On Danse.flac
+2116 - Cliff Richard - Bachelor Boy.flac
+2117 - Rod Stewart - Tom Traubert's Blues (Waltzing Matilda).flac
+2118 - Keith West - Excerpt From A Teenage Opera.flac
+2119 - Specials - A Message To You, Rudy.flac
+2120 - First Aid Kit - My Silver Lining.flac
+2121 - Madonna - Papa Don't Preach.flac
+2122 - Whitney Houston - I Wanna Dance With Somebody (Who Loves Me).flac
+2123 - Inxs - Need You Tonight.flac
+2124 - Script Ft. Will.i.am - Hall Of Fame.flac
+2125 - Brenda Lee - I'm Sorry.flac
+2126 - Agnetha Fältskog - Wrap Your Arms Around Me.flac
+2127 - Eminem Feat. Dido - Stan.flac
+2128 - Herd - From The Underworld.flac
+2129 - Bastille - Things We Lost In The Fire.flac
+2130 - Guns N' Roses - Patience.flac
+2131 - Beach Boys - California Girls.flac
+2132 - Niels Geusebroek - Take Your Time Girl.flac
+2133 - Moby - Porcelain.flac
+2134 - Abba - Voulez-Vous.flac
+2135 - Plain White T's - Hey There Delilah.flac
+2136 - John Travolta & Olivia Newton-John - Summer Nights.flac
+2137 - Greenfield & Cook - Only Lies.flac
+2138 - Dalida & Alain Delon - Paroles.flac
+2139 - Racoon - Laugh About It.flac
+2140 - Bee Gees - World.flac
+2141 - Robin Thicke Ft. T.i. & Pharrell - Blurred Lines.flac
+2142 - Cure - Inbetween Days.flac
+2143 - Total Touch - Somebody Else's Lover.flac
+2144 - Linkin Park & Jay Z - Numb Encore.flac
+2145 - Marco Borsato - Mooi.flac
+2146 - Partridge Family - I Think I Love You.flac
+2147 - Curtis Mayfield - Move On Up.flac
+2148 - Jack Johnson - Sitting, Waiting, Wishing.flac
+2149 - Madonna - Borderline.flac
+2150 - Elaine Paige & Barbara Dickson - I Know Him So Well.flac
+2151 - Murray Head - One Night In Bangkok.flac
+2152 - Mr. Probz - Nothing Really Matters.flac
+2153 - Iron Maiden - Fear Of The Dark.flac
+2154 - Tee-Set - Ma Belle Amie.flac
+2155 - Ed Sheeran - Photograph.flac
+2156 - 2pac - Changes.flac
+2157 - Gorillaz - Clint Eastwood.flac
+2158 - Justin Timberlake - Mirrors.flac
+2159 - Circus Custers - Monica.flac
+2160 - Sandy Coast - Capital Punishment.flac
+2161 - De Dijk - Recht In De Ogen.flac
+2162 - David Guetta & Sia - Titanium.flac
+2163 - Pretenders - Brass In Pocket.flac
+2164 - Ilse Delange - Puzzle Me.flac
+2165 - Dj Paul Elstak - Rainbow In The Sky.flac
+2166 - Bad Company - Feel Like Makin' Love.flac
+2167 - Elvis Presley - Kiss Me Quick.flac
+2168 - Conny Froboess - Zwei Kleine Italiener.flac
+2169 - Spencer Davis Group - Gimme Some Lovin'.flac
+2170 - Prodigy - Firestarter.flac
+2171 - Joe Cocker - Summer In The City.flac
+2172 - Timi Yuro - Hurt.flac
+2173 - Chicago - Wishing You Were Here.flac
+2174 - John Lennon - Mother.flac
+2175 - Carel Kraayenhof, Trijntje Oosterhuis & Janine Jansen - Nu Dat Jij Er Bent.flac
+2176 - Cats - Let's Dance.flac
+2177 - Don Mercedes - Rocky.flac
+2178 - Prince & The Revolution - Sometimes It Snows In April.flac
+2179 - Dorus - Twee Motten.flac
+2180 - Eric Carmen - All By Myself.flac
+2181 - Genesis - Firth Of Fifth.flac
+2182 - Dave Davies - Death Of A Clown.flac
+2183 - Heart - Magic Man.flac
+2184 - Elvin Bishop - Fooled Around And Fell In Love.flac
+2185 - Kiki Dee - I've Got The Music In Me.flac
+2186 - Daniel Powter - Bad Day.flac
+2187 - Guns N' Roses - Estranged.flac
+2188 - Mary Hopkin - Those Were The Days.flac
+2189 - Robbie Williams - Rock Dj.flac
+2190 - Anouk - Woman.flac
+2191 - Jam - A Town Called Malice.flac
+2192 - Jimi Hendrix Experience - Voodoo Chile.flac
+2193 - Adele - When We Were Young.flac
+2194 - Chicago - I'm A Man.flac
+2195 - Adele - Hometown Glory.flac
+2196 - Tenacious D - Tribute.flac
+2197 - Patrick Bruel - Je N'attendais Pas À Toi.flac
+2198 - Glennis Grace - Afscheid.flac
+2199 - Platters - Great Pretender.flac
+2200 - Cranberries - Ode To My Family.flac
+2201 - Sting - Shape Of My Heart.flac
+2202 - Ace - How Long.flac
+2203 - Lange Frans & Thé Lau - Zing Voor Me.flac
+2204 - Spencer Davis Group - Keep On Running.flac
+2205 - Loreen - Euphoria.flac
+2206 - Iggy Pop - The Passenger.flac
+2207 - Bruno Mars - When I Was Your Man.flac
+2208 - Chicago - Feelin' Stronger Every Day.flac
+2209 - Kool & The Gang - Celebration.flac
+2210 - Associates - Breakfast.flac
+2211 - Hunters - Russian Spy And I.flac
+2212 - Jason Paige - Gotta Catch 'em All.flac
+2213 - George Michael & Aretha Franklin - I Knew You Were Waiting (For Me).flac
+2214 - Volbeat - Lola Montez.flac
+2215 - Irene Cara - Fame.flac
+2216 - Randy Newman - Short People.flac
+2217 - Stevie Wonder - Master Blaster (Jammin').flac
+2218 - Boudewijn De Groot - Tante Julia.flac
+2219 - Jennifer Lopez - Let's Get Loud.flac
+2220 - Boys Town Gang - Can't Take My Eyes Off You.flac
+2221 - Andrea Bocelli & Gerardina Trovato - Vivere.flac
+2222 - Buddy Holly - Well Allright.flac
+2223 - Chubby Checker - Let's Twist Again.flac
+2224 - Metallica - Fade To Black.flac
+2225 - Keane - This Is The Last Time.flac
+2226 - Daft Punk - Around The World.flac
+2227 - Toni Braxton - Unbreak My Heart.flac
+2228 - Duran Duran - A View To A Kill.flac
+2229 - Manhattans - Kiss And Say Goodbye.flac
+2230 - Roxette - The Look.flac
+2231 - Franz Ferdinand - Take Me Out.flac
+2232 - Golden Earring - Buddy Joe.flac
+2233 - Tina Turner - We Don't Need Another Hero.flac
+2234 - Guess Who - American Woman.flac
+2235 - Dizzy Man's Band - The Show.flac
+2236 - Bob Dylan - Rainy Day Women Nos 12 & 35.flac
+2237 - Cirque Du Soleil - Alegria.flac
+2238 - Windjammer - Harbourlight.flac
+2239 - Sugarhill Gang - Rapper's Delight.flac
+2240 - Portishead - Glory Box.flac
+2241 - Housemartins - Caravan Of Love.flac
+2242 - Onerepublic - Counting Stars.flac
+2243 - Donna Summer - Last Dance.flac
+2244 - Radios - She Goes Nana.flac
+2245 - Duffy - Mercy.flac
+2246 - Tom Petty & The Heartbreakers - Refugee.flac
+2247 - Shoes - Na Na Na.flac
+2248 - Damien Rice - The Blower's Daughter.flac
+2249 - Rory Block - Lovin' Whiskey.flac
+2250 - Black Crowes - Remedy.flac
+2251 - Dire Straits - Calling Elvis.flac
+2252 - Jay Z Feat. Alicia Keys - Empire State Of Mind.flac
+2253 - John Travolta - Greased Lightning.flac
+2254 - Sia - Chandelier.flac
+2255 - Rihanna - Diamonds.flac
+2256 - Paul Simon - Mother And Child Reunion.flac
+2257 - Rihanna Feat. Mikky Ekko - Stay.flac
+2258 - Sweet - Funny Funny.flac
+2259 - Kadanz - Intimiteit.flac
+2260 - Patrick Hernandez - Born To Be Alive.flac
+2261 - Frankie Goes To Hollywood - Two Tribes.flac
+2262 - Eagle-Eye Cherry - Save Tonight.flac
+2263 - Foo Fighters - Walk.flac
+2264 - Rolling Stones - (Get Your Kicks On) Route 66.flac
+2265 - C. Jérôme - C'est Moi.flac
+2266 - Doe Maar - 1 Nacht Alleen.flac
+2267 - Beach Boys - Barbara Ann.flac
+2268 - Kensington - Sorry.flac
+2269 - Train - Hey, Soul Sister.flac
+2270 - Booker T & The Mg's - Green Onions.flac
+2271 - Icehouse - Crazy.flac
+2272 - Melanie - Ruby Tuesday.flac
+2273 - Beach Boys - I Get Around.flac
+2274 - Hans De Booy - Een Vrouw Zoals Jij.flac
+2275 - Chuck Berry - Roll Over Beethoven.flac
+2276 - Buggles - Video Killed The Radio Star.flac
+2277 - Crusaders - Street Life.flac
+2278 - Peggy Lee - Fever.flac
+2279 - Kinderen Voor Kinderen - Ik Heb Zo Waanzinnig Gedroomd.flac
+2280 - Pacific Gas & Electric - Are You Ready.flac
+2281 - James Morrison - You Give Me Something.flac
+2282 - Evanescence - Bring Me To Life.flac
+2283 - Normaal - Deurdonderen.flac
+2284 - Manfred Mann - Ha! Ha! Said The Clown.flac
+2285 - Smashing Pumpkins - 1979.flac
+2286 - Johnny Logan - What's Another Year.flac
+2287 - Harry Chapin - Morning D.j. Of W.o.l.d.flac
+2288 - Script - Breakeven.flac
+2289 - Seekers - The Carnival Is Over.flac
+2290 - Live - The Dolphin's Cry.flac
+2291 - Eddie Vedder - Hard Sun.flac
+2292 - Cliff Richard - The Day I Met Marie.flac
+2293 - George Harrison - Got My Mind Set On You.flac
+2294 - Milow - You Don't Know.flac
+2295 - Guns N' Roses - Don't Cry.flac
+2296 - Ilse Delange - Hurricane.flac
+2297 - Poco - Rose Of Cimarron.flac
+2298 - Disturbed - The Sound Of Silence.flac
+2299 - Red Hot Chili Peppers - Give It Away.flac
+2300 - Handsome Poets - Sky On Fire.flac
+2301 - Golden Earring - That Day.flac
+2302 - Nirvana - About A Girl.flac
+2303 - Metallica - The Unforgiven.flac
+2304 - Freiheit & The London Symphony Orchestra - Keeping The Dream Alive.flac
+2305 - Nirvana - Heart-Shaped Box.flac
+2306 - Roxy Music - Do The Strand.flac
+2307 - Michael Jackson - Rock With You.flac
+2308 - Ry Cooder - Little Sister.flac
+2309 - David Bowie - Starman.flac
+2310 - Freddy Quinn - Junge, Komm Bald Wieder.flac
+2311 - Lenny Kravitz - Always On The Run.flac
+2312 - Racoon - Took A Hit.flac
+2313 - Kinks - Dead End Street.flac
+2314 - Gilbert O'sullivan - Alone Again (Naturally).flac
+2315 - Trini Lopez - If I Had A Hammer.flac
+2316 - Frank Boeijen Groep - Winter In Hamburg.flac
+2317 - Culture Club - Karma Chameleon.flac
+2318 - Jamie Cullum - All At Sea.flac
+2319 - Macklemore & Ryan Lewis - Can't Hold Us.flac
+2320 - Joe Jackson - Steppin' Out.flac
+2321 - Proclaimers - I'm Gonna Be (500 Miles).flac
+2322 - Justin Timberlake - Can't Stop The Feeling.flac
+2323 - Isaac Hayes - Theme From 'shaft'.flac
+2324 - Commodores - Brick House.flac
+2325 - Judy Garland - Over The Rainbow.flac
+2326 - Hank The Knife & The Jets - Guitar King.flac
+2327 - André Hazes - Eenzame Kerst.flac
+2328 - Maria Mena - All This Time (Pick Me Up Song).flac
+2329 - Jon Secada - Just Another Day.flac
+2330 - Four Tops - If I Were A Carpenter.flac
+2331 - Moby - Why Does My Heart Feel So Bad.flac
+2332 - André Hazes - Ik Meen 't.flac
+2333 - Amy Winehouse - Tears Dry On Their Own.flac
+2334 - Rolling Stones - Tumbling Dice.flac
+2335 - Neil Diamond - Pretty Amazing Grace.flac
+2336 - Fiction Factory - (Feels Like) Heaven.flac
+2337 - Robbie Williams - Millennium.flac
+2338 - Cliff Richard - Please Don't Tease.flac
+2339 - Rag'n'bone Man - Human.flac
+2340 - Guns N' Roses - Welcome To The Jungle.flac
+2341 - Rolling Stones - We Love You.flac
+2342 - Michael Jackson - You Are Not Alone.flac
+2343 - U2 & B.b. King - When Love Comes To Town.flac
+2344 - John Legend - This Time.flac
+2345 - Boudewijn De Groot - Ik Ben Ik.flac
+2346 - Boz Scaggs - What Can I Say.flac
+2347 - Tori Amos - Cornflake Girl.flac
+2348 - Mariah Carey - Hero.flac
+2349 - Billy Joel - James.flac
+2350 - Status Quo - The Wanderer.flac
+2351 - Fleetwood Mac - Landslide.flac
+2352 - Cliff Richard - Congratulations.flac
+2353 - Johnny & The Hurricanes - Red River Rock.flac
+2354 - Amy Winehouse - Our Day Will Come.flac
+2355 - Gene Pitney - Twenty Four Hours From Tulsa.flac
+2356 - Barry White - Never, Never Gonna Give Ya Up.flac
+2357 - Gnarls Barkley - Crazy.flac
+2358 - Poppys - Isabelle Je T'aime.flac
+2359 - Fleetwood Mac - You Make Loving Fun.flac
+2360 - Johnny Cash - I Walk The Line.flac
+2361 - Don Mclean - Crying.flac
+2362 - Rolling Stones - That's How Strong My Love Is.flac
+2363 - Ac-Dc - You Shook Me All Night Long.flac
+2364 - Kelly Clarkson - Because Of You.flac
+2365 - David Cassidy - How Can I Be Sure.flac
+2366 - Jamie Cullum - Everlasting Love.flac
+2367 - Het - Ik Heb Geen Zin Om Op Te Staan.flac
+2368 - Hot Chocolate - It Started With A Kiss.flac
+2369 - Ac-Dc - Back In Black.flac
+2370 - Charly Lownoise & Mental Theo - Wonderfull Days.flac
+2371 - Three Degrees - Dirty Ol' Man.flac
+2372 - Kenny Rogers & First Edition - Ruby, Don't Take Your Love To Town.flac
+2373 - Diggy Dex Feat. Jw Roy - Treur Niet.flac
+2374 - Janis Ian - Fly Too High.flac
+2375 - Starland Vocal Band - Afternoon Delight.flac
+2376 - Creedence Clearwater Revival - Travelin' Band.flac
+2377 - Andy Williams - Music To Watch Girls By.flac
+2378 - Bløf - Meer Kan Het Niet Zijn.flac
+2379 - Billy Vaughn Orchestra - Sail Along Silvery Moon.flac
+2380 - Madonna - Holiday.flac
+2381 - Gloria Estefan & Miami Sound Machine - Can't Stay Away From You.flac
+2382 - Joe Dassin - L'été Indien.flac
+2383 - Matt Simons - With You.flac
+2384 - Prodigy - Smack My Bitch Up.flac
+2385 - Tom Jones - It's Not Unusual.flac
+2386 - Van Dik Hout - Laat Het Los.flac
+2387 - Drs. P - Veerpont.flac
+2388 - Mungo Jerry - In The Summertime.flac
+2389 - Zz Top - Legs.flac
+2390 - Don Rosenbaum - Swimming Into Deep Water.flac
+2391 - Emeli Sandé - Read All About It (Pt Iii).flac
+2392 - Eros Ramazzotti & Anastacia - I Belong To You (Il Ritmo Della Passione).flac
+2393 - Gruppo Sportivo - Beep Beep Love.flac
+2394 - Katy Perry - Roar.flac
+2395 - Zz Top - La Grange.flac
+2396 - Yvonne Elliman - If I Can't Have You.flac
+2397 - Take That - Back For Good.flac
+2398 - Everly Brothers - Cathy's Clown.flac
+2399 - Macklemore & Ryan Lewis - Same Love.flac
+2400 - Shania Twain - From This Moment.flac
+2401 - Pink Floyd - High Hopes.flac
+2402 - Belinda Carlisle - Heaven Is A Place On Earth.flac
+2403 - Rolling Stones - It's Only Rock 'n Roll.flac
+2404 - Willeke Alberti - Samen Zijn.flac
+2405 - Milow - Ayo Technology.flac
+2406 - Baseballs - Umbrella.flac
+2407 - Alicia Keys - If I Ain't Got You.flac
+2408 - Bruce Springsteen - Tougher Than The Rest.flac
+2409 - Dean Martin - Everybody Loves Somebody.flac
+2410 - James Bay - Hold Back The River.flac
+2411 - Stray Cats - Runaway Boys.flac
+2412 - P!nk - Family Portrait.flac
+2413 - Tori Amos - Winter.flac
+2414 - Paul Simon - The Boy In The Bubble.flac
+2415 - Conny Vandenbos - Een Roosje M'n Roosje.flac
+2416 - Ringo Starr - Photograph.flac
+2417 - Dotan - Let The River In.flac
+2418 - Tame Impala - Let It Happen.flac
+2419 - Editors - A Ton Of Love.flac
+2420 - 2 Unlimited - No Limit.flac
+2421 - Mumford & Sons - Babel.flac
+2422 - Outkast - Hey Ya!.flac
+2423 - Gordon Lightfoot - If You Could Read My Mind.flac
+2424 - André Hazes - Het Is Koud Zonder Jou.flac
+2425 - Joan Jett & The Blackhearts - I Love Rock 'n' Roll.flac
+2426 - Connie Francis - Everybody's Somebody's Fool.flac
+2427 - Ramses Shaffy - 5 Uur.flac
+2428 - Spencer Davis Group - I'm A Man.flac
+2429 - George Ezra - Budapest.flac
+2430 - Michael Jackson & Paul Mccartney - The Girl Is Mine.flac
+2431 - Donald Fagen - The Nightfly.flac
+2432 - Muse - Unintended.flac
+2433 - Bruno Mars - The Lazy Song.flac
+2434 - Alexis Jordan - Happiness.flac
+2435 - Culture Club - Do You Really Want To Hurt Me.flac
+2436 - Allisons - Are You Sure.flac
+2437 - Velvet Underground - Sweet Jane.flac
+2438 - Keane - Silenced By The Night.flac
+2439 - Coldplay - Adventure Of A Lifetime.flac
+2440 - B.b. King - Ain't Nobody Home.flac
+2441 - Beastie Boys - Sabotage.flac
+2442 - André Hazes - Diep In Mijn Hart.flac
+2443 - Bruce Springsteen & The E Street Band - War.flac
+2444 - Faithless - We Come 1.flac
+2445 - Amii Stewart - Knock On Wood.flac
+2446 - Bronski Beat - Why.flac
+2447 - Gino Vannelli - Hurts To Be In Love.flac
+2448 - Gavin James - The Book Of Love.flac
+2449 - Who - Pictures Of Lily.flac
+2450 - Fun. - Some Nights.flac
+2451 - Kc & The Sunshine Band - Please Don't Go.flac
+2452 - Coolio Feat. L.v. - Gangsta's Paradise.flac
+2453 - George Gershwin - Rhapsody In Blue.flac
+2454 - Oasis - Champagne Supernova.flac
+2455 - Alice In Chains - Would.flac
+2456 - Skunk Anansie - Hedonism (Just Because You Feel Good).flac
+2457 - Robbie Williams - Candy.flac
+2458 - One Direction - Story Of My Life.flac
+2459 - Waldo De Los Ríos - Mozart-First Movement Symphony No.40.flac
+2460 - Shakira - Whenever, Wherever.flac
+2461 - Jackson 5 - ABC.flac
+2462 - Script - Superheroes.flac
+2463 - Johnny Cash - Folsom Prison Blues.flac
+2464 - Kensington & Armin Van Buuren - Heading Up High.flac
+2465 - Blaudzun - Promises Of No Man's Land.flac
+2466 - Four Seasons - December 1963 (Oh What A Night).flac
+2467 - Do - Heaven.flac
+2468 - Traffic - Hole In My Shoe.flac
+2469 - Crispian St. Peters - The Pied Piper.flac
+2470 - Nina Simone - Don't Let Me Be Misunderstood.flac
+2471 - David Bowie - Changes.flac
+2472 - Mighty Sparrow & Byron Lee - Only A Fool.flac
+2473 - War On Drugs - Under The Pressure.flac
+2474 - Tom Petty - A Face In The Crowd.flac
+2475 - Level 42 - Running In The Family.flac
+2476 - David Bowie - Lazarus.flac
+2477 - Helen Shapiro - Queen For Tonight.flac
+2478 - Beach Boys - Help Me Rhonda.flac
+2479 - Boney M. - Sunny.flac
+2480 - Robert Palmer - Can We Still Be Friends.flac
+2481 - Scott Fitzgerald & Yvonne Keeley - If I Had Words.flac
+2482 - Live - Run To The Water.flac
+2483 - Average White Band - Pick Up The Pieces.flac
+2484 - Nielson - Sexy Als Ik Dans.flac
+2485 - Deep Blue Something - Breakfast At Tiffany's.flac
+2486 - Coldplay & Beyoncé - Hymn For The Weekend.flac
+2487 - Bløf - Later Als Ik Groter Ben.flac
+2488 - Arctic Monkeys - I Bet You Look Good On The Dancefloor.flac
+2489 - Chris Barber's Jazz Band - Petite Fleur.flac
+2490 - Labelle - Voulez Vous Coucher Avec Moi Ce Soir (Lady Marmalade).flac
+2491 - Scorpions - Send Me An Angel.flac
+2492 - Saybia - The Day After Tomorrow.flac
+2493 - Green Day - American Idiot (Nummer).flac
+2494 - Tol Hansse - Big City.flac
+2495 - Marvin, Welch & Farrar - Faithful.flac
+2496 - Within Temptation - Faster.flac
+2497 - Gorillaz - Feel Good Inc..flac
+2498 - Olivia Newton-John and Electric Light Orchestra - Xanadu.flac
+2499 - Acda & De Munnik - Eva.flac
+2500 - Kc & The Sunshine Band - That's The Way (I Like It).flac
+2501 - Bruno Mars - Locked Out Of Heaven.flac
+2502 - Krezip - All My Life.flac
+2503 - Coldplay - Atlas.flac
+2504 - Billy Ocean - When The Going Gets Tough, The Tough Get Going.flac
+2505 - Kyu Sakamoto - Sukiyaki.flac
+2506 - Pink Floyd - Us And Them.flac
+2507 - Rolling Stones - Time Waits For No One.flac
+2508 - Herman Van Keeken - Pappie Loop Toch Niet Zo Snel.flac
+2509 - Slade - Get Down And Get With It.flac
+2510 - U2 - Angel Of Harlem.flac
+2511 - Paul De Leeuw - Ik Wil Niet Dat Je Liegt.flac
+2512 - Michael Jackson & Siedah Garrett - I Just Can't Stop Loving You.flac
+2513 - Shadows - 36-24-36.flac
+2514 - Billy Vaughn Orchestra - Wheels.flac
+2515 - Novastar - Because.flac
+2516 - Madness - Our House.flac
+2517 - Nat King Cole - When I Fall In Love.flac
+2518 - Randy Newman - Rider In The Rain.flac
+2519 - Bryan Adams & Tina Turner - It's Only Love.flac
+2520 - Lynn Anderson - Rose Garden.flac
+2521 - Bzn - Pearlydumm.flac
+2522 - Gigi D'agostino - L'amour Toujours.flac
+2523 - Modern Talking - You're My Heart, You're My Soul.flac
+2524 - André Van Duin - Als Je Huilt.flac
+2525 - Limp Bizkit - Behind Blue Eyes.flac
+2526 - Kensington - Do I Ever.flac
+2527 - Passenger - Holes.flac
+2528 - Romantics - What I Like About You.flac
+2529 - Rolling Stones - 2000 Light Years From Home.flac
+2530 - Stone Temple Pilots - Plush.flac
+2531 - James Bay - Let It Go.flac
+2532 - Marvin Gaye - Let's Get It On.flac
+2533 - Nick Cave & The Bad Seeds - Into My Arms.flac
+2534 - Aphrodite's Child - I Want To Live.flac
+2535 - David A. Stewart & Candy Dulfer - Lily Was Here.flac
+2536 - After Tea - Not Just A Flower In Your Hair.flac
+2537 - Beth Hart - L.a. Song (Out Of This Town).flac
+2538 - Bruno Mars - Just The Way You Are.flac
+2539 - Gordon - Kon Ik Maar Even Bij Je Zijn.flac
+2540 - Herb Alpert & The Tijuana Brass - This Guy's In Love With You.flac
+2541 - Phil Collins - Sussudio.flac
+2542 - Amanda Marshall - Beautiful Goodbye.flac
+2543 - Paul Young - Come Back And Stay.flac
+2544 - Justin Timberlake - Cry Me A River.flac
+2545 - Temple Of The Dog - Hunger Strike.flac
+2546 - Julien Clerc - Venise (Elle Voulait Qu'on L'appelle).flac
+2547 - Mr. Mister - Kyrie.flac
+2548 - Richard Marx - Right Here Waiting.flac
+2549 - Dimitri Van Toren - Een Lied Voor Kinderen.flac
+2550 - Peter Tosh & Mick Jagger - (You Gotta Walk) Don't Look Back.flac
+2551 - M - Popmuzik.flac
+2552 - Tammy Wynette - Stand By Your Man.flac
+2553 - Classics - My Lady Of Spain.flac
+2554 - Ilse Delange - Beautiful Distraction.flac
+2555 - Psy - Gangnam Style.flac
+2556 - Queen - One Vision.flac
+2557 - Backstreet Boys - Everybody (Backstreet's Back).flac
+2558 - Cutting Crew - (I Just) Died In Your Arms.flac
+2559 - Beyoncé - Listen.flac
+2560 - Madonna - Into The Groove.flac
+2561 - Kenny B - Parijs.flac
+2562 - Michael Prins - Close To You.flac
+2563 - Julien Clerc - Hélène.flac
+2564 - Sweet - Little Willy.flac
+2565 - Dolly Parton - 9 To 5.flac
+2566 - Georges Moustaki - Le Meteque.flac
+2567 - Typhoon - Hemel Valt.flac
+2568 - Peter Koelewijn - Je Wordt Ouder Papa.flac
+2569 - Coldplay - In My Place.flac
+2570 - Simply Red - Money's Too Tight (To Mention).flac
+2571 - David Bowie - The Man Who Sold The World.flac
+2572 - Marco Borsato - Vrij Zijn.flac
+2573 - Clash - Should I Stay Or Should I Go.flac
+2574 - Madonna - Ray Of Light.flac
+2575 - Beatles - I Should Have Known Better.flac
+2576 - Joe Bonamassa - Dust Bowl.flac
+2577 - Colin Blunstone - I Don't Believe In Miracles.flac
+2578 - Lionel Richie & Trijntje Oosterhuis - Face In The Crowd.flac
+2579 - Jeugd Van Tegenwoordig - Watskeburt!.flac
+2580 - Nina Simone - Feeling Good.flac
+2581 - Supertramp - Rudy.flac
+2582 - Elton John - Goodbye Yellow Brick Road.flac
+2583 - Nick & Simon - Het Masker.flac
+2584 - Shadows - Guitar Tango.flac
+2585 - Barry & Eileen - If You Go.flac
+2586 - Michael Kiwanuka - Home Again.flac
+2587 - Guus Meeuwis - Als Ze Danst.flac
+2588 - Thin Lizzy - The Boys Are Back In Town.flac
+2589 - J. Geils Band - Centerfold.flac
+2590 - Joan Armatrading - Rosie.flac
+2591 - Stromae - Tous Les Mêmes.flac
+2592 - Foo Fighters - Best Of You.flac
+2593 - Coldplay - Everglow.flac
+2594 - Stereophonics - Maybe Tomorrow.flac
+2595 - Will And The People - Lion In The Morning Sun.flac
+2596 - Red Hot Chili Peppers - Dark Necessities.flac
+2597 - Muse - Mercy.flac
+2598 - Rob De Nijs - Zondag.flac
+2599 - Blind Faith - Well All Right.flac
+2600 - Metallica - The Unforgiven Iii.flac
+2601 - Searchers - Needles And Pins.flac
+2602 - Di-Rect - Times Are Changing.flac
+2603 - Liverpool Express - You Are My Love.flac
+2604 - Long Tall Ernie & The Shakers - Do You Remember.flac
+2605 - Neil Sedaka - Oh! Carol.flac
+2606 - Super Sister - Radio.flac
+2607 - Elton John - Rocket Man.flac
+2608 - Kinks - Lola(Live).flac
+2609 - Selecter - On My Radio.flac
+2610 - Status Quo - Pictures Of Matchstick Men.flac
+2611 - Who - Happy Jack.flac
+2612 - Tim Finn - Fraction Too Much Friction.flac
+2613 - Stef Bos - Is Dit Nou Later.flac
+2614 - Beyoncé - If I Were A Boy.flac
+2615 - Emeli Sandé - Clown.flac
+2616 - Phil Collins - Something Happened On The Way To Heaven.flac
+2617 - Mama's & The Papa's - Dedicated To The One I Love.flac
+2618 - Gazebo - I Like Chopin.flac
+2619 - Brainbox - The Smile (Old Friends Have A Right To).flac
+2620 - Nik Kershaw - Wouldn't It Be Good.flac
+2621 - Clash - Rock The Casbah.flac
+2622 - Peter Skellern - You're A Lady.flac
+2623 - Hazel O'connor - Will You.flac
+2624 - Linda Ronstadt - It's So Easy.flac
+2625 - Alanis Morissette - Thank U.flac
+2626 - Nik Kershaw - The Riddle.flac
+2627 - Los Bravos - Black Is Black.flac
+2628 - Mariah Carey - I'll Be There.flac
+2629 - Faith No More - Epic.flac
+2630 - Justin Bieber - Love Yourself.flac
+2631 - Beatles - Rock And Roll Music.flac
+2632 - O'jays - Back Stabbers.flac
+2633 - Dave Berry - Now.flac
+2634 - Kaoma - Lambada.flac
+2635 - Dr. Hook - When You're In Love With A Beautiful Woman.flac
+2636 - Arthur Conley - Sweet Soul Music.flac
+2637 - Lange Frans & Baas B - Het Land Van....flac
+2638 - Sam The Sham & The Pharaohs - Wooly Bully.flac
+2639 - Blink-182 - All The Small Things.flac
+2640 - Katie Melua - Spider's Web.flac
+2641 - Muse - Madness.flac
+2642 - R. Kelly - If I Could Turn Back The Hands Of Time.flac
+2643 - Justin Bieber - Sorry.flac
+2644 - Lady Gaga - Alejandro.flac
+2645 - Katie Melua - Piece By Piece.flac
+2646 - Robert Long - Iedereen Doet 't.flac
+2647 - Bruce Springsteen - Trapped.flac
+2648 - Jermaine Jackson & Pia Zadora - When The Rain Begins To Fall.flac
+2649 - Led Zeppelin - Since I've Been Loving You.flac
+2650 - Edward Sharpe & The Magnetic Zeros - Home.flac
+2651 - 2pac - Dear Mama.flac
+2652 - Carly Simon - It's Hard To Be Tender.flac
+2653 - Emilia - Big Big World.flac
+2654 - Frans Bauer & Marianne Weber - De Regenboog.flac
+2655 - Santana - Jin-Go-Lo-Ba.flac
+2656 - Tom Tom Club - Wordy Rappinghood.flac
+2657 - Van Orly - Calling Out.flac
+2658 - David Bowie - Young Americans.flac
+2659 - Gers Pardoel - Ik Neem Je Mee.flac
+2660 - Marco Borsato & Lucie Silvas - Everytime I Think Of You.flac
+2661 - Spencer Davis Group - Time Seller.flac
+2662 - Jules De Corte - Ik Zou Wel Eens Willen Weten....flac
+2663 - Partner - Kayuta Hill.flac
+2664 - Bon Jovi - Keep The Faith.flac
+2665 - Swinging Soul Machine - Spooky's Day Off.flac
+2666 - Springwater - I Will Return.flac
+2667 - George Michael - Freedom.flac
+2668 - Harpo - Moviestar.flac
+2669 - Moody Blues - Ride My See-Saw.flac
+2670 - Tom Jones & Mousse T. - Sex Bomb.flac
+2671 - Cat Stevens - Matthew And Son.flac
+2672 - Xtc - Making Plans For Nigel.flac
+2673 - Chris Rea - Fool (If You Think It's Over).flac
+2674 - David Mcwilliams - Days Of Pearly Spencer.flac
+2675 - Gilbert Bécaud - L'important C'est La Rose.flac
+2676 - Green Day - 21 Guns.flac
+2677 - Suzi Quatro - If You Can't Give Me Love.flac
+2678 - Elvis Presley - Good Luck Charm.flac
+2679 - Sheryl Crow - All I Wanna Do.flac
+2680 - Teach-In - Ding-A-Dong.flac
+2681 - Lenny Kuhr - De Troubadour.flac
+2682 - Mortimer Shuman - Le Lac Majeur.flac
+2683 - Black Keys - Lonely Boy.flac
+2684 - Wally Tax - Miss Wonderful.flac
+2685 - Wes - Alane.flac
+2686 - Billy Swan - I Can Help.flac
+2687 - Anouk - R U Kiddin' Me.flac
+2688 - Vanvelzen - Love Song.flac
+2689 - Jeroen Van Koningsbrugge - Wit Licht.flac
+2690 - Johnny Logan - Hold Me Now.flac
+2691 - Blue Mink - Melting Pot.flac
+2692 - Patsy Cline - Crazy.flac
+2693 - Dan Fogelberg - Longer.flac
+2694 - Muse - Undisclosed Desires.flac
+2695 - Pretenders - 2000 Miles.flac
+2696 - Bruce Springsteen - We Take Care Of Our Own.flac
+2697 - Ilse Delange - Next To Me.flac
+2698 - Karen Young - Hot Shot.flac
+2699 - Mother's Finest - Piece Of The Rock.flac
+2700 - Joe Cocker - Many Rivers To Cross.flac
+2701 - Warm Sounds - Birds And Bees.flac
+2702 - Dr. Buzzard's Original Savannah Band - Cherchez La Femme.flac
+2703 - Trijntje Oosterhuis - Knocked Out.flac
+2704 - Elvis Presley - Little Sister.flac
+2705 - Genesis - Invisible Touch.flac
+2706 - Sade - The Sweetest Taboo.flac
+2707 - Marco Borsato - Stop De Tijd.flac
+2708 - Jim Croce - Bad Bad Leroy Brown.flac
+2709 - Phil Collins - Two Hearts.flac
+2710 - Tornados - Telstar.flac
+2711 - Gorki - Mia.flac
+2712 - Korgis - Everybody's Got To Learn Sometime.flac
+2713 - Moody Blues - The Story In Your Eyes.flac
+2714 - Counting Crows & Vanessa Carlton - Big Yellow Taxi.flac
+2715 - Muse - Time Is Running Out.flac
+2716 - De Staat - Witch Doctor.flac
+2717 - Amen Corner - Gin House Blues.flac
+2718 - Kodaline - All I Want.flac
+2719 - Red Hot Chili Peppers - Road Trippin'.flac
+2720 - Melissa Etheridge - Like The Way I Do (Live).flac
+2721 - Los Lobos - La Bamba.flac
+2722 - Guus Meeuwis - Proosten.flac
+2723 - Armand - Blommenkinders.flac
+2724 - André Van Duin - Bim Bam.flac
+2725 - Eagles - How Long.flac
+2726 - Paul Mccartney & Wings - My Love.flac
+2727 - Katy Perry - Hot 'n Cold.flac
+2728 - Juliane Werding - Stimmen Im Wind.flac
+2729 - Wings - Hi, Hi, Hi.flac
+2730 - Guus Meeuwis & Gers Pardoel - Nergens Zonder Jou.flac
+2731 - Saybia - I Surrender.flac
+2732 - Family Of The Year - Hero.flac
+2733 - Trijntje Oosterhuis - That's What Friends Are For.flac
+2734 - Abba - Head Over Heels.flac
+2735 - Smiths - Bigmouth Strikes Again.flac
+2736 - Caro Emerald - Stuck.flac
+2737 - Ozzy Osbourne - No More Tears.flac
+2738 - Manfred Mann's Earth Band - Quinn The Eskimo (Mighty Quinn).flac
+2739 - Living Colour - Love Rears Its Ugly Head.flac
+2740 - Depeche Mode - Personal Jesus.flac
+2741 - Julien Clerc - Ce N'est Rien.flac
+2742 - Marbles - Only One Woman.flac
+2743 - Lipps, Inc. - Funkytown.flac
+2744 - Splitsing - Wind En Zeilen.flac
+2745 - Anneke Grönloh - Paradiso.flac
+2746 - Pearl Jam - Daughter.flac
+2747 - Acda & De Munnik - Voetstuk Staan.flac
+2748 - Dana - All Kinds Of Everything.flac
+2749 - Stars On 45 - Stars On 45.flac
+2750 - Thunderclap Newman - Something In The Air.flac
+2751 - War On Drugs - Red Eyes.flac
+2752 - Bee Gees - Holiday.flac
+2753 - Red Hot Chili Peppers - By The Way.flac
+2754 - Beyoncé - Single Ladies (Put A Ring On It).flac
+2755 - Billy Ocean - Suddenly.flac
+2756 - Kinks - Till The End Of The Day.flac
+2757 - Tom Jones - Delilah.flac
+2758 - Juanes - La Camisa Negra.flac
+2759 - Roxy Music - More Than This.flac
+2760 - Ed Sheeran - Shape Of You.flac
+2761 - Leonard Cohen - You Want It Darker.flac
+2762 - Racoon - Freedom.flac
+2763 - Editors - The Racing Rats.flac
+2764 - Billy Preston & Syreeta - With You I'm Born Again.flac
+2765 - Clouseau - Anne.flac
+2766 - Daryl Hall & John Oates - Rich Girl.flac
+2767 - Marco Borsato & Do - Voorbij.flac
+2768 - Brian Hyland - Sealed With A Kiss.flac
+2769 - Association - Along Comes Mary.flac
+2770 - Killers - Somebody Told Me.flac
+2771 - Rod Stewart - Da Ya Think I'm Sexy.flac
+2772 - Donald Fagen - I.g.y..flac
+2773 - Douwe Bob - Jacob's Song.flac
+2774 - Sugarloaf - Don't Call Us We'll Call You.flac
+2775 - Lobo - Me And You And A Dog Named Boo.flac
+2776 - Otis Redding - Try A Little Tenderness.flac
+2777 - Faces - Stay With Me.flac
+2778 - Martin Garrix - Animals.flac
+2779 - Rolling Stones - Get Off Of My Cloud.flac
+2780 - Verve - The Drugs Don't Work.flac
+2781 - 10cc - Good Morning Judge.flac
+2782 - Emeli Sandé - Next To Me.flac
+2783 - Animals - Ring Of Fire.flac
+2784 - Anne Marie David - Tu Te Reconnaîtras.flac
+2785 - P!nk - Raise Your Glass.flac
+2786 - Dotan - Fall.flac
+2787 - Liesbeth List - Te Veel Te Vaak.flac
+2788 - Gordon Lightfoot - Sundown.flac
+2789 - Daft Punk - Harder, Better, Faster, Stronger.flac
+2790 - Michael Jackson & Justin Timberlake - Love Never Felt So Good.flac
+2791 - Ben Cramer - De Clown.flac
+2792 - Mo - Fred Astaire (Just A Summer Love Affair).flac
+2793 - Gabriella Cilmi - Sweet About Me.flac
+2794 - Ramones - Blitzkrieg Bop.flac
+2795 - Trio Hellenique - La Danse De Zorba.flac
+2796 - Alicia Keys - No One.flac
+2797 - Guess Who - Clap For The Wolfman.flac
+2798 - James Brown - I Got You (I Feel Good).flac
+2799 - Diana Ross & The Supremes - Reflections.flac
+2800 - Ed Sheeran - Perfect.flac
+2801 - Led Zeppelin - Dazed And Confused.flac
+2802 - Stevie Wonder & Babyface - How Come How Long.flac
+2803 - De Dijk - Laat Het Vanavond Gebeuren.flac
+2804 - Taylor Swift - Shake It Off.flac
+2805 - Ed Sheeran - Castle On The Hill.flac
+2806 - Volbeat - Sad Man's Tongue.flac
+2807 - Searchers - Take It Or Leave It.flac
+2808 - Ivan Heylen - De Wilde Boerendochter.flac
+2809 - Kinks - Shangrila.flac
+2810 - Matt Simons - Catch & Release.flac
+2811 - Queens Of The Stone Age - Go With The Flow.flac
+2812 - Leen Jongewaard & André Van Den Heuvel - Op Een Mooie Pinksterdag.flac
+2813 - Ilse Delange - Blue Bittersweet.flac
+2814 - King Crimson - Starless.flac
+2815 - Simple Minds - Someone Somewhere (In Summertime).flac
+2816 - André Van Duin - Willempie.flac
+2817 - Fatboy Slim - Praise You.flac
+2818 - Gabriel Rios - Broad Daylight.flac
+2819 - José Feliciano - The Windmills Of Your Mind.flac
+2820 - Conny Vandenbos - Paleis Met Gouden Muren.flac
+2821 - Sylvain Poons & Oetze Verschoor - Zuiderzeeballade.flac
+2822 - Heart - Barracuda.flac
+2823 - Daryl Hall & John Oates - Maneater.flac
+2824 - Popcorn - Popcorn.flac
+2825 - Doors - Break On Through.flac
+2826 - Terence Trent D'arby - Sign Your Name.flac
+2827 - Bruno Mars - 24k Magic.flac
+2828 - Fugees - Killing Me Softly.flac
+2829 - Kensington - Done With It.flac
+2830 - Lynsey De Paul - Sugar Me.flac
+2831 - Mike Batt - Lady Of The Dawn.flac
+2832 - Pretenders - I Go To Sleep.flac
+2833 - Twice As Much - Sittin' On A Fence.flac
+2834 - Sandie Shaw - Puppet On A String.flac
+2835 - Gary Brooker - No More Fear Of Flying.flac
+2836 - Train - 50 Ways To Say Goodbye.flac
+2837 - Queen - You Don't Fool Me.flac
+2838 - Leonard Cohen - Take This Waltz.flac
+2839 - U2 & Green Day - The Saints Are Coming.flac
+2840 - David Bowie - Wild Is The Wind.flac
+2841 - Sam Smith - I'm Not The Only One.flac
+2842 - Blind Melon - No Rain.flac
+2843 - Mai Tai - Am I Losing You Forever.flac
+2844 - James Blunt - 1973.flac
+2845 - Paul Mccartney & Stevie Wonder - Ebony And Ivory.flac
+2846 - Huey Lewis & The News - The Power Of Love.flac
+2847 - F.r. David - Words.flac
+2848 - Kings Of Leon - Back Down South.flac
+2849 - John Lee Hooker & Carlos Santana - The Healer.flac
+2850 - Eros Ramazzotti - Un Emozione Per Sempre.flac
+2851 - Maggie Macneal - When You're Gone.flac
+2852 - Euson - Both Sides Now.flac
+2853 - Shakira - Hips Don't Lie.flac
+2854 - Miss Montreal - Just A Flirt.flac
+2855 - Robbie Williams - Advertising Space.flac
+2856 - Andy Kim - Baby I Love You.flac
+2857 - Lucie Silvas - What You're Made Of.flac
+2858 - Jon Anderson - Surrender.flac
+2859 - Manhattan Transfer - Chanson D'amour.flac
+2860 - Björk - It's Oh So Quiet.flac
+2861 - Johnny Lion - Sophietje.flac
+2862 - Don Quishocking - De Oude School.flac
+2863 - Alvin Stardust - Pretend.flac
+2864 - Saybia - The Second You Sleep.flac
+2865 - Ellen Foley - What's A Matter Baby.flac
+2866 - Kadanz - In Het Donker.flac
+2867 - Rob Hoeke Rhythm & Blues Group - Margio.flac
+2868 - Elton John - Blue Eyes.flac
+2869 - Arctic Monkeys - When The Sun Goes Down.flac
+2870 - Syndicate Of Sound - Little Girl.flac
+2871 - Carly Rae Jepsen - Call Me Maybe.flac
+2872 - Ritchie Valens - Donna.flac
+2873 - Therapy - Diane.flac
+2874 - Bram Tchaikovsky - Sarah Smiles.flac
+2875 - Earth, Wind & Fire - Star.flac
+2876 - Bad Company - Can't Get Enough.flac
+2877 - Barry White - Can't Get Enough Of Your Love, Babe.flac
+2878 - Bruno Mars - Marry You.flac
+2879 - Normaal - Alie.flac
+2880 - Edwin Hawkins Singers - Oh, Happy Day.flac
+2881 - Beastie Boys - Intergalactic.flac
+2882 - Billie Jo Spears - Blanket On The Ground.flac
+2883 - Crystal Gayle - Don't It Make My Brown Eyes Blue.flac
+2884 - Meat Loaf - Alive.flac
+2885 - Sweet - Action.flac
+2886 - Wim Sonneveld - Margootje.flac
+2887 - Madonna - Material Girl.flac
+2888 - Walk The Moon - Shut Up & Dance.flac
+2889 - Louis Armstrong - Hello Dolly.flac
+2890 - Corry Brokken - La Mamma.flac
+2891 - James Morrison - Wonderful World.flac
+2892 - Outsiders - Summer Is Here.flac
+2893 - Katrina & The Waves - Love Shine A Light.flac
+2894 - Alides Hidding - Hollywood Seven.flac
+2895 - Bon Jovi - In These Arms.flac
+2896 - Belinda Carlisle - Circle In The Sand.flac
+2897 - Raymond Van Het Groenewoud - Twee Meisjes.flac
+2898 - Rush - Spirit Of Radio.flac
+2899 - Dionne Warwick - Heartbreaker.flac
+2900 - Lukas Graham - 7 Years.flac
+2901 - Kajagoogoo - Too Shy.flac
+2902 - Julien Clerc - Si On Chantait.flac
+2903 - Anouk & Douwe Bob - Hold Me.flac
+2904 - Louis Neefs - Margrietje (De Rozen Zullen Bloeien).flac
+2905 - Helen Shapiro - Walking Back To Happiness.flac
+2906 - Europe - Carrie.flac
+2907 - Matt Dusk - Two Shots Of Happy One Shot Of Sad.flac
+2908 - Dawn - Tie A Yellow Ribbon 'round The Ole Oak Tree.flac
+2909 - Gloria Estefan & Miami Sound Machine - Anything For You.flac
+2910 - Placebo - Pure Morning.flac
+2911 - Sister Sledge - Lost In Music.flac
+2912 - Neil Diamond - Morning Side.flac
+2913 - Fleetwood Mac - As Long As You Follow.flac
+2914 - Frankie Laine - Rawhide.flac
+2915 - John Lennon - Instant Karma.flac
+2916 - Nick & Simon - Vallende Sterren.flac
+2917 - Robbie Williams & Nicole Kidman - Somethin' Stupid.flac
+2918 - Roxy Music - Dance Away.flac
+2919 - Smiths - How Soon Is Now.flac
+2920 - Elton John - Don't Let The Sun Go Down On Me.flac
+2921 - Paul & Fritz Kalkbrenner - Sky And Sand.flac
+2922 - Bee Gees - Too Much Heaven.flac
+2923 - Doors - Roadhouse Blues.flac
+2924 - Adele - Million Years Ago.flac
+2925 - Doe Maar - Doris Day.flac
+2926 - Vandenberg - Burning Heart.flac
+2927 - Julio Iglesias - Quiereme Mucho.flac
+2928 - Crispian St. Peters - You Were On My Mind.flac
+2929 - J.j. Cale - Call Me The Breeze.flac
+2930 - Third World - Now That We Found Love.flac
+2931 - Q65 - World Of Birds.flac
+2932 - Sailor - Traffic Jam.flac
+2933 - Godley & Creme - Cry.flac
+2934 - Londonbeat - I've Been Thinking About You.flac
+2935 - Bush - Glycerine.flac
+2936 - Gerry Rafferty - City To City.flac
+2937 - Ed Sheeran - Sing.flac
+2938 - Nitty Gritty Dirt Band - Mr. Bojangles.flac
+2939 - Peter Schaap - Adem Mijn Adem.flac
+2940 - Vanvelzen - When Summer Ends.flac
+2941 - Bojoura - Frank Mills.flac
+2942 - Labrinth Ft. Emeli Sandé - Beneath Your Beautiful.flac
+2943 - Supremes - Baby Love.flac
+2944 - Gregory Porter - Liquid Spirit.flac
+2945 - Robbie Williams - Supreme.flac
+2946 - Twenty One Pilots - Stressed Out.flac
+2947 - Kool & The Gang - Cherish.flac
+2948 - Sailor - Girls, Girls, Girls.flac
+2949 - P!nk - What About Us.flac
+2950 - Malando - Olé Guapa.flac
+2951 - Donna Summer - Could It Be Magic.flac
+2952 - Olivia Newton-John - I Honestly Love You.flac
+2953 - Lulu - The Man Who Sold The World.flac
+2954 - Foo Fighters - Wheels.flac
+2955 - Time Bandits - I'm Specialized In You.flac
+2956 - Chef'special - Amígo.flac
+2957 - Arcade Fire - Everything Now.flac
+2958 - Van Halen - Why Can't This Be Love.flac
+2959 - Elvis Costello - Oliver's Army.flac
+2960 - Gilbert O'sullivan - Get Down.flac
+2961 - Michael Mcdonald - Sweet Freedom.flac
+2962 - Emmylou Harris - (You Never Can Tell) C'est La Vie.flac
+2963 - Chicago - Baby, What A Big Surprise.flac
+2964 - Bløf - Beter.flac
+2965 - Darts - Come Back My Love.flac
+2966 - Marco Borsato - Wit Licht.flac
+2967 - Connells - '74-'75.flac
+2968 - Justin Bieber - What Do You Mean.flac
+2969 - Walkers - There's No More Corn On The Brasos.flac
+2970 - Grace Kelly & Bing Crosby - True Love.flac
+2971 - House Of Pain - Jump Around.flac
+2972 - Jeroen Van Der Boom - Jij Bent Zo.flac
+2973 - Arctic Monkeys - Fluorescent Adolescent.flac
+2974 - Bonnie Tyler - It's A Heartache.flac
+2975 - Everly Brothers - Wake Up Little Susie.flac
+2976 - Script - No Good In Goodbye.flac
+2977 - Mott The Hoople - All The Young Dudes.flac
+2978 - Xavier Rudd - Follow The Sun.flac
+2979 - Maître Gims - J'me Tire.flac
+2980 - Dotan - Hungry.flac
+2981 - Nana Mouskouri - Only Love.flac
+2982 - Michael Bublé - It's A Beautiful Day.flac
+2983 - Nielson & Miss Montreal - Hoe.flac
+2984 - B.j. Thomas - Raindrops Keep Fallin' On My Head.flac
+2985 - Leonard Cohen - Famous Blue Raincoat.flac
+2986 - Take That - The Flood.flac
+2987 - Beach Boys - Kokomo.flac
+2988 - Matthews Southern Comfort - Woodstock.flac
+2989 - Prince - Diamonds And Pearls.flac
+2990 - Them - Baby Please Don't Go.flac
+2991 - Julie Rogers - The Wedding.flac
+2992 - David Bowie - Blackstar.flac
+2993 - Metallica - Whiskey In The Jar.flac
+2994 - Miami Sound Machine - Conga!.flac
+2995 - Jackson 5 - I Want You Back.flac
+2996 - Passenger - The Wrong Direction.flac
+2997 - Lou Reed - Satellite Of Love.flac
+2998 - Guus Meeuwis - Armen Open.flac
+2999 - Knack - My Sharona.flac
+3000 - Tom Robinson - Listen To The Radio (Atmospherics).flac
+3001 - Racey - Lay Your Love On Me.flac
+3002 - Billy Joel - My Life.flac
+3003 - Patty Pravo - La Bambola.flac
+3004 - Janis Joplin - Cry Baby.flac
+3005 - Starship - We Built This City.flac
+3006 - Lionel Richie - Stuck On You.flac
+3007 - David Bowie - Where Are We Now.flac
+3008 - Les Reed Orchestra - Man Of Action.flac
+3009 - Margie Ball - Goodbye To Love.flac
+3010 - Paul Mccartney - Dance Tonight.flac
+3011 - Shirley Zwerus - Heel Even.flac
+3012 - Fairport Convention - Si Tu Dois Partir, Va-T-En.flac
+3013 - Kingston Trio - Tom Dooley.flac
+3014 - Heaven 17 - Temptation.flac
+3015 - Bintangs - Traveling In The Usa.flac
+3016 - Linda Ronstadt & Aaron Neville - Don't Know Much.flac
+3017 - Paolo Nutini - New Shoes.flac
+3018 - Rah Band - Clouds Across The Moon.flac
+3019 - Tom Petty - Free Fallin'.flac
+3020 - Rammstein - Mutter.flac
+3021 - Supremes - Stop! In The Name Of Love.flac
+3022 - Nancy Sinatra & Frank Sinatra - Something Stupid.flac
+3023 - Adamo - C'est Ma Vie.flac
+3024 - John Mayer - Perfectly Lonely.flac
+3025 - Joni Mitchell - Both Sides Now.flac
+3026 - Kovacs - Diggin'.flac
+3027 - Chris Barber's Jazz Band - Ice Cream.flac
+3028 - Fay Lovsky - Christmas Was A Friend Of Mine.flac
+3029 - Common Linnets - Love Goes On.flac
+3030 - Beyoncé - Love On Top.flac
+3031 - Clouseau - Domino.flac
+3032 - Shawn Mendes - Stitches.flac
+3033 - Temper Trap - Sweet Disposition.flac
+3034 - Eddie Hodges - I'm Gonna Knock On Your Door.flac
+3035 - Abc - Poison Arrow.flac
+3036 - Stephen Stills - Love The One You're With.flac
+3037 - Dolly Dots - All The Roses.flac
+3038 - Demis Roussos - Forever And Ever.flac
+3039 - Jamiroquai - Virtual Insanity.flac
+3040 - Ro-D-Ys - Take Her Home.flac
+3041 - Mezzoforte - Garden Party.flac
+3042 - Gavin Degraw - Not Over You.flac
+3043 - Michel Polnareff - La Poupée Qui Fait Non.flac
+3044 - Beatles - Please Please Me.flac
+3045 - Chainsmokers & Coldplay - Something Just Like This.flac
+3046 - Electric Light Orchestra - Showdown.flac
+3047 - Paul Young - Every Time You Go Away.flac
+3048 - Gérard Lenorman - Voici Les Clés.flac
+3049 - Kinks - Come Dancing.flac
+3050 - Sex Pistols - Anarchy In The U.k..flac
+3051 - Fink - Looking Too Closely.flac
+3052 - Stan Ridgway - Camouflage.flac
+3053 - Michael Bolton - How Am I Supposed To Live Without You.flac
+3054 - Coldplay - God Put A Smile Upon Your Face.flac
+3055 - Creedence Clearwater Revival - Sweet Hitchhiker.flac
+3056 - Freddie Mercury - The Great Pretender.flac
+3057 - Bee Gees - Jive Talkin'.flac
+3058 - Osmonds - Down By The Lazy River.flac
+3059 - King - Love & Pride.flac
+3060 - Twice As Much - True Story.flac
+3061 - Kenny Loggins & Stevie Nicks - Whenever I Call You Friend.flac
+3062 - Nick & Simon - De Dag Dat Alles Beter Is.flac
+3063 - Platters - Smoke Gets In Your Eyes.flac
+3064 - Racoon - Brick By Brick.flac
+3065 - Ritchie Valens - La Bamba.flac
+3066 - Neil Diamond - Play Me.flac
+3067 - Fortunes - Here It Comes Again.flac
+3068 - Nelly Furtado - All Good Things (Come To An End).flac
+3069 - Script - Six Degrees Of Separation.flac
+3070 - Chris Andrews - To Whom It Concerns.flac
+3071 - Dionne Warwick - Anyone Who Had A Heart.flac
+3072 - Bob Dylan - I'll Be Your Baby Tonight.flac
+3073 - Foo Fighters - All My Life.flac
+3074 - Cliff Richard - I Could Easily Fall In Love.flac
+3075 - Ryan Paris - Dolce Vita.flac
+3076 - Peggy Lee - Is That All There Is.flac
+3077 - Boston - Amanda.flac
+3078 - Bløf - Hier.flac
+3079 - Kim Wilde - Never Trust A Stranger.flac
+3080 - Green Day - Holiday.flac
+3081 - Stretch - Why Did You Do It.flac
+3082 - Foo Fighters - Times Like These.flac
+3083 - Michael Kiwanuka - Cold Little Heart.flac
+3084 - Drifters - Under The Boardwalk.flac
+3085 - Prince - The Most Beautiful Girl In The World.flac
+3086 - Sam Hunt - Take Your Time.flac
+3087 - Calum Scott & Tiësto - Dancing On My Own.flac
+3088 - Supremes - You Can't Hurry Love.flac
+3089 - George Michael - You Have Been Loved.flac
+3090 - Marco Borsato & Trijntje Oosterhuis - Ik Zou Het Zo Weer Overdoen.flac
+3091 - Rob De Nijs - Dag Zuster Ursula.flac
+3092 - Bangles - Manic Monday.flac
+3093 - George Harrison - Give Me Love (Give Me Peace On Earth).flac
+3094 - Paul Mccartney & Wings - Silly Love Songs.flac
+3095 - Rolling Stones - Undercover Of The Night.flac
+3096 - Sid Vicious - My Way.flac
+3097 - Johnny Cash - San Quentin (Live At San Quentin).flac
+3098 - Robin Gibb - Saved By The Bell.flac
+3099 - T. Rex - Hot Love.flac
+3100 - Bruno Mars - Treasure.flac
+3101 - Tiësto - Traffic.flac
+3102 - Paul Hardcastle - 19.flac
+3103 - Paul Young - Wherever I Lay My Hat.flac
+3104 - Gavin Degraw - Soldier.flac
+3105 - Jamiroquai - Deeper Underground.flac
+3106 - Matthew Wilder - Break My Stride.flac
+3107 - Chris Andrews - Yesterday Man.flac
+3108 - Spice Girls - Mama.flac
+3109 - Foster The People - Pumped Up Kicks.flac
+3110 - Dead Or Alive - You Spin Me Round.flac
+3111 - Clarence Clemons & Jackson Browne - You're A Friend Of Mine.flac
+3112 - Paul Anka - Lonely Boy.flac
+3113 - Tozzi & Raf - Gente Di Mare.flac
+3114 - James Morrison & Nelly Furtado - Broken Strings.flac
+3115 - Charles & Eddie - Would I Lie To You.flac
+3116 - Everly Brothers - Claudette.flac
+3117 - John Mayer - In The Blood.flac
+3118 - Casuals - Jesamine.flac
+3119 - Milow - You And Me (In My Pocket).flac
+3120 - Graham Nash - Chicago.flac
+3121 - Brood & Vrienten - Als Je Wint.flac
+3122 - Crystal Fighters - Plage.flac
+3123 - Plastic Bertrand - Ça Plane Pour Moi.flac
+3124 - Rudi Carrell - Samen Een Straatje Om.flac
+3125 - Depeche Mode - Blasphemous Rumours.flac
+3126 - Lionel Richie - Dancing On The Ceiling.flac
+3127 - Livin' Blues - Wang Dang Doodle.flac
+3128 - Kinks - Dandy.flac
+3129 - Smashing Pumpkins - Tonight, Tonight.flac
+3130 - Freiheit - Play It Cool.flac
+3131 - Elvis Presley - Moody Blue.flac
+3132 - Bløf Feat. Ilse Delange - Open Je Ogen.flac
+3133 - Gene Kelly - Singin' In The Rain.flac
+3134 - Oliver - Good Morning Starshine.flac
+3135 - Tommy James & The Shondells - Crimson And Clover.flac
+3136 - Eels - Novocaine For The Soul.flac
+3137 - Nicole - Ein Bisschen Frieden.flac
+3138 - R.e.m. - It's The End Of The World As We Know It (And I Feel Fine).flac
+3139 - Matt Bianco - More Than I Can Bear.flac
+3140 - American Breed - Bend Me Shape Me.flac
+3141 - Searchers - Goodbye My Love.flac
+3142 - Racoon - Lucky All My Life.flac
+3143 - Adamski Ft. Seal - Killer.flac
+3144 - Black Crowes - Hard To Handle.flac
+3145 - Cats - Sure He's A Cat.flac
+3146 - Train - Drive By.flac
+3147 - Alicia Keys - Girl On Fire.flac
+3148 - Avicii - Addicted To You.flac
+3149 - Beach Boys - Do It Again.flac
+3150 - Causes - Teach Me How To Dance With You.flac
+3151 - Michael Bublé - Hold On.flac
+3152 - Adam And The Ants - Stand And Deliver.flac
+3153 - Counting Crows - Round Here.flac
+3154 - Real Thing - You To Me Are Everything.flac
+3155 - Jan Smit - Dan Volg Je Haar Benen.flac
+3156 - Gary Puckett & The Union Gap - Young Girl.flac
+3157 - Redbone - The Witch Queen Of New Orleans.flac
+3158 - 1910 Fruitgum Co. - Simon Says.flac
+3159 - Twenty One Pilots - Heathens.flac
+3160 - Johnny & Orquestra Rodrigues - Hey Mal Yo.flac
+3161 - Supertramp - Cannonball.flac
+3162 - Gossip - Heavy Cross.flac
+3163 - Spinvis - Bagagedrager.flac
+3164 - Majority One - Because I Love.flac
+3165 - Hep Stars - Sunny Girl.flac
+3166 - Bløf Ft. Geike - Zoutelande.flac
+3167 - Mama's & The Papa's - I Saw Her Again.flac
+3168 - Labi Siffre - It Must Be Love.flac
+3169 - Miami Sound Machine - Dr Beat.flac
+3170 - U2 - City Of Blinding Lights.flac
+3171 - Crowded House - Better Be Home Soon.flac
+3172 - John Parr - St. Elmo's Fire.flac
+3173 - Jett Rebel - Louise.flac
+3174 - 3js - De Stroom.flac
+3175 - Blue Mink - Good Morning Freedom.flac
+3176 - Cliff Richard - The Best Of Me.flac
+3177 - Anita Ward - Ring My Bell.flac
+3178 - Olivia Newton-John - Sam.flac
+3179 - Leo Sayer - Long Tall Glasses.flac
+3180 - Troggs - With A Girl Like You.flac
+3181 - Beyoncé Feat. Jay Z - Crazy In Love.flac
+3182 - Harry Styles - Sign Of The Times.flac
+3183 - Raymond Froggatt - Callow La Vita.flac
+3184 - Imagine Dragons - Thunder.flac
+3185 - Diana Ross & Lionel Richie - Endless Love.flac
+3186 - Kayak - Mammoth.flac
+3187 - Rose Royce - Carwash.flac
+3188 - Metallica - The Unforgiven Ii.flac
+3189 - Muse - Sing For Absolution.flac
+3190 - Aerosmith - Cryin'.flac
+3191 - Byrds - Jesus Is Just Allright.flac
+3192 - Heart - All I Wanna Do Is Make Love To You.flac
+3193 - Alain Clark - Love Is Everywhere.flac
+3194 - Lenny Kravitz - It Ain't Over 'till It's Over.flac
+3195 - No Mercy - When I Die.flac
+3196 - David Garrick - Dear Mrs. Applebee.flac
+3197 - Mgmt - Kids.flac
+3198 - Stevie Ann - The Poetry Man.flac
+3199 - Trijntje Oosterhuis - Do You Know The Way To San Jose.flac
+3200 - Doobie Brothers - China Groove.flac
+3201 - Eddy Grant - Gimme Hope Jo'anna.flac
+3202 - Hollies - The Baby.flac
+3203 - Otis Redding - Hard To Handle.flac
+3204 - George Michael & Mary J. Blige - As.flac
+3205 - Onerepublic - Secrets.flac
+3206 - Arjan Brass - Leonie.flac
+3207 - Ronnie En De Ronnies - Beestjes.flac
+3208 - Katy Perry - Firework.flac
+3209 - John Mayer - Who Says.flac
+3210 - Jason Mraz - Make It Mine.flac
+3211 - Lloyd Price - Personality.flac
+3212 - Michel Teló - Ai Se Eu Te Pego!.flac
+3213 - 5000 Volts - I'm On Fire.flac
+3214 - Michael Jackson - Gone Too Soon.flac
+3215 - Peter & Gordon - True Love Ways.flac
+3216 - Charlie Rich - The Most Beautiful Girl.flac
+3217 - Rob De Nijs - Zet Een Kaars Voor Je Raam.flac
+3218 - Robert Long - Mien.flac
+3219 - Diana Ross - My Old Piano.flac
+3220 - Hot Chocolate - So You Win Again.flac
+3221 - Jets - The Pied Piper.flac
+3222 - Joe Jackson & Elaine Caswell - Happy Ending.flac
+3223 - Kadanz - Dagen Dat Ik Je Vergeet.flac
+3224 - Egbert Douwe - Kom Uit De Bedstee M'n Liefste.flac
+3225 - Kim Carnes - Bette Davis Eyes.flac
+3226 - Luv' - You're The Greatest Lover.flac
+3227 - Jon Allen - In Your Light.flac
+3228 - Outlaws - There Goes Another Love Song.flac
+3229 - Who - I'm A Boy.flac
+3230 - Jonathan Richman & The Modern Lovers - Egyptian Reggae.flac
+3231 - Bee Gees - My World.flac
+3232 - Cliff Richard - Don't Talk To Him.flac
+3233 - Dean Friedman - Lydia.flac
+3234 - Dave Dee, Dozy, Beaky, Mick & Tich - Zabadak.flac
+3235 - Sharif Dean - Do You Love Me.flac
+3236 - Charles Aznavour - For Me...formidable.flac
+3237 - Elton John - Tiny Dancer.flac
+3238 - Mary Macgregor - Torn Between Two Lovers.flac
+3239 - Nothing But Thieves - Sorry.flac
+3240 - Kraftwerk - The Model.flac
+3241 - Alice In Chains - Rooster.flac
+3242 - Chuck Berry - No Particular Place To Go.flac
+3243 - Bomfunk Mc's - Freestyler.flac
+3244 - James Morrison - Slave To The Music.flac
+3245 - Smokey Robinson & The Miracles - The Tears Of A Clown.flac
+3246 - Sex Pistols - God Save The Queen.flac
+3247 - Ashford & Simpson - Solid.flac
+3248 - Bzn - Sweet Silver Anny.flac
+3249 - U2 - Every Breaking Wave.flac
+3250 - Desmond Dekker & The Aces - The Israelites.flac
+3251 - Fairground Attraction - Perfect.flac
+3252 - Judie Tzuke - Stay With Me Till Dawn.flac
+3253 - Kim Wilde - Chequered Love.flac
+3254 - Prodigy - Out Of Space.flac
+3255 - Ilse Delange - We Are One.flac
+3256 - Novastar - Mars Needs Woman.flac
+3257 - Oasis - Live Forever.flac
+3258 - Country Joe And The Fish - I Feel Like I'm Fixing To Die' Rag.flac
+3259 - Sir Douglas Quintet - Mendocino.flac
+3260 - Alan Walker - Faded.flac
+3261 - Young Rascals - Groovin'.flac
+3262 - Smokie - Lay Back In The Arms Of Someone.flac
+3263 - Pixies - Monkey Gone To Heaven.flac
+3264 - Rolling Stones - Hot Stuff.flac
+3265 - Pet Shop Boys - Go West.flac
+3266 - Bob & Earl - Harlem Shuffle.flac
+3267 - Little Richard - Long Tall Sally.flac
+3268 - Haevn - Finding Out More.flac
+3269 - Roger Whittaker - The Last Farewell.flac
+3270 - Rocco Granata - Marina.flac
+3271 - Terry Jacks - Seasons In The Sun.flac
+3272 - Timbaland & Onerepublic - Apologize.flac
+3273 - Lady Gaga - Paparazzi.flac
+3274 - Suzi Quatro & Chris Norman - Stumblin' In.flac
+3275 - 2pac Feat. Dr. Dre - California Love.flac
+3276 - Gloria Estefan - Don't Wanna Lose You.flac
+3277 - Styx - Boat On The River.flac
+3278 - Aerosmith - Crazy.flac
+3279 - Macklemore & Ryan Lewis - Thrift Shop.flac
+3280 - Mr. Big - To Be With You.flac
+3281 - Love Unlimited - I'm So Glad That I'm A Woman.flac
+3282 - Beck - Loser.flac
+3283 - Abba - I Do I Do I Do I Do I Do.flac
+3284 - George Michael - Praying For Time.flac
+3285 - Green Day - When I Come Around.flac
+3286 - James Blunt - Bonfire Heart.flac
+3287 - Lori Spee - How Many Times.flac
+3288 - Isley Brothers - The Highways Of My Life.flac
+3289 - Maroon 5 - Misery.flac
+3290 - Niels Geusebroek - Year Of Summer (Acoustic).flac
+3291 - Wings - Listen To What The Man Said.flac
+3292 - Chemical Brothers - Galvanize.flac
+3293 - Hollies - Man Without A Heart.flac
+3294 - Run Dmc & Aerosmith - Walk This Way.flac
+3295 - Lenny Kravitz - I'll Be Waiting.flac
+3296 - Arcade Fire - Reflektor.flac
+3297 - Jan Smit - Cupido.flac
+3298 - Beastie Boys - No Sleep Till Brooklyn.flac
+3299 - Billy J. Kramer With The Dakotas - Little Children.flac
+3300 - Bon Jovi - (You Want To) Make A Memory.flac
+3301 - Rolling Stones - Mother's Little Helper.flac
+3302 - Archies - Sugar Sugar.flac
+3303 - Marcels - Blue Moon.flac
+3304 - Marianne Faithfull - Summer Nights.flac
+3305 - Bastille - Good Grief.flac
+3306 - Jay & The Americans - Cara Mia.flac
+3307 - Dillinger - Cokane In My Brain.flac
+3308 - Lowell George - Cheek To Cheek.flac
+3309 - Polle Eduard - Ik Wil Jou.flac
+3310 - Flower Pot Men - Let's Go To San Francisco.flac
+3311 - Billy Joel - Scenes From An Italian Restaurant.flac
+3312 - Paul Mccartney & Wings - Mrs Vandebilt.flac
+3313 - Adele - Water Under The Bridge.flac
+3314 - Laura Pausini - Strani Amori.flac
+3315 - Elvis Presley - Guitar Man.flac
+3316 - Höllenboer - Het Busje Komt Zo.flac
+3317 - Spinvis - Kom Terug.flac
+3318 - Cilla Black - Anyone Who Had A Heart.flac
+3319 - Nini Rosso - Il Silenzio.flac
+3320 - Raymond Van Het Groenewoud - Meisjes.flac
+3321 - Paul Anka - (You're) Having My Baby.flac
+3322 - Taylor Swift & Ed Sheeran - Everything Has Changed.flac
+3323 - Ace Of Base - All That She Wants.flac
+3324 - Van Mccoy - The Hustle.flac
+3325 - Madonna - Hung Up.flac
+3326 - Tom Petty & The Heartbreakers - Mary Jane's Last Dance.flac
+3327 - Eminem - Without Me.flac
+3328 - New Shining - Can't Make Up My Mind.flac
+3329 - Patti Labelle & Michael Mcdonald - On My Own.flac
+3330 - Gipsy Kings - Bamboleo.flac
+3331 - Commodores - Still.flac
+3332 - Juliane Werding - Geh Nicht In Die Stadt.flac
+3333 - Maywood - Late At Night.flac
+3334 - Pretenders - Don't Get Me Wrong.flac
+3335 - Paul Mauriat - Love Is Blue.flac
+3336 - Sam Smith - Writing's On The Wall.flac
+3337 - Imagine Dragons - Believer.flac
+3338 - Guy Mitchell - My Truly, Truly Fair.flac
+3339 - Fat Mattress - Magic Forest.flac
+3340 - Will Tura - Ik Ben Zo Eenzaam Zonder Jou.flac
+3341 - Donald Fagen - New Frontier.flac
+3342 - Nick & Simon - Hoe Lang.flac
+3343 - Sherbet - Howzat.flac
+3344 - Tim Hardin - Simple Song Of Freedom.flac
+3345 - Vanessa Williams - Save The Best For Last.flac
+3346 - Christians - Words.flac
+3347 - Chef'special - On Shoulders.flac
+3348 - Bill Haley & His Comets - See You Later Alligator.flac
+3349 - Bløf & Nielson - Mannenharten.flac
+3350 - Inxs - Suicide Blonde.flac
+3351 - Los Del Río - Macarena.flac
+3352 - Smash Mouth - All Star.flac
+3353 - Yarbrough & Peoples - Don't Stop The Music.flac
+3354 - Michel Polnareff - Love Me, Please Love Me.flac
+3355 - Sheena Easton - For Your Eyes Only.flac
+3356 - Bananarama - Robert De Niro's Waiting.flac
+3357 - Middle Of The Road - Soley Soley.flac
+3358 - Black Keys - Gold On The Ceiling.flac
+3359 - Jim Diamond - I Should Have Known Better.flac
+3360 - Claw Boys Claw - Rosie.flac
+3361 - Led Zeppelin - Rock And Roll.flac
+3362 - Wim Sonneveld - Tearoom Tango.flac
+3363 - Chris Farlowe - Out Of Time.flac
+3364 - Chubby Checker - Lovely Lovely.flac
+3365 - John Newman - Love Me Again.flac
+3366 - Sergio Mendes & Brasil '66 - Mas Que Nada.flac
+3367 - Bread - Lost Without Your Love.flac
+3368 - Michel Delpech - Pour Un Flirt.flac
+3369 - Joe Cocker - Delta Lady.flac
+3370 - Beastie Boys - (You Gotta) Fight For Your Right (To Party!).flac
+3371 - Seekers - A World Of Our Own.flac
+3372 - Honeycombs - Have I The Right.flac
+3373 - Kc & The Sunshine Band - Get Down Tonight.flac
+3374 - Anouk - I'm A Cliche.flac
+3375 - Jantje Smit - Ik Zing Dit Lied Voor Jou Alleen.flac
+3376 - Grace Jones - I've Seen That Face Before.flac
+3377 - Tracey Ullman - Breakaway.flac
+3378 - Clean Bandit Ft. Jess Glynne - Rather Be.flac
+3379 - Haddaway - What Is Love.flac
+3380 - Robin Beck - First Time.flac
+3381 - Little Richard - Tutti Frutti.flac
+3382 - Linkin Park - One More Light.flac
+3383 - Middle Of The Road - Chirpy Chirpy Cheep Cheep.flac
+3384 - Thelma Houston - Don't Leave Me This Way.flac
+3385 - Ray Peterson - Tell Laura I Love Her.flac
+3386 - Bløf - Een Manier Om Thuis Te Komen.flac
+3387 - Jan Smit - Stilte In De Storm.flac
+3388 - Manfred Mann's Earth Band - Father Of Day, Father Of Night.flac
+3389 - Shawn Mendes - Mercy.flac
+3390 - Niall Horan - This Town.flac
+3391 - Katie Melua - Shy Boy.flac
+3392 - Gusttavo Lima - Balada (Tchê Tcherere Tchê Tchê).flac
+3393 - Laura Jansen - Wicked World.flac
+3394 - Prodigy - No Good (Start The Dance).flac
+3395 - Maria Mckee - Show Me Heaven.flac
+3396 - Lumineers - Ho Hey.flac
+3397 - Jeff Buckley - Grace.flac
+3398 - Tame Impala - The Less I Know The Better.flac
+3399 - Inxs - Original Sin.flac
+3400 - Bread - Baby I'm A Want You.flac
+3401 - Golden Earring - Please Go.flac
+3402 - Neil Diamond - Holly Holy.flac
+3403 - Jacksons - Blame It On The Boogie.flac
+3404 - Bobbie Gentry - Ode To Billie Joe.flac
+3405 - Glenn Medeiros - Nothing's Gonna Change My Love For You.flac
+3406 - Trijntje Oosterhuis - Better Think Twice.flac
+3407 - Rob Hoeke's Boogie Woogie Quartet - Down South.flac
+3408 - Sandra - (I'll Never Be) Maria Magdalena.flac
+3409 - Tom Petty & The Heartbreakers - Learning To Fly.flac
+3410 - Jason Mraz & Colbie Caillat - Lucky.flac
+3411 - Julie Driscoll, Brian Auger & Trinity - This Wheel's On Fire.flac
+3412 - Robbie Williams & Pet Shop Boys - She's Madonna.flac
+3413 - Marvin, Welch & Farrar - Lady Of The Morning.flac
+3414 - George Benson - Give Me The Night.flac
+3415 - Sheppard - Geronimo.flac
+3416 - Elbow - Magnificent (She Says).flac
+3417 - Acda & De Munnik - Dan Leef Ik Toch Nog Een Keer.flac
+3418 - Cliff Richard - Move It.flac
+3419 - Desireless - Voyage Voyage.flac
+3420 - Eddie Cochran - C'mon Everybody.flac
+3421 - Frankie Laine - High Noon.flac
+3422 - Chubby Checker - The Twist.flac
+3423 - Jamiroquai - Seven Days In Sunny June.flac
+3424 - Little River Band - Reminiscing.flac
+3425 - Temptations - My Girl.flac
+3426 - Billy Joel - We Didn't Start The Fire.flac
+3427 - Wings - London Town.flac
+3428 - Bananarama - Venus.flac
+3429 - Magna Carta - Took A Long Time.flac
+3430 - June Lodge & Prince Mohammed - Someone Loves You Honey.flac
+3431 - Katy Perry - I Kissed A Girl.flac
+3432 - Donna Summer - The Hostage.flac
+3433 - Joe Dassin - Les Champs Elysées.flac
+3434 - Pat Boone - Bernadine.flac
+3435 - Mouth & Macneal - How Do You Do.flac
+3436 - Move - Blackberry Way.flac
+3437 - Deus - Hotellounge (Be The Death Of Me).flac
+3438 - Spinners - Working My Way Back To You.flac
+3439 - Diana Ross - Upside Down.flac
+3440 - Julio Iglesias - Por Un Poco De Tu Amor.flac
+3441 - Abba - Ring Ring.flac
+3442 - Byrds - Mr. Spaceman.flac
+3443 - Rob Hoeke Rhythm & Blues Group - Drinkin' On My Bed.flac
+3444 - Enrique Iglesias - Bailamos.flac
+3445 - Frankie Valli - Grease.flac
+3446 - U2 - Mysterious Ways.flac
+3447 - Milli Vanilli - Girl I'm Gonna Miss You.flac
+3448 - Michael Jackson - Remember The Time.flac
+3449 - Crazy World Of Arthur Brown - Fire.flac
+3450 - Andrew Gold - Thank You For Being A Friend.flac
+3451 - Christie - Yellow River.flac
+3452 - Abba - Honey, Honey.flac
+3453 - Manfred Mann - Do Wah Diddy Diddy.flac
+3454 - Guus Meeuwis - Ik Wil Nog Niet Naar Huis.flac
+3455 - Sia Feat. Kendrick Lamar - The Greatest.flac
+3456 - Sixpence None The Richer - Kiss Me.flac
+3457 - Fine Young Cannibals - She Drives Me Crazy.flac
+3458 - Mika - Big Girl (You're Are Beautiful).flac
+3459 - Coldplay - Up & Up.flac
+3460 - Luis Fonsi Ft. Daddy Yankee - Despacito.flac
+3461 - Drifters - Kissin' In The Back Row Of The Movies.flac
+3462 - Rubettes - Juke Box Jive.flac
+3463 - Duke Ellington - Take The A Train.flac
+3464 - Brighouse & Rastrick Brass Band - The Floral Dance.flac
+3465 - Isley Brothers - Behind A Painted Smile.flac
+3466 - Esther & Abi Ofarim - Cinderella Rockafella.flac
+3467 - Fats Domino - I'm Walking.flac
+3468 - Miriam Makeba - Pata Pata.flac
+3469 - Van Dik Hout - Meer Dan Een Ander.flac
+3470 - Snow Patrol Feat. Martha Wainwright - Set The Fire To The Third Bar.flac
+3471 - Vanessa Carlton - A Thousand Miles.flac
+3472 - Kt Tunstall - Black Horse & The Cherry Tree.flac
+3473 - Tielman Brothers - Little Bird.flac
+3474 - Wham! - Freedom.flac
+3475 - John Paul Young - Love Is In The Air.flac
+3476 - Hollies - Look Through Any Window.flac
+3477 - Rose Royce - Love Don't Live Here Anymore.flac
+3478 - Dolly Dots - Radio.flac
+3479 - Caro Emerald - Liquid Lunch.flac
+3480 - Van Morrison - Into The Mystic.flac
+3481 - Prince - If I Was Your Girlfriend.flac
+3482 - Riccardo Cocciante - Sincerita.flac
+3483 - Daniël Lohues - Op 't Platteland.flac
+3484 - Ivy League - Tossing And Turning.flac
+3485 - Kinks - Tired Of Waiting For You.flac
+3486 - Mary Hopkin - Goodbye.flac
+3487 - Prince - Controversy.flac
+3488 - Spelbrekers - Katinka.flac
+3489 - Thin Lizzy - Still In Love With You.flac
+3490 - White Lies - Farewell To The Fairground.flac
+3491 - Cliff Richard - It'll Be Me.flac
+3492 - Pete Seeger - We Shall Overcome.flac
+3493 - Mory Kante - Yé Ké Yé Ké.flac
+3494 - U2 - Sweetest Thing.flac
+3495 - Lisa Stansfield - All Around The World.flac
+3496 - Randy Vanwarmer - Just When I Needed You Most.flac
+3497 - Pino D'angio' - Ma Quale Idea.flac
+3498 - Shorts - Comment Ça Va.flac
+3499 - Sandpipers - Guantanamera.flac
+3500 - Radiohead - High And Dry.flac
+3501 - Sammy Davis Jr. - Baretta's Theme.flac
+3502 - Ben Howard - The Fear.flac
+3503 - Bløf - Oktober.flac
+3504 - Salt-N-Pepa - Push It.flac
+3505 - Billy Ocean - Red Light.flac
+3506 - Kelly Clarkson - Breakaway.flac
+3507 - Michael Jackson - P.y.t. (Pretty Young Thing).flac
+3508 - Shirley Bassey - Goldfinger.flac
+3509 - Whitney Houston - How Will I Know.flac
+3510 - Linkin Park - Numb.flac
+3511 - Rolling Stones - Play With Fire.flac
+3512 - Glenn Miller - Moonlight Serenade.flac
+3513 - Prince - Little Red Corvette.flac
+3514 - Tom Petty & The Heartbreakers - Into The Great Wide Open.flac
+3515 - Milk & Honey - Hallelujah.flac
+3516 - Scissor Sisters - I Don't Feel Like Dancin'.flac
+3517 - Reamonn - Supergirl.flac
+3518 - Rupert Holmes - Escape (The Piña Colada Song).flac
+3519 - Eminem - The Real Slim Shady.flac
+3520 - Electric Light Orchestra - Strange Magic.flac
+3521 - Manfred Mann - Pretty Flamingo.flac
+3522 - Brotherhood Of Man - Save Your Kisses For Me.flac
+3523 - Mason Williams - Classical Gas.flac
+3524 - Sandra Van Nieuwland - Keep Your Head Up.flac
+3525 - Smiths - This Charming Man.flac
+3526 - Steve Miller Band - Rock'n Me.flac
+3527 - Fats Domino - Blue Monday.flac
+3528 - Stereophonics - Dakota.flac
+3529 - J.j. Cale - Cajun Moon.flac
+3530 - John Travolta - Sandy.flac
+3531 - Ray Charles - Crying Time.flac
+3532 - Rolling Stones - 19th Nervous Breakdown.flac
+3533 - Maria Mena - I'm In Love.flac
+3534 - Tears For Fears - Change.flac
+3535 - Billy Stewart - Summertime.flac
+3536 - Caro Emerald - Riviera Life.flac
+3537 - Garland Jeffreys - Matador.flac
+3538 - Mcguinn, Clark & Hillman - Don't You Write Her Off Like That.flac
+3539 - Honeybus - I Can't Let Maggie Go.flac
+3540 - Madonna - Crazy For You.flac
+3541 - Neil Young - The Needle And The Damage Done.flac
+3542 - Terence Trent D'arby - Dance Little Sister.flac
+3543 - Dionne Warwick - What The World Needs Now Is Love.flac
+3544 - Fats Domino - There Goes My Heart Again.flac
+3545 - Stone Roses - Fools Gold.flac
+3546 - Irene Cara - Flashdance... What A Feeling.flac
+3547 - Equals - Baby Come Back.flac
+3548 - Muse - Feeling Good.flac
+3549 - Smashing Pumpkins - Bullet With Butterfly Wings.flac
+3550 - Solid Harmonie - I'll Be There For You.flac
+3551 - Snow Patrol - This Isn't Everything You Are.flac
+3552 - Shirley & Company - Shame Shame Shame.flac
+3553 - Tom Odell - Grow Old With Me.flac
+3554 - Ed Sheeran - Don't.flac
+3555 - John Rowles - If I Only Had Time.flac
+3556 - Marmalade - I See The Rain.flac
+3557 - Grapefruit - Deep Water.flac
+3558 - Kc & The Sunshine Band - I'm Your Boogie Man.flac
+3559 - Major Lazer X Dj Snake Feat. Mø - Lean On.flac
+3560 - Sandra Kim - J'aime La Vie.flac
+3561 - Beyoncé - Run The World (Girls).flac
+3562 - Luisa Fernandez - Lay Love On You.flac
+3563 - Whitney Houston - All At Once.flac
+3564 - Chef'special - Try Again.flac
+3565 - Madonna - Open Your Heart.flac
+3566 - Who - Behind Blue Eyes.flac
+3567 - Brooke Fraser - Something In The Water.flac
+3568 - Cock Robin - Thought You Were On My Side.flac
+3569 - Henk Wijngaard - Met De Vlam In De Pijp.flac
+3570 - Robbie Williams - Morning Sun.flac
+3571 - Greatest Show On Earth - Real Cool World.flac
+3572 - Carl Douglas - Kung Fu Fighting.flac
+3573 - Bobby Mcferrin - Don't Worry, Be Happy.flac
+3574 - Shakira - Underneath Your Clothes.flac
+3575 - Diana Ross - Why Do Fools Fall In Love.flac
+3576 - Queens Of The Stone Age - I Sat By The Ocean.flac
+3577 - Tommy Roe - Sheila.flac
+3578 - Nik Kershaw - I Won't Let The Sun Go Down On Me.flac
+3579 - Spandau Ballet - Only When You Leave.flac
+3580 - Bløf - Dichterbij Dan Ooit.flac
+3581 - Thirty Seconds To Mars - Kings And Queens.flac
+3582 - Surfers - Windsurfing.flac
+3583 - Captain & Tennille - Do That To Me One More Time.flac
+3584 - Kayak - Lyrics.flac
+3585 - Mouth & Macneal - Ik Zie Een Ster.flac
+3586 - Gerhard Wendland - Tanze Mit Mir In Den Morgen.flac
+3587 - Rose Royce - Wishing On A Star.flac
+3588 - Golden Earring - Hold Me Now.flac
+3589 - Alizée - Moi... Lolita.flac
+3590 - Billy Idol - White Wedding.flac
+3591 - Leon De Graaff - Pittsburgh In The Rain.flac
+3592 - Pretenders - Back On The Chain Gang.flac
+3593 - Survivor - Burning Heart.flac
+3594 - Eminem - Cleanin' Out My Closet.flac
+3595 - Live - Selling The Drama.flac
+3596 - Move - Flowers In The Rain.flac
+3597 - Florence + the Machine - Dog Days Are Over.flac
+3598 - Maywood - Rio.flac
+3599 - James Blunt - Stay The Night.flac
+3600 - Imagination - Just An Illusion.flac
+3601 - Enrique Iglesias & Whitney Houston - Could I Have This Kiss Forever.flac
+3602 - Jacques Brel - Le Moribond.flac
+3603 - Ray Charles - Hit The Road Jack.flac
+3604 - Led Zeppelin - Black Dog.flac
+3605 - Golden Earring - Holy Holy Life.flac
+3606 - Wax - Bridge To Your Heart.flac
+3607 - Dave Dee, Dozy, Beaky, Mick & Tich - Don Juan.flac
+3608 - Dua Lipa - Be The One.flac
+3609 - 10cc - Feel The Love.flac
+3610 - Offspring - Pretty Fly (For A White Guy).flac
+3611 - Bolland & Bolland - You're In The Army Now.flac
+3612 - Gloria Gaynor - Never Can Say Goodbye.flac
+3613 - Third World - Try Jah Love.flac
+3614 - Arcade Fire - We Used To Wait.flac
+3615 - Harold Faltermeyer - Axel F.flac
+3616 - Ray Conniff - Harmony.flac
+3617 - Smokie - Needles And Pins.flac
+3618 - Van Dik Hout - Wanhoop Niet.flac
+3619 - Ilse Delange - Winter Of Love.flac
+3620 - Racing Cars - They Shoot Horses Don't They.flac
+3621 - Danyel Gérard - Butterfly.flac
+3622 - U2 - Elevation.flac
+3623 - Ro-D-Ys - Just Fancy.flac
+3624 - Billy Ocean - Loverboy.flac
+3625 - John Waite - Missing You.flac
+3626 - Room Eleven - Hey Hey Hey.flac
+3627 - Tommy Dorsey & Sentimentalists - On The Sunny Side Of The Street.flac
+3628 - Triumvirat - Waterfall.flac
+3629 - Stampeders - Hit The Road Jack.flac
+3630 - Four Tops - Bernadette.flac
+3631 - Cher - Gypsys, Tramps & Thieves.flac
+3632 - Consortium - All The Love In The World.flac
+3633 - Big Wheel - If I Stay Too Long.flac
+3634 - Kids From Fame - Starmaker.flac
+3635 - Robert Cray Band - Don't Be Afraid Of The Dark.flac
+3636 - Rod Stewart - Baby Jane.flac
+3637 - Soulsister - The Way To Your Heart.flac
+3638 - Coldplay - Politik.flac
+3639 - Benny Neyman - Ik Weet Niet Hoe.flac
+3640 - Jeff Beck - Hi Ho Silver Lining.flac
+3641 - Lionel Richie - My Destiny.flac
+3642 - Nick & Thomas - Sterker Nu Dan Ooit.flac
+3643 - Hollies - Sorry Suzanne.flac
+3644 - Laid Back - Sunshine Reggae.flac
+3645 - Golden Earring - Dong-Dong-Di-Ki-Di-Gi-Dong.flac
+3646 - J. Vincent Edwards - Thanks.flac
+3647 - James Blunt - Wisemen.flac
+3648 - Script - If You Ever Come Back.flac
+3649 - Bangles - A Hazy Shade Of Winter.flac
+3650 - Beach Boys - Cottonfields.flac
+3651 - Jim Reeves - Adios Amigo.flac
+3652 - Tom Jones & Art Of Noise - Kiss.flac
+3653 - Golden Earring - Sleep Walkin'.flac
+3654 - Chemical Brothers - Hey Boy Hey Girl.flac
+3655 - Omi - Cheerleader.flac
+3656 - Jessie J - Price Tag.flac
+3657 - Clash - The Magnificent Seven.flac
+3658 - Cat Stevens - Banapple Gas.flac
+3659 - Carpenters - I Won't Last A Day Without You.flac
+3660 - Bay City Rollers - Saturday Night.flac
+3661 - Starship - Nothing's Gonna Stop Us Now.flac
+3662 - Elbow - Grounds For Divorce.flac
+3663 - Fun. - We Are Young.flac
+3664 - Umberto Tozzi - Ti Amo.flac
+3665 - Colin Blunstone & Dave Stewart - What Becomes Of The Broken Hearted.flac
+3666 - Latin Quarter - Radio Africa.flac
+3667 - Elton John - Border Song.flac
+3668 - Jerry Lee Lewis - Whole Lotta Shakin' Going On.flac
+3669 - Johan - Tumble And Fall.flac
+3670 - Maureen Mcgovern - The Morning After.flac
+3671 - Kanye West - Niggas In Paris.flac
+3672 - Max Werner - Rain In May.flac
+3673 - Kooks - She Moves In Her Own Way.flac
+3674 - Common Linnets - We Don't Make The Wind Blow.flac
+3675 - Red Box - For America.flac
+3676 - André Van Duin - Doorgaan.flac
+3677 - Brian Hyland - Ginny Come Lately.flac
+3678 - Rick James - Super Freak.flac
+3679 - Ronettes - Be My Baby.flac
+3680 - Shirley Bassey - Something.flac
+3681 - Dean Martin & Helen O'connell - How Do You Like Your Eggs In The Morning.flac
+3682 - Eagles - Busy Being Fabulous.flac
+3683 - David Mcwilliams - Can I Get There By Candlelight.flac
+3684 - Bryan Adams & Melanie C - When You're Gone.flac
+3685 - Diana Ross - Chain Reaction.flac
+3686 - Donovan - Colours.flac
+3687 - Lovin' Spoonful - Rain On The Roof.flac
+3688 - Corrs - Breathless.flac
+3689 - Mccoys - Hang On, Sloopy.flac
+3690 - Axwell & Ingrosso - Sun Is Shining.flac
+3691 - Tom Waits - In The Neighborhood.flac
+3692 - Pretty Things - Don't Bring Me Down.flac
+3693 - Linda, Roos & Jessica - Ademnood.flac
+3694 - Robert Miles - Children.flac
+3695 - Anouk - What Have You Done.flac
+3696 - Coldplay - Hurts Like Heaven.flac
+3697 - Foreigner - Feels Like The First Time.flac
+3698 - Bob Dylan - I Threw It All Away.flac
+3699 - Marty Wilde - Abergaverny.flac
+3700 - Blackstreet Feat. Dr. Dre - No Diggity.flac
+3701 - Umberto Tozzi - Gloria.flac
+3702 - Riccardo Cocciante - Per Lei.flac
+3703 - Slade - How Does It Feel.flac
+3704 - Incognito - Don't You Worry 'bout A Thing.flac
+3705 - Nick & Simon - Ze Lijkt Net Niet Op Jou.flac
+3706 - Roberto Jacketti & The Scooters - I Save The Day.flac
+3707 - Stevie Wonder - Happy Birthday.flac
+3708 - Marilyn Manson - The Beautiful People.flac
+3709 - Smokie - I'll Meet You At Midnight.flac
+3710 - Hedgehoppers Anonymous - It's Good News Week.flac
+3711 - Daryl Hall & John Oates - Kiss On My List.flac
+3712 - Diana Ross - Love Hangover.flac
+3713 - Maywood - Mother How Are You Today.flac
+3714 - Judy Collins - Send In The Clowns.flac
+3715 - Bobby Vinton - Roses Are Red.flac
+3716 - Eddie Howell - Man From Manhattan.flac
+3717 - Kovacs - My Love.flac
+3718 - Paul Anka - Put Your Head On My Shoulder.flac
+3719 - Outkast - Ms. Jackson.flac
+3720 - Marmalade - Ob La Di Ob La Da.flac
+3721 - Ella Fitzgerald - Ev'ry Time We Say Goodbye.flac
+3722 - L.t.d. - Shine On.flac
+3723 - K's Choice - Everything For Free.flac
+3724 - Marco Borsato - Waterkant.flac
+3725 - Prince - The Cross.flac
+3726 - Kalin Twins - When.flac
+3727 - Koos Alberts - Zijn Het Je Ogen.flac
+3728 - Madonna - The Power Of Good-Bye.flac
+3729 - Rolling Stones - Star Star.flac
+3730 - Gibson Brothers - Que Sera Mi Vida.flac
+3731 - Joe Jackson - Slow Song.flac
+3732 - Blue Haze - Smoke Gets In Your Eyes.flac
+3733 - Slik - For Ever And Ever.flac
+3734 - Ian Dury & The Blockheads - Sex & Drugs & Rock & Roll.flac
+3735 - De Staat - The Fantastic Journey Of The Underground Man.flac
+3736 - John Legend - Save Room.flac
+3737 - Stevie Wonder - Yester Me, Yester You, Yesterday.flac
+3738 - Wet Wet Wet - Goodnight Girl.flac
+3739 - Janet Jackson - What Have You Done For Me Lately.flac
+3740 - Peret - Borriquito.flac
+3741 - Swinging Blue Jeans - Hippy Hippy Shake.flac
+3742 - Deodato - Also Sprach Zarathustra.flac
+3743 - El Debarge - Who's Johnny.flac
+3744 - Floaters - Float On.flac
+3745 - Royal Guardsmen - Snoopy Vs. The Red Baron.flac
+3746 - Gino Vannelli - Wild Horses.flac
+3747 - Spooky & Sue - Swinging On A Star.flac
+3748 - Who - A Legal Matter.flac
+3749 - Editors - Ocean Of Night.flac
+3750 - Nick Lowe - I Love The Sound Of Breaking Glass.flac
+3751 - Kooks - Naïve.flac
+3752 - Passe-Partout - De Doodgewoonste Dingen.flac
+3753 - Tony Christie - Is This The Way To Amarillo.flac
+3754 - >>>Within Temptation<<< - In Perfect Harmony.flac
+3755 - L.t.d. - (Every Time I Turn Around) Back In Love Again.flac
+3756 - Curved Air - Back Street Luv.flac
+3757 - Gerard Cox - 1948.flac
+3758 - Michael Jackson - Leave Me Alone.flac
+3759 - José Feliciano - No Dogs Allowed.flac
+3760 - New Seekers - I'd Like To Teach The World To Sing (In Perfect Harmony).flac
+3761 - Georgie Fame & Alan Price - Rosetta.flac
+3762 - Air Bubble - Racing Car.flac
+3763 - André Van Duin - De Tamme Boerenzoon.flac
+3764 - Madonna - Dress You Up.flac
+3765 - Frank Duval - Angel Of Mine.flac
+3766 - Electronica's - De Vogeltjesdans.flac
+3767 - Paolo Conte - Gli Impermeabili.flac
+3768 - Billy Joe Royal - Hush.flac
+3769 - Eruption - I Can't Stand The Rain.flac
+3770 - Edison Lighthouse - Love Grows (Where My Rosemary Goes).flac
+3771 - Laura Jansen - Queen Of Elba.flac
+3772 - Dire Straits - Twisting By The Pool.flac
+3773 - Dusty Springfield - Goin' Back.flac
+3774 - Swedish House Mafia - Don't You Worry Child.flac
+3775 - David Gray - Babylon.flac
+3776 - Moby Grape - It's A Beautiful Day Today.flac
+3777 - Barbra Streisand - Second Hand Rose.flac
+3778 - Bökkers - Iederene Hef Een Reden.flac
+3779 - Hollies - King Midas In Reverse.flac
+3780 - Maria Mena - Just Hold Me.flac
+3781 - Orchestral Manoeuvres In The Dark - (Forever) Live And Die.flac
+3782 - Tina Charles - I Love To Love (But My Baby Loves To Dance).flac
+3783 - Oscar Harris - Try A Little Love.flac
+3784 - Blondie - I'm Gonna Love You Too.flac
+3785 - Avicii - The Days.flac
+3786 - Marlon Roudette - New Age.flac
+3787 - Massada - Latin Dance.flac
+3788 - Los Indios Tabajaras - Maria Elena.flac
+3789 - Little Jimmy Osmond - Long Haired Lover From Liverpool.flac
+3790 - Fats Domino - Margie.flac
+3791 - Paul Anka - Dance On Little Girl.flac
+3792 - Xtc - Senses Working Overtime.flac
+3793 - André Hazes Jr. - Leef.flac
+3794 - Eruption - One Way Ticket (To The Blues).flac
+3795 - Santana & Product Gb - Maria Maria.flac
+3796 - Sting - If You Love Somebody Set Them Free.flac
+3797 - Arlo Guthrie - City Of New Orleans.flac
+3798 - Johnny Tillotson - Poetry In Motion.flac
+3799 - Adriano Celentano - Azzurro.flac
+3800 - Jewel Akens - The Birds And The Bees.flac
+3801 - Jona Lewie - Stop The Cavalry.flac
+3802 - Ed Sheeran - Galway Girl.flac
+3803 - Metallica - The Memory Remains.flac
+3804 - Douwe Bob - Slow Down.flac
+3805 - Jan Smit - Als Je Lacht.flac
+3806 - David Soul - Don't Give Up On Us.flac
+3807 - Toots Thielemans - Bluesette.flac
+3808 - Joe Cocker - Feelin' Alright.flac
+3809 - Young Gun Silver Fox - Long Way Back.flac
+3810 - Mc Hammer - U Can't Touch This.flac
+3811 - Weeknd & Daft Punk - I Feel It Coming.flac
+3812 - Hot Chocolate - You Sexy Thing.flac
+3813 - Lou Rawls - Lady Love.flac
+3814 - Trini Lopez - La Bamba.flac
+3815 - Motions - Why Don't You Take It.flac
+3816 - Paul Mccartney & Wings - Jet.flac
+3817 - Randy Crawford - Almaz.flac
+3818 - Pearl Jam - Oceans.flac
+3819 - U2 - Stay (Faraway, So Close!).flac
+3820 - Mr. Big - Romeo.flac
+3821 - Glen Campbell - Wichita Lineman.flac
+3822 - Indeep - Last Night A D.j. Saved My Life.flac
+3823 - Kane Gang - Closest Thing To Heaven.flac
+3824 - Peabo Bryson & Roberta Flack - Tonight I Celebrate My Love.flac
+3825 - Robert Palmer - Looking For Clues.flac
+3826 - Earth & Fire - Ruby Is The One.flac
+3827 - Neil Diamond - Crunchy Granola Suite.flac
+3828 - Randy Newman - Love Story.flac
+3829 - Stevie Wonder - Don't You Worry 'bout A Thing.flac
+3830 - Michael Kiwanuka - Love And Hate.flac
+3831 - Danny & The Juniors - At The Hop.flac
+3832 - Donna Hightower - If You Hold My Hand.flac
+3833 - Hot Butter - Popcorn.flac
+3834 - Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.flac
+3835 - Rihanna and Kanye West & Paul Mccartney - Fourfiveseconds.flac
+3836 - Frank Boeijen Groep - Linda.flac
+3837 - Maroon 5 - Sugar.flac
+3838 - Kane & Ilse Delange - Before You Let Me Go.flac
+3839 - Calvin Harris - Summer.flac
+3840 - Boudewijn De Groot - Picknick.flac
+3841 - England Dan & John Ford Coley - I'd Really Love To See You Tonight.flac
+3842 - Stylistics - Can't Give You Anything (But My Love).flac
+3843 - Nothing But Thieves - Amsterdam.flac
+3844 - Paul De Leeuw - Voorbij.flac
+3845 - Boney M. - Rasputin.flac
+3846 - Dave Edmunds - I Hear You Knocking.flac
+3847 - Gerard Joling - No More Bolero's.flac
+3848 - John Mayer - Shadow Days.flac
+3849 - Petula Clark - This Is My Song.flac
+3850 - Robbie Williams & Gary Barlow - Shame.flac
+3851 - James Blake - Limit To Your Love.flac
+3852 - Jan Hammer - Crockett's Theme.flac
+3853 - Philip Bailey - Walking On The Chinese Wall.flac
+3854 - Annie Lennox & Al Green - Put A Little Love In Your Heart.flac
+3855 - Rolling Stones - Long Long While.flac
+3856 - Nick & Simon - Vrij.flac
+3857 - Mick Jagger - Memo From Turner.flac
+3858 - Pat Boone - Speedy Gonzales.flac
+3859 - Zucchero Fornaciari - Baila (Sexy Thing).flac
+3860 - Detroit Emeralds - Feel The Need In Me.flac
+3861 - Rumer - Slow.flac
+3862 - Anita Garbo - Miracles.flac
+3863 - Jack Johnson - Upside Down.flac
+3864 - Roxy Music - Virginia Plain.flac
+3865 - Outsiders - Monkey On Your Back.flac
+3866 - Raffaëlla Carrà - A Far L'amore Comincia Tu.flac
+3867 - Neil Diamond - I'm A Believer.flac
+3868 - Everything But The Girl - Missing.flac
+3869 - Kenny Rogers - Coward Of The County.flac
+3870 - Dave Clark Five - Everybody Knows (You Said Goodbye).flac
+3871 - Limahl - The Neverending Story.flac
+3872 - Paul Weller - Wild Wood.flac
+3873 - Dave - Dansez Maintenant.flac
+3874 - Herman's Hermits - There's A Kind Of Hush.flac
+3875 - Massada - Sajang É.flac
+3876 - Tim Buckley - Pleasant Street.flac
+3877 - Alain Clark - Blow Me Away.flac
+3878 - Bertolf - Mary.flac
+3879 - Annie Lennox - No More I Love You's.flac
+3880 - Jacksons - Shake Your Body (Down To The Ground).flac
+3881 - Romantics - Talking In Your Sleep.flac
+3882 - Eddie Floyd - Knock On Wood.flac
+3883 - Kaiser Chiefs - I Predict A Riot.flac
+3884 - Kane - Shot Of A Gun.flac
+3885 - Di-Rect - Inside My Head.flac
+3886 - Lynsey De Paul - Won't Somebody Dance With Me.flac
+3887 - Nirvana - Rape Me.flac
+3888 - Nolan Sisters - I'm In The Mood For Dancing.flac
+3889 - Blue Mink - The Banner Man.flac
+3890 - Jimmy Cliff - Reggae Night.flac
+3891 - Mr. Bloe - Groovin' With Mr. Bloe.flac
+3892 - Bobby Brown - My Prerogative.flac
+3893 - Alphaville - Sounds Like A Melody.flac
+3894 - Stevie Nicks - Stand Back.flac
+3895 - Kevin Ayers - Stranger In Blue Suede Shoes.flac
+3896 - Earth, Wind & Fire - Shining Star.flac
+3897 - Klein Orkest - Laat Mij Maar Alleen.flac
+3898 - Razorlight - America.flac
+3899 - Three Degrees - The Runner.flac
+3900 - Leen Jongewaard & Hetty Blok - M'n Opa.flac
+3901 - Doris Day - A Guy Is A Guy.flac
+3902 - Jumping Jewels - Wheels.flac
+3903 - Bertolf - Another Day.flac
+3904 - Marshall Hain - Dancing In The City.flac
+3905 - Douwe Bob - You Don't Have To Stay.flac
+3906 - Paul Carrack - Dedicated.flac
+3907 - Trinity - 002.345.709 (That's My Number).flac
+3908 - Crystals - Da Doo Ron Ron.flac
+3909 - Julio Iglesias & Willie Nelson - To All The Girls I've Loved Before.flac
+3910 - Marvin Gaye & Kim Weston - It Takes Two.flac
+3911 - Hues Corporation - Rock The Boat.flac
+3912 - José Feliciano - Che Sarà.flac
+3913 - Chicory Tip - Son Of My Father.flac
+3914 - Prince - Alphabet Street.flac
+3915 - Gare Du Nord - Beautiful Day.flac
+3916 - Sister Sledge - We Are Family.flac
+3917 - Mfsb - Tsop (The Sound Of Philadelphia).flac
+3918 - Contours - Do You Love Me.flac
+3919 - People's Choice - Do It Any Way You Wanna.flac
+3920 - Neil Young - Southern Man.flac
+3921 - Piglets - Johnny Reggae.flac
+3922 - Mariah Carey - Without You.flac
+3923 - Paul Mccartney & Michael Jackson - Say Say Say.flac
+3924 - Anouk - Save Me.flac
+3925 - Jessie J - Domino.flac
+3926 - Nathaniel Rateliff & The Night Sweats - S.o.b..flac
+3927 - Ellie Goulding - Love Me Like You Do.flac
+3928 - Prince - I Could Never Take The Place Of Your Man.flac
+3929 - Rubettes - I Can Do It.flac
+3930 - Shakin' Stevens - This Ole House.flac
+3931 - Leif Garrett - I Was Made For Dancin'.flac
+3932 - Toon Hermans - Mien, Waar Is Mijn Feestneus.flac
+3933 - All-4-One - I Swear.flac
+3934 - Nena - Nur Geträumt.flac
+3935 - Red Hot Chili Peppers - Tell Me Baby.flac
+3936 - Anouk - Places To Go.flac
+3937 - Herman's Hermits - I'm Henry The Eighth, I Am.flac
+3938 - Atomic Kitten - Whole Again.flac
+3939 - Barry Manilow - Can't Smile Without You.flac
+3940 - Bill & Buster - Hold On To What You've Got.flac
+3941 - Amy Macdonald - Run.flac
+3942 - Viola Wills - If You Could Read My Mind.flac
+3943 - Pilot - Magic.flac
+3944 - Peaches & Herb - Reunited.flac
+3945 - Deniece Williams - Let's Hear It For The Boy.flac
+3946 - Spargo - Just For You.flac
+3947 - Anastacia - Left Outside Alone.flac
+3948 - Debarge - Rhythm Of The Night.flac
+3949 - Donna Summer - Lady Of The Night.flac
+3950 - Glen Campbell - Rhinestone Cowboy.flac
+3951 - Cilla Black - Love's Just A Broken Heart.flac
+3952 - Janis Ian - The Other Side Of The Sun.flac
+3953 - Beatles - Long Tall Sally.flac
+3954 - Flirtations - Nothing But A Heartache.flac
+3955 - Gavin Degraw - Chariot.flac
+3956 - Gene Pitney - Mecca.flac
+3957 - Jackson Browne - Doctor My Eyes.flac
+3958 - Bob Moore - Mexico.flac
+3959 - Joe Cocker - The Letter.flac
+3960 - Bobby Vinton - Hurt.flac
+3961 - Lace - I'm A Gambler.flac
+3962 - Jonathan Jeremiah - Lost.flac
+3963 - Los Angeles - La Malagueña.flac
+3964 - Mel & Kim - Respectable.flac
+3965 - Sweet Sensation - Sad Sweet Dreamer.flac
+3966 - Pretenders - Hymn To Her.flac
+3967 - Tremeloes - Even The Bad Times Are Good.flac
+3968 - Lou Rawls & Dianne Reeves - Fine Brown Frame.flac
+3969 - Delaney And Bonnie And Friends - Free The People.flac
+3970 - Patsy Gallant - From New York To L.a..flac
+3971 - Power Station - Some Like It Hot.flac
+3972 - Rupert Holmes - Him.flac
+3973 - 2 Brothers On The 4th Floor - Never Alone.flac
+3974 - Maisonettes - Heartache Avenue.flac
+3975 - Martin Garrix & Bebe Rexha - In The Name Of Love.flac
+3976 - Johnny Bristol - Hang On In There Baby.flac
+3977 - Ringo Starr - It Don't Come Easy.flac
+3978 - Cilla Black - You're My World.flac
+3979 - Duffy - Rockferry.flac
+3980 - Monkees - Last Train To Clarksville.flac
+3981 - Sandy Coast - Just A Friend.flac
+3982 - Millie - My Boy Lollipop.flac
+3983 - Paper Lace - The Night Chicago Died.flac
+3984 - Dutch - This Is Welfare.flac
+3985 - Marbles - The Walls Fell Down.flac
+3986 - Marie Osmond - Paper Roses.flac
+3987 - Catherine Ferry - Un, Deux, Trois.flac
+3988 - Florence + the Machine - Ship To Wreck.flac
+3989 - Boz Scaggs - Lowdown.flac
+3990 - Electric Light Orchestra - Rock 'n' Roll Is King.flac
+3991 - Whistling Jack Smith - I Was Kaiser Bill's Batman.flac
+3992 - Peter & Gordon - A World Without Love.flac
+3993 - Roger Miller - King Of The Road.flac
+3994 - Lenny Kravitz - Fly Away.flac
+3995 - Clarence 'frogman' Henry - But I Do.flac
+3996 - Guy Fletcher - Mary In The Morning.flac
+3997 - Tom Petty - I Won't Back Down.flac
+3998 - Weezer - Buddy Holly.flac
+3999 - Jeff Buckley - Last Goodbye.flac
+4000 - John Fred & His Playboy Band - Judy In Disguise (With Glasses).flac
+4001 - Nova - Aurora.flac
+4002 - Jackie Wilson - Reet Petite.flac
+4003 - Kylie Minogue - Can't Get You Out Of My Head.flac
+4004 - Taylor Swift - Love Story.flac
+4005 - Easybeats - Hello, How Are You.flac
+4006 - Journey - Open Arms.flac
+4007 - Eros Ramazzotti - Ma Che Bello Questo Amore.flac
+4008 - Nirvana - All Apologies.flac
+4009 - Unit Four Plus Two - Concrete And Clay.flac
+4010 - Shuffles - Cha-La-La, I Need You.flac
+4011 - Joe South - Games People Play.flac
+4012 - Chris Montez - Let's Dance.flac
+4013 - Boudewijn De Groot - De Nachtwacht.flac
+4014 - Love Unlimited - Walkin' In The Rain With The One I Love.flac
+4015 - Des'ree - Life.flac
+4016 - Joy Division - Atmosphere.flac
+4017 - America - I Need You.flac
+4018 - Art Sullivan & Kiki - Et Si Tu Pars.flac
+4019 - Cornelis Vreeswijk - Bakker De Baksteen.flac
+4020 - Hollies - Carrie-Anne.flac
+4021 - Snow Patrol - Chocolate.flac
+4022 - Sonny & Cher - The Beat Goes On.flac
+4023 - Strawbs - Part Of The Union.flac
+4024 - Bucks Fizz - Making Your Mind Up.flac
+4025 - Diana Ross - When You Tell Me That You Love Me.flac
+4026 - Foxy - Get Off.flac
+4027 - Supremes - Where Did Our Love Go.flac
+4028 - Jeannie C. Riley - Harper Valley P.T.A..flac
+4029 - Trammps - Zing! Went The Strings Of My Heart.flac
+4030 - Axis - Ela Ela.flac
+4031 - Eagles Of Death Metal - Save A Prayer.flac
+4032 - Kid Creole & The Coconuts - Annie, I'm Not Your Daddy.flac
+4033 - Mouth & Macneal - Hello-A.flac
+4034 - Eurythmics - Here Comes The Rain Again.flac
+4035 - Odyssey - Going Back To My Roots.flac
+4036 - Bruce Springsteen - Meeting Across The River.flac
+4037 - Tears For Fears - Mad World.flac
+4038 - O'jays - I Love Music.flac
+4039 - Lou Rawls - See You When I Get There.flac
+4040 - Marvin Hamlisch - The Entertainer.flac
+4041 - Paul Mccartney - Hope Of Deliverance.flac
+4042 - Jimmy Cliff - Wild World.flac
+4043 - Status Quo - Ice In The Sun.flac
+4044 - James Arthur - Say You Won't Let Go.flac
+4045 - Patricia Paay - Je Bent Niet Hip.flac
+4046 - Rolling Stones - Street Fighting Man.flac
+4047 - John Leyton - Johnny Remember Me.flac
+4048 - Marcia Hines - Many Rivers To Cross.flac
+4049 - Toto - 99.flac
+4050 - Grover Washington Jr. - Just The Two Of Us.flac
+4051 - Marilyn Martin - Move Closer.flac
+4052 - Pulp - Common People.flac
+4053 - R. Dean Taylor - Gotta See Jane.flac
+4054 - Ray Stevens - Bridget The Midget (The Queen Of The Blues).flac
+4055 - Johnny Mathis & Deniece Williams - Too Much, Too Little, Too Late.flac
+4056 - Visage - Fade To Grey.flac
+4057 - Commodores - Sail On.flac
+4058 - Flirtations - Someone Out There.flac
+4059 - Johnny Kidd And The Pirates - Shakin' All Over.flac
+4060 - Queens Of The Stone Age - Make It Wit Chu.flac
+4061 - Ventures - Walk, Don't Run.flac
+4062 - Wilson Pickett - Land Of Thousand Dances.flac
+4063 - Echo & The Bunnymen - The Killing Moon.flac
+4064 - Wally Tax - Let's Dance.flac
+4065 - Acda & De Munnik - Dag Esmee.flac
+4066 - Bonnie Tyler - Lost In France.flac
+4067 - Roger Daltrey - Say It Ain't So, Joe.flac
+4068 - Pet Shop Boys - Always On My Mind.flac
+4069 - Cashmere - Love's What I Want.flac
+4070 - Laura Jansen - Single Girls.flac
+4071 - Dr. Hook - Sharing The Night Together.flac
+4072 - Neil Sedaka - Breaking Up Is Hard To Do.flac
+4073 - Shocking Blue - Mighty Joe.flac
+4074 - Pussycat - My Broken Souvenirs.flac
+4075 - Timmy Thomas - Why Can't We Live Together.flac
+4076 - Jack Jersey - In The Still Of The Night.flac
+4077 - Armin Van Buuren Ft. Josh Cumbee - Sunny Days.flac
+4078 - Cunningham - Norma Jean Wants To Be A Moviestar.flac
+4079 - Love Affair - Rainbow Valley.flac
+4080 - Skylark - Wildflower.flac
+4081 - Mcguinness Flint - When I'm Dead And Gone.flac
+4082 - Script - Nothing.flac
+4083 - Dionne Warwick - All The Love In The World.flac
+4084 - Laura Branigan - Self Control.flac
+4085 - Frankie Miller - Darling.flac
+4086 - Jermaine Jackson - Do What You Do.flac
+4087 - Cure - Lovesong.flac
+4088 - Jimmy Ruffin - What Becomes Of The Brokenhearted.flac
+4089 - Freddy Cannon - Tallahassee Lassie.flac
+4090 - Richard Barnes - Take To The Mountains.flac
+4091 - C.C.S. - Tap Turns On The Water.flac
+4092 - Full House - Standing On The Inside.flac
+4093 - Lucille Starr - Colinda.flac
+4094 - Jett Rebel - Tonight.flac
+4095 - Noel Harrison - The Windmills Of Your Mind.flac
+4096 - Carlos Santana & Willie Nelson - They All Went To Mexico.flac
+4097 - Ray Parker Jr. - Ghostbusters.flac
+4098 - Caro Emerald - Tangled Up.flac
+4099 - Michael Zager Band - Let's All Chant.flac
+4100 - Pasadenas - Tribute (Right On).flac
+4101 - King Curtis & Kingpins - Memphis Soul Stew.flac
+4102 - Rihanna - Man Down.flac
+4103 - Stephanie Mills - Never Knew Love Like This Before.flac
+4104 - Steve Winwood - Higher Love.flac
+4105 - Gibson Brothers - Non-Stop Dance.flac
+4106 - Moses - We Just.flac
+4107 - Lionel Richie - Penny Lover.flac
+4108 - Los Incas - El Cóndor Pasa.flac
+4109 - Veronica Unlimited - What Kind Of Dance Is This.flac
+4110 - Rod Stewart - Hot Legs.flac
+4111 - Roger Whittaker - New World In The Morning.flac
+4112 - David Bowie - Blue Jean.flac
+4113 - Guus Meeuwis - Het Kan Hier Zo Mooi Zijn.flac
+4114 - Marmalade - Rainbow.flac
+4115 - Rubettes - You're The Reason Why.flac
+4116 - Huey Lewis & The News - Stuck With You.flac
+4117 - Afric Simone - Ramaya.flac
+4118 - Kaleo - Way Down We Go.flac
+4119 - Temptations - Treat Her Like A Lady.flac
+4120 - Margaret Singana - We Are Growing (Shaka Zulu).flac
+4121 - David Guetta & Kelly Rowland - When Love Takes Over.flac
+4122 - Moments & Whatnauts - Girls.flac
+4123 - Tavares - Don't Take Away The Music.flac
+4124 - Coasters - Yakety Yak.flac
+4125 - Shakatak - Down On The Street.flac
+4126 - Tanita Tikaram - Good Tradition.flac
+4127 - Guys 'n' Dolls - There's A Whole Lot Of Loving.flac
+4128 - Shangri-Las - Leader Of The Pack.flac
+4129 - Conny Vandenbos - Ik Ben Gelukkig Zonder Jou.flac
+4130 - Foundations - Baby, Now That I've Found You.flac
+4131 - Lemon Pipers - Green Tambourine.flac
+4132 - Simply Red - Stay.flac
+4133 - Sue Thompson - Norman.flac
+4134 - Wham! - I'm Your Man.flac
+4135 - Donovan - Mellow Yellow.flac
+4136 - Don Partridge - Rosie.flac
+4137 - Mary Wells - My Guy.flac
+4138 - Wham! - Club Tropicana.flac
+4139 - Goldie - Making Up Again.flac
+4140 - Electric Light Orchestra - Evil Woman.flac
+4141 - Johnny Hates Jazz - Turn Back The Clock.flac
+4142 - Joy Division - Transmission.flac
+4143 - Vicki Sue Robinson - Turn The Beat Around.flac
+4144 - Britney Spears - ...baby One More Time.flac
+4145 - Owen Paul - My Favourite Waste Of Time.flac
+4146 - Simply Red - So Not Over You.flac
+4147 - Eagles - I Can't Tell You Why.flac
+4148 - Little Peggy March - I Will Follow Him.flac
+4149 - Dusty Springfield - The Look Of Love.flac
+4150 - Harold Melvin & The Blue Notes - Don't Leave Me This Way.flac
+4151 - Engelbert Humperdinck - A Man Without Love.flac
+4152 - Tina Turner & Rod Stewart - It Takes Two.flac
+4153 - Goombay Dance Band - Sun Of Jamaica.flac
+4154 - Roland Kaiser - Santa Maria.flac
+4155 - Robin S - Show Me Love.flac
+4156 - Adam Lambert - Ghost Town.flac
+4157 - Mindbenders - A Groovy Kind Of Love.flac
+4158 - Jason Mraz - Butterfly.flac
+4159 - Raymond Van Het Groenewoud - Chachacha.flac
+4160 - Donovan - Sunshine Superman.flac
+4161 - Lovin' Spoonful - Daydream.flac
+4162 - Giorgio Moroder & Phil Oakey - Together In Electric Dreams.flac
+4163 - Gerry & The Pacemakers - How Do You Do It.flac
+4164 - Jim Gilstrap - Swing Your Daddy.flac
+4165 - Lp - Lost On You.flac
+4166 - Script - Millionaires.flac
+4167 - Shirelles - Will You Love Me Tomorrow.flac
+4168 - Boris Gardner - I Want To Wake Up With You.flac
+4169 - Fred Neil - The Dolphins.flac
+4170 - Jesse Green - Nice And Slow.flac
+4171 - Monkees - A Little Bit Me, A Little Bit You.flac
+4172 - Pia Douwes - Mijn Leven Is Van Mij.flac
+4173 - Brian Hyland - Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini.flac
+4174 - Eddie Money - Baby Hold On.flac
+4175 - Rod Stewart - The Killing Of Georgie (Part I & Ii).flac
+4176 - Chuck Berry - Come On.flac
+4177 - Freddy Fender - Before The Next Teardrop Falls.flac
+4178 - Kool & The Gang - Joanna.flac
+4179 - Little Steven & Disciples Of Soul - Bitter Fruit.flac
+4180 - Janis Joplin - Try (Just A Little Bit Harder).flac
+4181 - Tavares - More Than A Woman.flac
+4182 - Bee Gees - Spirits (Having Flown).flac
+4183 - Jamiroquai - Too Young To Die.flac
+4184 - Ben Saunders - Kill For A Broken Heart.flac
+4185 - Delegation - Put A Little Love On Me.flac
+4186 - Santabárbara - Charly.flac
+4187 - Orleans - Dance With Me.flac
+4188 - Shawn Elliott - Shame And Scandal In The Family.flac
+4189 - Etta James - I Just Want To Make Love To You.flac
+4190 - Ilse Delange - I Love You.flac
+4191 - Baz Luhrmann - Everybody's Free (To Wear Sunscreen).flac
+4192 - Curiosity Killed The Cat - Down To Earth.flac
+4193 - Kenny Rogers & Sheena Easton - We've Got Tonight.flac
+4194 - Five Americans - Western Union.flac
+4195 - Krystl - Golden Days.flac
+4196 - Georgie Fame - Yeh Yeh.flac
+4197 - Jim Croce - You Don't Mess Around With Jim.flac
+4198 - Chic - Good Times.flac
+4199 - Rita Coolidge - We're All Alone.flac
+4200 - Chas & Dave - Ain't No Pleasing You.flac
+4201 - Peter Frampton - Baby, I Love Your Way.flac
+4202 - Bette Midler - To Deserve You.flac
+4203 - Billy J. Kramer With The Dakotas - Bad To Me.flac
+4204 - Guy Mitchell - Heartaches By The Number.flac
+4205 - 10cc - Silly Love.flac
+4206 - Fleetwood Mac - Black Magic Woman.flac
+4207 - Gloria Gaynor - Reach Out I'll Be There.flac
+4208 - Greyhound - Black And White.flac
+4209 - Incrowd - I'll Be Free.flac
+4210 - Kt Tunstall - Suddenly I See.flac
+4211 - Stories - Brother Louie.flac
+4212 - Freddie & The Dreamers - I'm Telling You Now.flac
+4213 - Love Unlimited Orchestra - Love's Theme.flac
+4214 - Chi-Lites - Have You Seen Her.flac
+4215 - Imaani - Where Are You.flac
+4216 - Nick Mackenzie - Hello, Good Morning.flac
+4217 - Danny Mirror - I Remember Elvis Presley.flac
+4218 - Shania Twain - That Don't Impress Me Much.flac
+4219 - Anastacia - Paid My Dues.flac
+4220 - Argent - Hold Your Head Up.flac
+4221 - Blondie - Hanging On The Telephone.flac
+4222 - Patti Austin & James Ingram - Baby, Come To Me.flac
+4223 - Train Ft. Ashley Monroe - Bruises.flac
+4224 - Robbie Williams - Eternity.flac
+4225 - Jack Jersey - Papa Was A Poor Man.flac
+4226 - Ocean - Put Your Hand In The Hand.flac
+4227 - Jason Donovan - Too Many Broken Hearts.flac
+4228 - Maxine Nightingale - Right Back Where We Started From.flac
+4229 - Vaya Con Dios - Heading For A Fall.flac
+4230 - Harold Melvin & The Blue Notes - Satisfaction Guaranteed (Or Take Your Love Back).flac
+4231 - Kinks - Where Have All The Good Times Gone.flac
+4232 - Michael Nesmith & First National Band - Silver Moon.flac
+4233 - Tenpole Tudor - Wünderbar.flac
+4234 - Alan Price Set - Simon Smith And His Amazing Dancing Bear.flac
+4235 - Paul Da Vinci - Your Baby Ain't Your Baby Anymore.flac
+4236 - Doors - The Crystal Ship.flac
+4237 - Paco - Amor De Mis Amores.flac
+4238 - Phil Collins - That's Just The Way It Is.flac
+4239 - Bar-Kays - Soul Finger.flac
+4240 - Bread - Everything I Own.flac
+4241 - Imagination - Body Talk.flac
+4242 - Drifters - Up On The Roof.flac
+4243 - Jimmy 'bo' Horne - Dance Across The Floor.flac
+4244 - Ray Charles - Here We Go Again.flac
+4245 - Johnny Nash - Tears On My Pillow.flac
+4246 - Kincade - Dreams Are Ten A Penny.flac
+4247 - Engelbert Humperdinck - There Goes My Everything.flac
+4248 - Move - Fire Brigade.flac
+4249 - Portugal. The Man - Feel It Still.flac
+4250 - Alan Price Set - The House That Jack Built.flac
+4251 - Propaganda - Pmachinery.flac
+4252 - Chiffons - He's So Fine.flac
+4253 - Peter & Gordon - To Know You Is To Love You.flac
+4254 - Tony Ronald - Help (Get Me Some Help).flac
+4255 - Dave Dee, Dozy, Beaky, Mick & Tich - Hold Tight.flac
+4256 - Herman Brood & His Wild Romance - I Love You Like I Love Myself.flac
+4257 - New Vaudeville Band - Winchester Cathedral.flac
+4258 - Frank Ifield - I Remember You.flac
+4259 - Katy Perry Ft. Skip Marley - Chained To The Rhythm.flac
+4260 - Kool & The Gang - Fresh.flac
+4261 - Lou Christie - I'm Gonna Make You Mine.flac
+4262 - Rod Stewart - You Wear It Well.flac
+4263 - Björk - Human Behaviour.flac
+4264 - Sammy Davis Jr. - The Candy Man.flac
+4265 - Robbie Williams - You Know Me.flac
+4266 - Eddy Grant - I Don't Wanna Dance.flac
+4267 - Jennifer Paige - Crush.flac
+4268 - Kate Bush - Them Heavy People.flac
+4269 - Natasha Bedingfield - Unwritten.flac
+4270 - Time Bandits - Listen To The Man With The Golden Voice.flac
+4271 - Bobby Rydell - Loop De Loop.flac
+4272 - James & Bobby Purify - I'm Your Puppet.flac
+4273 - Billy Preston & Syreeta - It Will Come In Time.flac
+4274 - Mary Hopkin - Knock, Knock Who's There.flac
+4275 - Gudrun Jankis - Let Kiss.flac
+4276 - Byrds - All I Really Want To Do.flac
+4277 - Three Dog Night - Mama Told Me Not To Come.flac
+4278 - Herman's Hermits - A Must To Avoid.flac
+4279 - Stephen Bishop - On And On.flac
+4280 - Tracy Chapman - Baby Can I Hold You.flac
+4281 - Milky Chance - Stolen Dance.flac
+4282 - Neil Sedaka - One Way Ticket.flac
+4283 - Imagine Dragons - Whatever It Takes.flac
+4284 - Mr. Acker Bilk - Stranger On The Shore.flac
+4285 - Robert Palmer - Riptide.flac
+4286 - Nat King Cole - Those Lazy-Hazy-Crazy Days Of Summer.flac
+4287 - Leann Rimes - How Do I Live.flac
+4288 - Orleans - Still The One.flac
+4289 - Tina Turner - Let's Stay Together.flac
+4290 - Di-Rect - This Is Who We Are.flac
+4291 - Firefall - Strange Way.flac
+4292 - Georgie Fame - The Ballad Of Bonnie And Clyde.flac
+4293 - Weeknd - Can't Feel My Face.flac
+4294 - Four Aces - Tell Me Why.flac
+4295 - Paul Jones - Bad Bad Boy.flac
+4296 - Billy Preston - That's The Way God Planned It.flac
+4297 - Bryan Adams, Rod Stewart, Sting - All For Love.flac
+4298 - Dave Clark Five - Bits And Pieces.flac
+4299 - Candlewick Green - Who Do You Think You Are.flac
+4300 - Herb Alpert & The Tijuana Brass - Bittersweet Samba.flac
+4301 - Beatles - Don't Let Me Down.flac
+4302 - Billy Ocean - Love Really Hurts Without You.flac
+4303 - Matt Bianco - Whose Side Are You On.flac
+4304 - Nino Ferrer - Agata.flac
+4305 - Space Monkey - Can't Stop Running.flac
+4306 - Take That - Patience.flac
+4307 - Depeche Mode - Somebody.flac
+4308 - Miley Cyrus - Wrecking Ball.flac
+4309 - Move - I Can Hear The Grass Grow.flac
+4310 - P!nk - Sober.flac
+4311 - Toto Cutugno - L'italiano.flac
+4312 - Natalie Cole - Miss You Like Crazy.flac
+4313 - Keane - Is It Any Wonder.flac
+4314 - Kim Carnes - The Universal Song.flac
+4315 - Sheila & Black Devotion - Singin' In The Rain.flac
+4316 - Spin Doctors - Two Princes.flac
+4317 - Jackie Deshannon - When You Walk In The Room.flac
+4318 - Jimmy Fontana - Il Mondo.flac
+4319 - Joey Dee And The Starliters - Ya Ya.flac
+4320 - Mac & Katie Kissoon - I've Found My Freedom.flac
+4321 - Dandy Warhols - Bohemian Like You.flac
