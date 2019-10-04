@@ -24,8 +24,8 @@ def print_tracks(tracks):
 
 plex = PlexServer(plexurl, token)
 
-#bestand_in = r"./lijst.txt"
-bestand_in = r"./npo5-week70.txt"
+
+bestand_in = r"./npo5-week80.txt"
 counter = 0
 
 with open(bestand_in, "r") as f:
@@ -38,7 +38,7 @@ for song in songs:
     #pos2 = song.rfind("(")     # Zoek eerste ( vanaf de rechterkant
     #positie = song[0:pos1].strip() # Nummer, positie in lijst
     #naam = song[pos1:pos2].strip().split(" - ") # Lijst met titel en artiest
-    naam = song.split(" - ")
+    naam = song.split(" - ", 1)
     #jaar = song[pos2:].strip() # Jaar van de 'song' 
     
     nr_naam = naam[1]
@@ -50,16 +50,21 @@ for song in songs:
     if len(myTracks) == 0:
         myTracks = zoekTracks('QNAPMusic', nr_naam, nr_artiest)
         if len(myTracks) == 0:
-            #print("\tDefinitief niet gevonden: {0} - {1}".format(nr_naam, nr_artiest))
+            print("\tDefinitief niet gevonden: {0} - {1}".format(nr_artiest, nr_naam))
             notFound.append(nr_artiest + " - " + nr_naam)
             continue
    
     plTracks.append(myTracks[0])
 
-for playlist in plex.playlists():
-    if playlist.title == "NPO5 Jaren 70":
-        playlist.addItems(plTracks)
-        print("Playlist aangepast...")
+#for i, track in enumerate(plTracks):
+#    print(i, track)
 
+# Playlist aanpassen
+#for playlist in plex.playlists():
+#    if playlist.title == "NPO5 Jaren 70":
+#        playlist.addItems(plTracks)
+#        print("Playlist aangepast...")
+
+# Playlist aanmaken
 #new_pl = plex.createPlaylist("NPO5 Jaren 70", items=plTracks)
 #print("Playlist created...")

@@ -1,23 +1,26 @@
 import requests
 from bs4 import BeautifulSoup
 
-#url = "https://www.nporadio5.nl/gedraaid?show=112&date=11-04-2019"
-url = "https://www.nporadio5.nl/gedraaid?show=all&date=26-10-2019"
+#url = "https://www.nporadio5.nl/gedraaid?show=all&date=27-09-2019"
+url_base = "https://www.nporadio5.nl/gedraaid?show=all&date="
 
-page = requests.get(url)
-soup = BeautifulSoup(page.text, "html.parser")
+song_80s = []
 
-#print(soup.prettify)
+# Verwerk alle URL's van een week.
+for i in range(23, 28):
+    url = url_base + str(i) + "-09-2019"
 
-artist, titel = [], []
-for h in soup.find('ul', class_="columns-3").parent.find_all('h5'):
-    artist.append(h.text)
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text, "html.parser")
 
-for p in soup.find('ul', class_="columns-3").parent.find_all('p', class_="fn-song"):
-    titel.append(p.text)
+    for a_div in soup.find_all("div", class_="card__content"):
+        artist = a_div.find("p", class_="fn-artist truncate").text
+        song   = a_div.find("p", class_="fn-song truncate").text
+        song_80s.append(f"{artist} - {song}")
 
-print()
-for song in zip(artist, titel):
-    print(song[0], ' - ', song[1])
-
-
+# Haal de dubbele songs eruit.
+seen = []
+for song in sorted(song_80s):
+    if song not in seen:
+        seen.append(song)
+        print(song)
